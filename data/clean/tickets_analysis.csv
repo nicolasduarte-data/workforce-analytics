@@ -1,0 +1,2344 @@
+ticket_id,category,status,open_date,close_date,dept,resolution_days
+TKT-002726,HR Technology,Closed,2025-10-28,2025-12-31,Sales,64
+TKT-002524,Payroll,Closed,2025-01-15,2025-01-20,Engineering,5
+TKT-001696,Payroll,Closed,2025-04-17,2025-05-06,Product,19
+TKT-002713,Payroll,Closed,2025-01-01,2025-01-20,Engineering,19
+TKT-001859,HR Technology,Closed,2025-05-29,2025-08-04,Data,67
+TKT-001681,HR Technology,Closed,2025-03-23,2025-05-26,Engineering,64
+TKT-002712,Learning & Development,Closed,2025-03-29,2025-06-11,Engineering,74
+TKT-000540,Compensation,Closed,2025-12-22,2025-12-31,Executive,9
+TKT-000924,HR Technology,Closed,2025-05-29,2025-06-22,Data,24
+TKT-002297,Payroll,Closed,2025-03-27,2025-03-31,Sales,4
+TKT-002099,HR Technology,Closed,2025-09-09,2025-10-06,Engineering,27
+TKT-002636,Offboarding,Closed,2025-08-10,2025-08-22,Engineering,12
+TKT-000983,Employee Relations,Closed,2025-06-10,2025-06-27,Data,17
+TKT-001480,Policy & Benefits,Closed,2025-05-26,2025-05-30,Product,4
+TKT-001897,Policy & Benefits,Closed,2025-06-10,2025-06-23,Sales,13
+TKT-002746,HR Technology,Closed,2025-03-14,2025-03-28,Customer Success,14
+TKT-002268,HR Technology,Closed,2025-02-07,2025-04-10,Engineering,62
+TKT-002773,Onboarding,Closed,2025-12-23,2025-12-31,HR,8
+TKT-000956,Policy & Benefits,Closed,2025-04-22,2025-04-27,Engineering,5
+TKT-002212,Learning & Development,Closed,2025-10-12,2025-12-20,Engineering,69
+TKT-002151,Compensation,Closed,2025-12-21,2025-12-31,Engineering,10
+TKT-002131,Offboarding,Closed,2025-02-14,2025-03-07,Engineering,21
+TKT-002042,Learning & Development,Closed,2025-07-04,2025-07-26,Customer Success,22
+TKT-002739,HR Technology,Closed,2025-11-23,2025-12-31,Data,38
+TKT-002498,Payroll,Closed,2025-01-28,2025-02-13,Engineering,16
+TKT-002056,Payroll,Closed,2025-08-19,2025-10-02,Engineering,44
+TKT-001532,Learning & Development,Closed,2025-07-30,2025-08-09,Sales,10
+TKT-002731,Payroll,Closed,2025-06-29,2025-07-06,Marketing,7
+TKT-002775,HR Technology,Closed,2025-03-15,2025-05-16,Engineering,62
+TKT-002787,Offboarding,Closed,2025-05-14,2025-05-29,Executive,15
+TKT-002438,Policy & Benefits,Closed,2025-04-01,2025-04-09,Engineering,8
+TKT-002433,Compensation,Closed,2025-06-06,2025-06-28,Customer Success,22
+TKT-002057,Compensation,Closed,2025-03-30,2025-04-16,Data,17
+TKT-001817,Onboarding,Closed,2025-11-02,2025-11-09,Product,7
+TKT-002758,HR Technology,Closed,2025-11-14,2025-12-31,Sales,47
+TKT-002622,Payroll,Closed,2025-06-07,2025-07-04,Sales,27
+TKT-001882,Employee Relations,Closed,2025-08-06,2025-09-26,Product,51
+TKT-002207,Employee Relations,Closed,2025-04-01,2025-04-19,Customer Success,18
+TKT-001212,Learning & Development,Closed,2025-12-12,2025-12-31,Customer Success,19
+TKT-002696,Onboarding,Closed,2025-12-28,2025-12-31,HR,3
+TKT-001773,Compensation,Closed,2025-10-16,2025-11-01,Engineering,16
+TKT-002189,HR Technology,Closed,2025-09-28,2025-11-11,Engineering,44
+TKT-002673,Policy & Benefits,Closed,2025-02-14,2025-03-03,Data,17
+TKT-002574,HR Technology,Closed,2025-10-20,2025-12-23,Sales,64
+TKT-002785,Learning & Development,Closed,2025-02-06,2025-02-13,Marketing,7
+TKT-002585,Onboarding,Closed,2025-09-13,2025-09-19,Engineering,6
+TKT-001865,Payroll,Closed,2025-09-16,2025-09-22,Engineering,6
+TKT-002626,Compensation,Closed,2025-07-24,2025-08-07,Sales,14
+TKT-002550,Payroll,Closed,2025-03-18,2025-04-21,Sales,34
+TKT-002452,Employee Relations,Closed,2025-07-05,2025-08-28,Product,54
+TKT-002618,Offboarding,Closed,2025-01-22,2025-01-30,HR,8
+TKT-000897,Learning & Development,Closed,2025-03-21,2025-04-05,Product,15
+TKT-002177,Payroll,Closed,2025-02-07,2025-03-15,Customer Success,36
+TKT-002115,HR Technology,Closed,2025-09-15,2025-09-23,Customer Success,8
+TKT-001729,Policy & Benefits,Closed,2025-12-30,2025-12-31,Sales,1
+TKT-002644,Compensation,Closed,2025-12-26,2025-12-31,Engineering,5
+TKT-002298,HR Technology,Closed,2025-09-28,2025-10-10,Customer Success,12
+TKT-002781,Policy & Benefits,Closed,2025-02-28,2025-03-15,Customer Success,15
+TKT-002351,Onboarding,Closed,2025-03-07,2025-04-04,Engineering,28
+TKT-002536,Policy & Benefits,Closed,2025-10-01,2025-10-19,Sales,18
+TKT-002114,HR Technology,Closed,2025-05-19,2025-08-20,Customer Success,93
+TKT-002638,HR Technology,Closed,2025-01-22,2025-01-31,Customer Success,9
+TKT-002591,Payroll,Closed,2025-10-26,2025-11-26,Engineering,31
+TKT-002199,Onboarding,Closed,2025-03-11,2025-04-17,Customer Success,37
+TKT-002776,Policy & Benefits,Closed,2025-11-12,2025-11-16,Sales,4
+TKT-002282,Learning & Development,Closed,2025-07-26,2025-08-12,Customer Success,17
+TKT-002800,Learning & Development,Closed,2025-07-03,2025-07-22,Engineering,19
+TKT-002514,Onboarding,Closed,2025-08-30,2025-09-06,Marketing,7
+TKT-002457,Payroll,Closed,2025-09-26,2025-11-18,Engineering,53
+TKT-001968,Compensation,Closed,2025-07-29,2025-09-13,Engineering,46
+TKT-002075,Payroll,Closed,2025-06-09,2025-07-05,Engineering,26
+TKT-002234,Learning & Development,Closed,2025-09-20,2025-11-15,Engineering,56
+TKT-002662,HR Technology,Closed,2025-12-30,2025-12-31,Engineering,1
+TKT-002635,Onboarding,Closed,2025-05-19,2025-06-11,Data,23
+TKT-002388,Policy & Benefits,Closed,2025-12-12,2025-12-14,Finance,2
+TKT-002296,Policy & Benefits,Closed,2025-12-19,2025-12-31,Customer Success,12
+TKT-002742,Offboarding,Closed,2025-05-08,2025-05-15,Product,7
+TKT-001983,Employee Relations,Closed,2025-01-23,2025-02-06,Engineering,14
+TKT-000902,Payroll,Closed,2025-10-27,2025-11-27,Engineering,31
+TKT-002614,Learning & Development,Closed,2025-08-03,2025-08-29,Product,26
+TKT-002537,Policy & Benefits,Closed,2025-01-08,2025-01-20,Engineering,12
+TKT-002521,HR Technology,Closed,2025-02-18,2025-05-18,Engineering,89
+TKT-002440,Learning & Development,Closed,2025-01-27,2025-04-04,Data,67
+TKT-002702,Compensation,Closed,2025-05-02,2025-05-16,Engineering,14
+TKT-002082,Employee Relations,Closed,2025-04-16,2025-04-24,Finance,8
+TKT-002135,Learning & Development,Closed,2025-05-08,2025-06-02,Customer Success,25
+TKT-002774,Learning & Development,Closed,2025-11-28,2025-12-31,Engineering,33
+TKT-002222,Employee Relations,Closed,2025-11-02,2025-11-22,Engineering,20
+TKT-001081,Payroll,Closed,2025-02-01,2025-02-17,Marketing,16
+TKT-002761,Onboarding,Closed,2025-05-05,2025-05-10,Engineering,5
+TKT-001762,Onboarding,Closed,2025-10-15,2025-10-28,Engineering,13
+TKT-002528,Compensation,Closed,2025-01-27,2025-02-08,Sales,12
+TKT-001489,Employee Relations,Closed,2025-01-28,2025-03-23,Data,54
+TKT-002323,Onboarding,Closed,2025-02-08,2025-03-08,Engineering,28
+TKT-002628,HR Technology,Closed,2025-08-14,2025-08-25,Engineering,11
+TKT-000887,Payroll,Closed,2025-10-30,2025-11-18,Product,19
+TKT-002184,HR Technology,Closed,2025-09-06,2025-10-12,Engineering,36
+TKT-002557,Payroll,Closed,2025-08-20,2025-09-27,Customer Success,38
+TKT-002320,HR Technology,Closed,2025-05-28,2025-07-22,Engineering,55
+TKT-002598,Policy & Benefits,Closed,2025-12-05,2025-12-09,Engineering,4
+TKT-002437,Policy & Benefits,Closed,2025-08-31,2025-09-24,Engineering,24
+TKT-002482,Learning & Development,Closed,2025-06-07,2025-06-20,Engineering,13
+TKT-002311,HR Technology,Closed,2025-02-27,2025-03-17,Customer Success,18
+TKT-002568,Employee Relations,Closed,2025-04-13,2025-05-17,Engineering,34
+TKT-001903,HR Technology,Closed,2025-04-08,2025-05-15,Customer Success,37
+TKT-000812,HR Technology,Closed,2025-03-19,2025-07-02,Engineering,105
+TKT-002640,Onboarding,Closed,2025-03-17,2025-03-20,Customer Success,3
+TKT-002505,Payroll,Closed,2025-03-18,2025-04-12,Data,25
+TKT-002384,HR Technology,Closed,2025-02-09,2025-05-09,Data,89
+TKT-000880,HR Technology,Closed,2025-03-21,2025-05-06,Engineering,46
+TKT-002427,Payroll,Closed,2025-09-19,2025-10-21,Engineering,32
+TKT-000381,Offboarding,Closed,2025-04-15,2025-04-29,Customer Success,14
+TKT-001653,Onboarding,Closed,2025-12-09,2025-12-31,Marketing,22
+TKT-001608,Learning & Development,Closed,2025-08-30,2025-09-15,Customer Success,16
+TKT-002516,HR Technology,Closed,2025-11-16,2025-12-31,Engineering,45
+TKT-002540,HR Technology,Closed,2025-12-16,2025-12-31,Customer Success,15
+TKT-002031,Policy & Benefits,Closed,2025-03-19,2025-03-31,Marketing,12
+TKT-002192,Compensation,Closed,2025-01-25,2025-03-14,Sales,48
+TKT-002575,Learning & Development,Closed,2025-05-07,2025-05-15,Sales,8
+TKT-002552,Policy & Benefits,Closed,2025-06-22,2025-06-24,Sales,2
+TKT-002181,Learning & Development,Closed,2025-11-16,2025-12-31,Data,45
+TKT-002364,Onboarding,Closed,2024-12-31,2025-01-05,Engineering,5
+TKT-001372,Policy & Benefits,Closed,2025-10-27,2025-11-01,Sales,5
+TKT-002700,Payroll,Closed,2025-07-27,2025-08-02,Engineering,6
+TKT-002127,Employee Relations,Closed,2025-10-14,2025-11-03,Customer Success,20
+TKT-002420,Onboarding,Closed,2025-01-22,2025-01-30,Data,8
+TKT-002718,HR Technology,Closed,2025-07-22,2025-08-26,Product,35
+TKT-002792,Policy & Benefits,Closed,2025-03-23,2025-03-29,Product,6
+TKT-002294,Payroll,Closed,2025-05-22,2025-05-26,Finance,4
+TKT-002777,Policy & Benefits,Closed,2025-07-01,2025-07-09,Data,8
+TKT-000165,Employee Relations,Closed,2025-05-28,2025-07-17,Data,50
+TKT-001050,Learning & Development,Closed,2025-05-13,2025-05-24,Engineering,11
+TKT-002534,Onboarding,Closed,2025-12-06,2025-12-15,Customer Success,9
+TKT-002098,HR Technology,Closed,2025-06-25,2025-07-23,Customer Success,28
+TKT-002194,Compensation,Closed,2025-06-01,2025-06-13,Engineering,12
+TKT-001823,Onboarding,Closed,2025-02-27,2025-03-03,Engineering,4
+TKT-001694,Learning & Development,Closed,2025-08-29,2025-09-16,Product,18
+TKT-002308,Onboarding,Closed,2025-06-23,2025-07-17,Engineering,24
+TKT-001789,Payroll,Closed,2025-05-07,2025-05-23,Product,16
+TKT-002065,Policy & Benefits,Closed,2024-12-31,2025-01-16,Sales,16
+TKT-002545,Policy & Benefits,Closed,2025-02-27,2025-03-05,Engineering,6
+TKT-002337,HR Technology,Closed,2025-08-15,2025-09-14,Engineering,30
+TKT-002206,Payroll,Closed,2025-03-19,2025-04-01,Engineering,13
+TKT-002372,Payroll,Closed,2025-02-02,2025-02-09,Engineering,7
+TKT-001952,Policy & Benefits,Closed,2025-07-20,2025-07-27,Engineering,7
+TKT-002017,Onboarding,Closed,2025-06-14,2025-07-02,HR,18
+TKT-000906,Onboarding,Closed,2025-07-18,2025-08-05,Engineering,18
+TKT-002314,Employee Relations,Closed,2025-04-26,2025-06-10,Engineering,45
+TKT-002232,Policy & Benefits,Closed,2025-08-07,2025-08-31,Customer Success,24
+TKT-000121,HR Technology,Closed,2025-06-03,2025-08-29,Product,87
+TKT-002223,HR Technology,Closed,2025-01-16,2025-04-04,Customer Success,78
+TKT-002691,Onboarding,Closed,2025-10-05,2025-10-13,Engineering,8
+TKT-002704,Learning & Development,Closed,2025-11-06,2025-11-13,Sales,7
+TKT-002621,HR Technology,Closed,2025-02-22,2025-05-07,Engineering,74
+TKT-002749,HR Technology,Closed,2025-08-29,2025-10-29,Engineering,61
+TKT-002267,Payroll,Closed,2025-03-11,2025-04-11,Sales,31
+TKT-002382,HR Technology,Closed,2025-05-24,2025-08-03,Engineering,71
+TKT-002710,Payroll,Closed,2025-05-15,2025-06-22,Product,38
+TKT-001943,Learning & Development,Closed,2025-08-29,2025-10-05,Product,37
+TKT-002160,Payroll,Closed,2025-05-11,2025-05-14,Sales,3
+TKT-002703,Compensation,Closed,2025-07-22,2025-09-08,Product,48
+TKT-001965,HR Technology,Closed,2025-10-14,2025-11-16,Finance,33
+TKT-002147,HR Technology,Closed,2025-10-15,2025-12-31,Engineering,77
+TKT-002030,Payroll,Closed,2025-03-04,2025-04-30,Engineering,57
+TKT-002706,HR Technology,Closed,2025-04-07,2025-06-12,Sales,66
+TKT-002609,Onboarding,Closed,2025-02-06,2025-02-27,Product,21
+TKT-001517,Payroll,Closed,2025-05-29,2025-06-10,Data,12
+TKT-002798,Payroll,Closed,2025-07-31,2025-08-06,Engineering,6
+TKT-001621,HR Technology,Closed,2025-09-04,2025-12-06,Engineering,93
+TKT-002459,Onboarding,Closed,2025-10-24,2025-11-18,Engineering,25
+TKT-002436,HR Technology,Closed,2025-08-23,2025-09-21,Engineering,29
+TKT-002569,Policy & Benefits,Closed,2025-11-06,2025-11-16,Engineering,10
+TKT-002709,Payroll,Closed,2025-06-01,2025-07-03,Engineering,32
+TKT-001134,Policy & Benefits,Closed,2025-11-24,2025-11-28,Sales,4
+TKT-001336,HR Technology,Closed,2025-11-23,2025-12-29,Engineering,36
+TKT-002395,Onboarding,Closed,2025-06-07,2025-06-13,Finance,6
+TKT-002592,Payroll,Closed,2025-12-21,2025-12-31,Customer Success,10
+TKT-002657,HR Technology,Closed,2025-11-03,2025-12-31,Engineering,58
+TKT-001799,Payroll,Closed,2025-02-20,2025-03-19,Product,27
+TKT-002277,Employee Relations,Closed,2025-08-23,2025-09-20,Engineering,28
+TKT-000545,Employee Relations,Closed,2025-08-25,2025-09-09,Engineering,15
+TKT-002625,Onboarding,Closed,2025-11-11,2025-12-06,Engineering,25
+TKT-002755,Compensation,Closed,2025-09-19,2025-11-03,Sales,45
+TKT-001043,HR Technology,Closed,2025-03-30,2025-06-08,Customer Success,70
+TKT-001924,Policy & Benefits,Closed,2025-11-04,2025-11-17,Sales,13
+TKT-002561,Learning & Development,Closed,2025-02-04,2025-02-25,Engineering,21
+TKT-002674,Offboarding,Closed,2025-05-20,2025-06-11,Customer Success,22
+TKT-002350,Offboarding,Closed,2025-09-05,2025-09-17,Customer Success,12
+TKT-002672,Onboarding,Closed,2025-02-22,2025-02-27,Finance,5
+TKT-002765,Payroll,Closed,2025-11-02,2025-11-08,Sales,6
+TKT-002239,HR Technology,Closed,2025-06-14,2025-07-30,Sales,46
+TKT-002796,HR Technology,Closed,2025-05-14,2025-07-17,Engineering,64
+TKT-002757,Employee Relations,Closed,2025-11-27,2025-12-31,Marketing,34
+TKT-002683,HR Technology,Closed,2025-05-12,2025-06-02,Customer Success,21
+TKT-001639,HR Technology,Closed,2025-08-19,2025-09-29,Sales,41
+TKT-002381,Policy & Benefits,Closed,2025-06-26,2025-06-29,Data,3
+TKT-001457,HR Technology,Closed,2025-11-08,2025-12-17,Sales,39
+TKT-002799,HR Technology,Closed,2025-12-23,2025-12-31,HR,8
+TKT-002229,HR Technology,Closed,2025-09-14,2025-11-09,Engineering,56
+TKT-001763,Policy & Benefits,Closed,2025-01-12,2025-01-21,Engineering,9
+TKT-002604,Payroll,Closed,2025-12-04,2025-12-31,Engineering,27
+TKT-002088,Compensation,Closed,2025-07-01,2025-08-07,Product,37
+TKT-001933,Onboarding,Closed,2025-01-15,2025-02-05,Engineering,21
+TKT-002040,Learning & Development,Closed,2025-10-10,2025-11-20,Sales,41
+TKT-002250,HR Technology,Closed,2025-06-03,2025-08-28,Engineering,86
+TKT-002705,Policy & Benefits,Closed,2025-05-12,2025-06-09,Engineering,28
+TKT-002523,HR Technology,Closed,2025-10-11,2025-11-18,Engineering,38
+TKT-002584,Learning & Development,Closed,2025-03-01,2025-05-06,Customer Success,66
+TKT-002786,Offboarding,Closed,2025-12-23,2025-12-31,Customer Success,8
+TKT-001889,HR Technology,Closed,2025-07-19,2025-07-30,Marketing,11
+TKT-002214,Employee Relations,Closed,2025-12-23,2025-12-31,Engineering,8
+TKT-002330,Compensation,Closed,2025-06-29,2025-08-07,Engineering,39
+TKT-002504,Payroll,Closed,2025-03-06,2025-04-12,Marketing,37
+TKT-002094,Policy & Benefits,Closed,2025-01-15,2025-01-17,Customer Success,2
+TKT-002699,HR Technology,Closed,2025-09-02,2025-11-19,Engineering,78
+TKT-002769,Policy & Benefits,Closed,2025-12-25,2025-12-31,Engineering,6
+TKT-002679,Policy & Benefits,Closed,2025-10-26,2025-11-05,Marketing,10
+TKT-002608,Payroll,Closed,2025-02-15,2025-03-20,Customer Success,33
+TKT-002339,Onboarding,Closed,2025-11-07,2025-11-25,Engineering,18
+TKT-001927,Policy & Benefits,Closed,2025-07-31,2025-08-07,HR,7
+TKT-002678,Onboarding,Closed,2025-03-29,2025-04-14,Customer Success,16
+TKT-002486,HR Technology,Closed,2025-06-03,2025-06-26,Engineering,23
+TKT-002525,HR Technology,Closed,2025-11-24,2025-12-23,Data,29
+TKT-002716,HR Technology,Closed,2025-07-27,2025-09-23,Product,58
+TKT-001971,Payroll,Closed,2025-12-06,2025-12-15,Engineering,9
+TKT-002795,Policy & Benefits,Closed,2025-07-09,2025-07-13,Customer Success,4
+TKT-002475,HR Technology,Closed,2025-11-20,2025-12-31,Customer Success,41
+TKT-002793,HR Technology,Closed,2025-10-10,2025-10-17,Engineering,7
+TKT-001635,Payroll,Closed,2025-12-05,2025-12-14,Data,9
+TKT-002730,Learning & Development,Closed,2025-01-25,2025-02-25,Engineering,31
+TKT-002383,Compensation,Closed,2025-04-16,2025-05-03,Product,17
+TKT-002595,HR Technology,Closed,2025-12-03,2025-12-31,Engineering,28
+TKT-002606,Offboarding,Closed,2025-08-07,2025-09-04,Customer Success,28
+TKT-002458,Employee Relations,Closed,2025-07-11,2025-09-25,Engineering,76
+TKT-002461,Onboarding,Closed,2025-12-15,2025-12-26,Customer Success,11
+TKT-002788,Compensation,Closed,2025-03-04,2025-03-19,Customer Success,15
+TKT-002670,Policy & Benefits,Closed,2025-01-26,2025-02-10,Engineering,15
+TKT-002581,Compensation,Closed,2025-09-16,2025-10-12,Engineering,26
+TKT-002669,Offboarding,Closed,2025-10-11,2025-10-30,Customer Success,19
+TKT-001730,Payroll,Closed,2025-12-12,2025-12-27,Sales,15
+TKT-002133,Learning & Development,Closed,2025-01-25,2025-02-13,Data,19
+TKT-002429,Payroll,Closed,2025-09-19,2025-10-15,Product,26
+TKT-001825,Payroll,Closed,2025-04-13,2025-05-06,Engineering,23
+TKT-002728,Policy & Benefits,Closed,2025-08-28,2025-09-02,Product,5
+TKT-002648,HR Technology,Closed,2025-07-27,2025-11-03,Engineering,99
+TKT-002415,HR Technology,Closed,2025-05-31,2025-09-15,Engineering,107
+TKT-002658,Policy & Benefits,Closed,2025-12-17,2025-12-26,Engineering,9
+TKT-002312,Payroll,Closed,2025-02-06,2025-02-17,Product,11
+TKT-002724,Offboarding,Closed,2025-06-26,2025-07-09,Engineering,13
+TKT-002720,Employee Relations,Closed,2025-08-08,2025-09-12,Customer Success,35
+TKT-001389,Employee Relations,Closed,2025-02-25,2025-03-17,Customer Success,20
+TKT-001996,HR Technology,Closed,2025-08-17,2025-09-27,Customer Success,41
+TKT-002362,Policy & Benefits,Closed,2025-10-23,2025-11-11,Engineering,19
+TKT-002219,Learning & Development,Closed,2024-12-31,2025-01-23,Sales,23
+TKT-001439,Payroll,Closed,2025-01-06,2025-02-16,Product,41
+TKT-002649,Payroll,Closed,2025-12-07,2025-12-27,Engineering,20
+TKT-002366,Payroll,Closed,2025-03-25,2025-04-14,Sales,20
+TKT-002586,Employee Relations,Closed,2025-07-25,2025-09-24,Engineering,61
+TKT-002751,Policy & Benefits,Closed,2025-12-09,2025-12-21,Data,12
+TKT-002667,Compensation,Closed,2025-05-12,2025-06-07,Engineering,26
+TKT-002729,HR Technology,Closed,2025-07-08,2025-08-21,Engineering,44
+TKT-001843,Payroll,Closed,2025-10-27,2025-11-13,Product,17
+TKT-002287,Payroll,Closed,2025-08-05,2025-09-02,Engineering,28
+TKT-002531,HR Technology,Closed,2025-01-10,2025-03-17,Product,66
+TKT-002754,Payroll,Closed,2025-09-01,2025-09-05,Engineering,4
+TKT-002310,Onboarding,Closed,2025-02-09,2025-02-25,Engineering,16
+TKT-002365,Policy & Benefits,Closed,2025-12-31,2025-12-31,Engineering,0
+TKT-002659,Onboarding,Closed,2025-04-23,2025-05-13,Engineering,20
+TKT-001045,Learning & Development,Closed,2025-07-03,2025-08-01,Customer Success,29
+TKT-002242,Policy & Benefits,Closed,2025-05-18,2025-05-22,Customer Success,4
+TKT-002204,Learning & Development,Closed,2025-11-27,2025-12-31,Engineering,34
+TKT-002576,Onboarding,Closed,2025-03-03,2025-03-11,Engineering,8
+TKT-002707,HR Technology,Closed,2025-12-28,2025-12-31,HR,3
+TKT-002753,Learning & Development,Closed,2025-01-11,2025-02-22,Marketing,42
+TKT-000341,Onboarding,Closed,2025-12-12,2025-12-31,Engineering,19
+TKT-002008,HR Technology,Closed,2025-10-20,2025-10-28,Finance,8
+TKT-002734,Employee Relations,Closed,2025-06-14,2025-08-01,Engineering,48
+TKT-001241,HR Technology,Closed,2025-06-11,2025-07-06,Engineering,25
+TKT-002682,Payroll,Closed,2025-06-30,2025-07-30,Customer Success,30
+TKT-002772,Compensation,Closed,2025-03-11,2025-04-06,Data,26
+TKT-002259,Payroll,Closed,2025-05-24,2025-05-31,Sales,7
+TKT-001932,Payroll,Closed,2025-09-13,2025-10-15,Customer Success,32
+TKT-002695,Policy & Benefits,Closed,2025-02-22,2025-03-08,Engineering,14
+TKT-001884,Onboarding,Closed,2025-05-31,2025-06-08,Sales,8
+TKT-001806,Onboarding,Closed,2025-11-17,2025-12-12,Engineering,25
+TKT-002589,Policy & Benefits,Closed,2025-09-12,2025-09-15,Engineering,3
+TKT-002767,Offboarding,Closed,2025-04-05,2025-04-28,Engineering,23
+TKT-002248,Learning & Development,Closed,2025-08-14,2025-08-23,Executive,9
+TKT-002611,Compensation,Closed,2025-03-10,2025-03-21,Engineering,11
+TKT-002520,Payroll,Closed,2025-09-15,2025-09-19,Customer Success,4
+TKT-002768,HR Technology,Closed,2025-12-13,2025-12-31,Customer Success,18
+TKT-002741,Payroll,Closed,2025-07-21,2025-08-06,Customer Success,16
+TKT-002303,Policy & Benefits,Closed,2025-03-23,2025-04-09,Product,17
+TKT-002685,Onboarding,Closed,2025-04-07,2025-04-14,Sales,7
+TKT-002668,Onboarding,Closed,2025-08-16,2025-08-26,Engineering,10
+TKT-002599,Policy & Benefits,Closed,2025-04-27,2025-05-13,Sales,16
+TKT-002652,Offboarding,Closed,2025-01-24,2025-01-26,Product,2
+TKT-002790,HR Technology,Closed,2025-05-23,2025-06-07,Sales,15
+TKT-002723,HR Technology,Closed,2025-06-03,2025-07-10,Engineering,37
+TKT-002509,Compensation,Closed,2025-05-06,2025-05-15,Engineering,9
+TKT-002616,Learning & Development,Closed,2025-02-07,2025-03-20,Marketing,41
+TKT-002423,Payroll,Closed,2025-05-15,2025-07-03,Engineering,49
+TKT-001997,Employee Relations,Closed,2025-03-10,2025-04-29,Product,50
+TKT-001660,Payroll,Closed,2025-03-23,2025-04-27,Sales,35
+TKT-002687,Learning & Development,Closed,2025-03-12,2025-05-11,Sales,60
+TKT-002191,Onboarding,Closed,2025-09-06,2025-09-20,Sales,14
+TKT-002465,Payroll,Closed,2025-07-27,2025-07-30,Sales,3
+TKT-001981,HR Technology,Closed,2025-11-30,2025-12-31,Product,31
+TKT-002473,Offboarding,Closed,2025-03-05,2025-03-17,Engineering,12
+TKT-002735,Policy & Benefits,Closed,2025-05-05,2025-05-10,Engineering,5
+TKT-002394,Payroll,Closed,2025-12-20,2025-12-31,Engineering,11
+TKT-001800,Payroll,Closed,2025-03-06,2025-03-08,Data,2
+TKT-002779,Policy & Benefits,Closed,2025-12-18,2025-12-20,Sales,2
+TKT-002555,Payroll,Closed,2025-10-28,2025-11-01,Product,4
+TKT-001399,HR Technology,Closed,2025-01-03,2025-03-13,Product,69
+TKT-002489,HR Technology,Closed,2025-09-17,2025-11-16,Sales,60
+TKT-002748,Employee Relations,Closed,2025-04-24,2025-05-10,Engineering,16
+TKT-002692,HR Technology,Closed,2025-01-14,2025-05-04,Engineering,110
+TKT-001879,Onboarding,Closed,2025-07-21,2025-08-21,Engineering,31
+TKT-001423,HR Technology,Closed,2025-10-17,2025-11-03,Customer Success,17
+TKT-002596,Onboarding,Closed,2025-12-18,2025-12-29,Engineering,11
+TKT-001456,Learning & Development,Closed,2025-02-05,2025-04-01,Sales,55
+TKT-002580,Learning & Development,Closed,2025-06-06,2025-08-08,Engineering,63
+TKT-000811,Payroll,Closed,2025-02-18,2025-03-16,Engineering,26
+TKT-002494,HR Technology,Closed,2025-02-05,2025-04-27,Sales,81
+TKT-002661,Employee Relations,Closed,2025-06-07,2025-08-06,Data,60
+TKT-002513,Employee Relations,Closed,2025-02-21,2025-04-15,Engineering,53
+TKT-002677,Policy & Benefits,Closed,2025-02-13,2025-02-25,Data,12
+TKT-002051,Onboarding,Closed,2025-08-28,2025-08-31,Customer Success,3
+TKT-001824,Learning & Development,Closed,2025-11-06,2025-12-02,Customer Success,26
+TKT-002493,Learning & Development,Closed,2025-12-24,2025-12-31,Engineering,7
+TKT-002386,HR Technology,Closed,2025-09-23,2025-12-05,Engineering,73
+TKT-002784,Employee Relations,Closed,2025-07-21,2025-09-16,Customer Success,57
+TKT-002563,Compensation,Closed,2025-09-13,2025-09-21,Data,8
+TKT-002744,Learning & Development,Closed,2025-03-11,2025-04-26,Engineering,46
+TKT-002280,Employee Relations,Closed,2025-11-19,2025-12-31,Sales,42
+TKT-002472,Payroll,Closed,2025-11-14,2025-11-18,Engineering,4
+TKT-002745,Employee Relations,Closed,2025-05-17,2025-06-24,Data,38
+TKT-002220,Policy & Benefits,Closed,2025-11-26,2025-12-06,Engineering,10
+TKT-002624,Employee Relations,Closed,2025-02-12,2025-02-18,Finance,6
+TKT-002602,Policy & Benefits,Closed,2025-07-09,2025-07-22,Customer Success,13
+TKT-002740,Learning & Development,Closed,2025-07-18,2025-09-08,Engineering,52
+TKT-002694,Payroll,Closed,2025-04-10,2025-05-17,Engineering,37
+TKT-002680,Onboarding,Closed,2025-02-05,2025-02-18,Finance,13
+TKT-001822,Learning & Development,Closed,2025-03-12,2025-05-07,Engineering,56
+TKT-002632,HR Technology,Closed,2025-12-18,2025-12-31,Data,13
+TKT-001552,Policy & Benefits,Closed,2025-08-18,2025-08-25,Customer Success,7
+TKT-002764,HR Technology,Closed,2025-01-27,2025-04-07,Data,70
+TKT-001404,Learning & Development,Closed,2025-06-18,2025-07-19,Customer Success,31
+TKT-002721,Learning & Development,Closed,2025-03-06,2025-04-07,Engineering,32
+TKT-002507,HR Technology,Closed,2025-04-03,2025-07-10,Customer Success,98
+TKT-002444,Learning & Development,Closed,2025-10-09,2025-10-31,Customer Success,22
+TKT-002708,Offboarding,Closed,2025-07-06,2025-07-19,Engineering,13
+TKT-002654,Payroll,Closed,2025-11-09,2025-12-23,Customer Success,44
+TKT-002488,Payroll,Closed,2025-01-28,2025-02-23,Engineering,26
+TKT-002732,Onboarding,Closed,2025-12-15,2025-12-31,Sales,16
+TKT-002676,Payroll,Closed,2025-02-19,2025-02-24,Customer Success,5
+TKT-002421,Payroll,Closed,2025-12-14,2025-12-27,Engineering,13
+TKT-002375,Payroll,Closed,2025-08-02,2025-09-13,Sales,42
+TKT-002722,Onboarding,Closed,2025-05-29,2025-06-21,Engineering,23
+TKT-001923,Onboarding,Closed,2025-03-29,2025-04-16,Data,18
+TKT-002665,HR Technology,Closed,2025-08-18,2025-09-03,Customer Success,16
+TKT-002646,Policy & Benefits,Closed,2025-01-23,2025-02-03,Product,11
+TKT-002664,Learning & Development,Closed,2025-01-28,2025-04-19,Engineering,81
+TKT-002428,Onboarding,Closed,2025-01-01,2025-01-02,HR,1
+TKT-001990,Policy & Benefits,Closed,2025-02-08,2025-03-01,Engineering,21
+TKT-001873,HR Technology,Closed,2025-05-14,2025-07-09,Engineering,56
+TKT-002251,Learning & Development,Closed,2025-08-10,2025-10-02,Customer Success,53
+TKT-001689,Offboarding,Closed,2025-03-09,2025-03-29,Engineering,20
+TKT-002639,Employee Relations,Closed,2025-04-24,2025-07-01,Engineering,68
+TKT-002629,Onboarding,Closed,2025-09-08,2025-09-22,Engineering,14
+TKT-000362,HR Technology,Closed,2025-03-11,2025-06-17,Customer Success,98
+TKT-002791,HR Technology,Closed,2025-10-30,2025-12-31,Engineering,62
+TKT-002766,HR Technology,Closed,2025-10-31,2025-11-22,Engineering,22
+TKT-002547,Policy & Benefits,Closed,2025-06-20,2025-06-29,Engineering,9
+TKT-001328,HR Technology,Closed,2025-07-28,2025-08-30,Data,33
+TKT-002583,Policy & Benefits,Closed,2025-01-13,2025-01-27,Sales,14
+TKT-002605,Compensation,Closed,2025-12-07,2025-12-31,Marketing,24
+TKT-002387,Compensation,Closed,2025-03-26,2025-03-27,HR,1
+TKT-002747,Policy & Benefits,Closed,2025-03-01,2025-03-11,HR,10
+TKT-002789,HR Technology,Closed,2025-08-25,2025-11-11,Engineering,78
+TKT-002477,Compensation,Closed,2025-01-16,2025-02-15,Engineering,30
+TKT-001044,HR Technology,Closed,2025-04-17,2025-05-25,Engineering,38
+TKT-002719,Payroll,Closed,2025-09-18,2025-10-18,Engineering,30
+TKT-002538,Learning & Development,Closed,2025-02-10,2025-03-12,Product,30
+TKT-002797,Payroll,Closed,2025-12-07,2025-12-31,Sales,24
+TKT-002198,Offboarding,Closed,2025-07-24,2025-08-11,Engineering,18
+TKT-001368,Payroll,Closed,2025-06-24,2025-07-17,Customer Success,23
+TKT-002579,Payroll,Closed,2025-04-21,2025-05-06,HR,15
+TKT-002526,Learning & Development,Closed,2025-08-17,2025-09-20,Product,34
+TKT-002284,Policy & Benefits,Closed,2025-11-26,2025-12-10,Engineering,14
+TKT-002778,Payroll,Closed,2025-09-14,2025-09-19,Engineering,5
+TKT-002448,Learning & Development,Closed,2025-01-23,2025-03-16,Product,52
+TKT-002518,Compensation,Closed,2025-12-18,2025-12-23,Engineering,5
+TKT-002582,Employee Relations,Closed,2025-11-04,2025-12-09,Engineering,35
+TKT-002601,Offboarding,Closed,2025-11-02,2025-11-21,Product,19
+TKT-002324,Payroll,Closed,2025-04-21,2025-05-20,Sales,29
+TKT-001745,Learning & Development,Closed,2025-04-01,2025-05-24,Engineering,53
+TKT-002533,Policy & Benefits,Closed,2025-12-04,2025-12-09,Sales,5
+TKT-002370,Payroll,Closed,2025-06-03,2025-06-06,Sales,3
+TKT-001636,HR Technology,Closed,2025-06-15,2025-09-05,Engineering,82
+TKT-002289,HR Technology,Closed,2025-10-02,2025-10-28,Engineering,26
+TKT-002272,Employee Relations,Closed,2025-10-31,2025-12-15,Marketing,45
+TKT-002032,Onboarding,Closed,2025-12-10,2025-12-31,Data,21
+TKT-002496,HR Technology,Closed,2025-02-04,2025-05-11,Product,96
+TKT-001995,Compensation,Closed,2025-07-30,2025-08-25,Sales,26
+TKT-002612,Policy & Benefits,Closed,2025-08-03,2025-08-09,Data,6
+TKT-001747,Learning & Development,Closed,2025-11-09,2025-11-23,Sales,14
+TKT-002402,Onboarding,Closed,2025-09-02,2025-09-13,Product,11
+TKT-002607,Onboarding,Closed,2025-10-08,2025-10-27,Engineering,19
+TKT-002627,HR Technology,Closed,2025-06-10,2025-08-22,Finance,73
+TKT-001602,Payroll,Closed,2025-10-13,2025-12-06,Sales,54
+TKT-002411,Policy & Benefits,Closed,2025-08-08,2025-08-27,Engineering,19
+TKT-002300,Payroll,Closed,2025-11-04,2025-11-24,Engineering,20
+TKT-001036,Onboarding,Closed,2025-05-31,2025-06-30,Data,30
+TKT-001076,HR Technology,Closed,2025-06-15,2025-09-09,Engineering,86
+TKT-002403,HR Technology,Closed,2025-03-03,2025-03-20,Engineering,17
+TKT-000187,Payroll,Closed,2025-05-01,2025-05-31,Executive,30
+TKT-000713,Learning & Development,Closed,2025-02-03,2025-03-17,Data,42
+TKT-001436,Compensation,Closed,2025-08-30,2025-09-05,Sales,6
+TKT-001911,HR Technology,Closed,2025-12-24,2025-12-31,Engineering,7
+TKT-002195,Onboarding,Closed,2025-01-15,2025-01-21,Engineering,6
+TKT-000515,Onboarding,Closed,2025-09-21,2025-09-28,Data,7
+TKT-001200,HR Technology,Closed,2025-02-14,2025-04-04,Sales,49
+TKT-001807,Policy & Benefits,Closed,2025-09-11,2025-10-01,Customer Success,20
+TKT-001898,Payroll,Closed,2025-11-08,2025-12-14,Engineering,36
+TKT-001644,Policy & Benefits,Closed,2025-12-10,2025-12-15,HR,5
+TKT-000797,Policy & Benefits,Closed,2025-11-17,2025-12-06,Engineering,19
+TKT-002003,Employee Relations,Closed,2025-08-23,2025-10-14,Engineering,52
+TKT-001086,Payroll,Closed,2025-01-17,2025-02-11,Engineering,25
+TKT-001867,Payroll,Closed,2025-09-09,2025-10-08,Engineering,29
+TKT-001820,Offboarding,Closed,2025-07-13,2025-08-04,Customer Success,22
+TKT-002645,HR Technology,Closed,2025-10-09,2025-12-16,Data,68
+TKT-002004,Payroll,Closed,2025-11-12,2025-12-02,Engineering,20
+TKT-000961,HR Technology,Closed,2025-11-24,2025-12-29,Engineering,35
+TKT-000635,Policy & Benefits,Closed,2025-12-06,2025-12-26,Sales,20
+TKT-002615,HR Technology,Closed,2025-06-06,2025-07-27,Marketing,51
+TKT-002660,Learning & Development,Closed,2025-11-01,2025-12-30,Engineering,59
+TKT-001251,Payroll,Closed,2025-04-27,2025-05-13,Executive,16
+TKT-001637,Employee Relations,Closed,2025-04-02,2025-06-10,Engineering,69
+TKT-001772,Employee Relations,Closed,2025-10-08,2025-10-13,Customer Success,5
+TKT-001600,Onboarding,Closed,2025-10-30,2025-11-22,Data,23
+TKT-001519,HR Technology,Closed,2025-05-15,2025-07-01,Product,47
+TKT-001293,Compensation,Closed,2025-06-22,2025-07-21,Sales,29
+TKT-002215,Payroll,Closed,2025-07-23,2025-07-26,Sales,3
+TKT-001753,Policy & Benefits,Closed,2025-12-20,2025-12-23,Product,3
+TKT-001570,Employee Relations,Closed,2025-04-10,2025-06-14,Customer Success,65
+TKT-001169,Payroll,Closed,2025-06-14,2025-07-02,Customer Success,18
+TKT-001954,Learning & Development,Closed,2025-06-12,2025-06-21,HR,9
+TKT-001545,Onboarding,Closed,2025-12-01,2025-12-28,Engineering,27
+TKT-000684,Policy & Benefits,Closed,2025-04-12,2025-04-23,Engineering,11
+TKT-002590,HR Technology,Closed,2025-07-13,2025-08-12,Data,30
+TKT-002126,Payroll,Closed,2025-04-24,2025-06-16,Sales,53
+TKT-002780,HR Technology,Closed,2025-02-20,2025-04-07,Marketing,46
+TKT-002571,HR Technology,Closed,2025-01-21,2025-03-24,Engineering,62
+TKT-001350,Policy & Benefits,Closed,2025-01-24,2025-02-06,Engineering,13
+TKT-002566,Policy & Benefits,Closed,2025-01-20,2025-01-24,Sales,4
+TKT-002327,Compensation,Closed,2025-04-22,2025-05-29,Sales,37
+TKT-002249,Onboarding,Closed,2025-09-12,2025-09-16,Product,4
+TKT-002157,Payroll,Closed,2025-10-06,2025-10-26,HR,20
+TKT-000752,HR Technology,Closed,2025-10-01,2025-11-19,Product,49
+TKT-001567,Learning & Development,Closed,2025-10-07,2025-10-28,Customer Success,21
+TKT-001796,HR Technology,Closed,2025-11-08,2025-12-31,Customer Success,53
+TKT-001569,HR Technology,Closed,2025-08-24,2025-09-29,Sales,36
+TKT-002643,Compensation,Closed,2025-09-19,2025-10-10,Engineering,21
+TKT-002230,Policy & Benefits,Closed,2025-08-17,2025-08-21,Customer Success,4
+TKT-001749,Employee Relations,Closed,2025-01-30,2025-04-02,Customer Success,62
+TKT-002211,Learning & Development,Closed,2025-11-21,2025-12-20,Engineering,29
+TKT-001902,Payroll,Closed,2025-01-07,2025-01-10,Sales,3
+TKT-001939,Employee Relations,Closed,2025-06-05,2025-08-21,Customer Success,77
+TKT-000245,Payroll,Closed,2025-08-10,2025-09-04,Customer Success,25
+TKT-002162,Payroll,Closed,2025-12-13,2025-12-27,Engineering,14
+TKT-001913,Onboarding,Closed,2025-05-10,2025-06-07,Customer Success,28
+TKT-002725,Employee Relations,Closed,2025-01-03,2025-02-21,Sales,49
+TKT-001953,Offboarding,Closed,2025-08-23,2025-08-29,Customer Success,6
+TKT-002681,Payroll,Closed,2025-02-14,2025-03-14,Engineering,28
+TKT-002499,Payroll,Closed,2025-11-07,2025-12-12,Marketing,35
+TKT-002379,Policy & Benefits,Closed,2025-08-15,2025-08-27,Engineering,12
+TKT-001581,Learning & Development,Closed,2025-04-26,2025-05-25,Engineering,29
+TKT-000054,Onboarding,Closed,2025-09-11,2025-10-11,Engineering,30
+TKT-001601,Learning & Development,Closed,2025-04-11,2025-04-25,Engineering,14
+TKT-002551,HR Technology,Closed,2025-07-20,2025-08-23,Engineering,34
+TKT-002617,Compensation,Closed,2025-07-26,2025-08-18,Data,23
+TKT-002257,HR Technology,Closed,2025-02-07,2025-03-18,Finance,39
+TKT-002145,Offboarding,Closed,2025-11-28,2025-12-20,Customer Success,22
+TKT-002663,Payroll,Closed,2025-09-08,2025-09-15,Product,7
+TKT-001580,Compensation,Closed,2025-01-17,2025-02-11,Engineering,25
+TKT-001126,HR Technology,Closed,2025-03-06,2025-04-04,Product,29
+TKT-002410,Payroll,Closed,2025-11-06,2025-12-12,Engineering,36
+TKT-001829,HR Technology,Closed,2025-10-04,2025-11-02,Engineering,29
+TKT-001377,Learning & Development,Closed,2025-11-23,2025-12-28,Data,35
+TKT-002443,Onboarding,Closed,2025-10-06,2025-10-13,Engineering,7
+TKT-001187,Payroll,Closed,2025-06-19,2025-06-27,Finance,8
+TKT-001673,Onboarding,Closed,2025-01-28,2025-01-30,Customer Success,2
+TKT-002701,HR Technology,Closed,2025-11-07,2025-12-31,Engineering,54
+TKT-002217,Learning & Development,Closed,2025-08-09,2025-10-10,Engineering,62
+TKT-000995,HR Technology,Closed,2025-05-09,2025-06-17,Marketing,39
+TKT-002446,Learning & Development,Closed,2025-11-28,2025-12-31,Engineering,33
+TKT-001342,Payroll,Closed,2025-12-28,2025-12-31,Engineering,3
+TKT-002474,HR Technology,Closed,2025-03-29,2025-07-01,Sales,94
+TKT-001228,Payroll,Closed,2025-04-19,2025-05-05,Data,16
+TKT-001928,Policy & Benefits,Closed,2025-04-18,2025-05-13,Engineering,25
+TKT-001782,Employee Relations,Closed,2025-09-12,2025-09-28,Engineering,16
+TKT-000645,Offboarding,Closed,2025-02-14,2025-02-15,Product,1
+TKT-002060,Policy & Benefits,Closed,2025-01-06,2025-02-01,Engineering,26
+TKT-002492,Offboarding,Closed,2025-09-18,2025-09-27,Customer Success,9
+TKT-002093,Payroll,Closed,2025-03-19,2025-04-07,Engineering,19
+TKT-002336,HR Technology,Closed,2025-09-18,2025-10-12,Engineering,24
+TKT-001651,Learning & Development,Closed,2025-12-26,2025-12-31,Engineering,5
+TKT-002112,HR Technology,Closed,2025-04-30,2025-07-16,Engineering,77
+TKT-001830,HR Technology,Closed,2025-11-15,2025-12-31,Customer Success,46
+TKT-002341,Offboarding,Closed,2025-05-19,2025-06-05,Engineering,17
+TKT-001672,Payroll,Closed,2025-08-02,2025-08-26,Customer Success,24
+TKT-000803,Offboarding,Closed,2025-01-11,2025-01-21,Engineering,10
+TKT-002491,Learning & Development,Closed,2025-05-08,2025-06-26,Customer Success,49
+TKT-002393,Employee Relations,Closed,2025-04-09,2025-05-31,Data,52
+TKT-002355,Policy & Benefits,Closed,2025-06-05,2025-06-10,Data,5
+TKT-000356,Payroll,Closed,2025-09-29,2025-10-17,Engineering,18
+TKT-002316,Payroll,Closed,2025-01-11,2025-01-31,Engineering,20
+TKT-000072,Payroll,Closed,2025-10-21,2025-11-25,Customer Success,35
+TKT-001547,Onboarding,Closed,2025-07-25,2025-07-31,Marketing,6
+TKT-000666,Employee Relations,Closed,2025-10-03,2025-12-09,Customer Success,67
+TKT-002481,Payroll,Closed,2025-10-29,2025-11-22,Engineering,24
+TKT-001858,Compensation,Closed,2025-11-10,2025-11-27,Customer Success,17
+TKT-000870,Payroll,Closed,2025-05-05,2025-05-09,Marketing,4
+TKT-002055,Onboarding,Closed,2025-04-10,2025-05-04,Sales,24
+TKT-002140,Onboarding,Closed,2025-03-18,2025-04-12,Sales,25
+TKT-002346,Offboarding,Closed,2025-08-26,2025-09-09,Sales,14
+TKT-002076,Policy & Benefits,Closed,2025-05-14,2025-05-16,Data,2
+TKT-001395,Learning & Development,Closed,2025-04-06,2025-05-14,Engineering,38
+TKT-001224,Payroll,Closed,2025-04-29,2025-06-06,Sales,38
+TKT-002380,Learning & Development,Closed,2025-05-16,2025-06-08,Engineering,23
+TKT-001698,Onboarding,Closed,2025-06-06,2025-06-15,Customer Success,9
+TKT-002196,Employee Relations,Closed,2025-06-23,2025-07-20,Data,27
+TKT-002293,Policy & Benefits,Closed,2025-01-10,2025-01-18,Product,8
+TKT-002770,Learning & Development,Closed,2025-04-09,2025-04-24,Product,15
+TKT-001666,Payroll,Closed,2025-02-23,2025-03-31,Finance,36
+TKT-002637,Offboarding,Closed,2025-10-09,2025-10-26,Data,17
+TKT-000282,HR Technology,Closed,2025-05-20,2025-06-20,Engineering,31
+TKT-001380,HR Technology,Closed,2025-08-21,2025-10-24,Customer Success,64
+TKT-002005,Compensation,Closed,2025-05-27,2025-06-05,Customer Success,9
+TKT-000548,Payroll,Closed,2025-06-15,2025-06-28,Engineering,13
+TKT-001153,Payroll,Closed,2025-04-21,2025-04-29,Engineering,8
+TKT-001010,Policy & Benefits,Closed,2025-09-04,2025-09-12,Product,8
+TKT-002213,Policy & Benefits,Closed,2025-09-21,2025-09-25,Engineering,4
+TKT-001606,Onboarding,Closed,2025-03-27,2025-04-25,Product,29
+TKT-000434,Policy & Benefits,Closed,2025-01-01,2025-01-19,Sales,18
+TKT-002218,HR Technology,Closed,2025-04-21,2025-05-14,Engineering,23
+TKT-002258,Onboarding,Closed,2025-08-04,2025-08-25,Engineering,21
+TKT-002095,Policy & Benefits,Closed,2025-03-06,2025-03-10,Engineering,4
+TKT-002317,Offboarding,Closed,2025-08-25,2025-09-08,Engineering,14
+TKT-001233,Offboarding,Closed,2025-08-29,2025-09-13,Engineering,15
+TKT-001671,Onboarding,Closed,2025-12-24,2025-12-29,HR,5
+TKT-002247,Policy & Benefits,Closed,2025-11-17,2025-12-07,Engineering,20
+TKT-002152,HR Technology,Closed,2025-09-29,2025-11-14,Customer Success,46
+TKT-001775,Payroll,Closed,2025-03-02,2025-03-24,Customer Success,22
+TKT-002587,Payroll,Closed,2025-08-07,2025-08-17,Engineering,10
+TKT-002572,HR Technology,Closed,2025-08-31,2025-12-10,Sales,101
+TKT-001616,Employee Relations,Closed,2025-07-11,2025-07-27,Engineering,16
+TKT-002541,HR Technology,Closed,2025-11-20,2025-12-31,Engineering,41
+TKT-002240,Onboarding,Closed,2025-08-07,2025-08-12,Sales,5
+TKT-000142,Compensation,Closed,2025-08-02,2025-09-09,Engineering,38
+TKT-002295,Policy & Benefits,Closed,2025-07-01,2025-07-06,Product,5
+TKT-001863,Learning & Development,Closed,2025-08-13,2025-09-14,Product,32
+TKT-001774,Policy & Benefits,Closed,2025-01-10,2025-01-13,Sales,3
+TKT-002187,Payroll,Closed,2025-10-21,2025-11-29,Product,39
+TKT-001137,HR Technology,Closed,2025-10-01,2025-11-01,Finance,31
+TKT-001245,Learning & Development,Closed,2025-09-27,2025-10-16,Engineering,19
+TKT-002014,Payroll,Closed,2025-10-23,2025-10-28,Engineering,5
+TKT-001875,Compensation,Closed,2025-03-22,2025-05-06,Sales,45
+TKT-002019,Policy & Benefits,Closed,2025-01-21,2025-02-03,Product,13
+TKT-001352,Offboarding,Closed,2025-06-10,2025-06-16,Data,6
+TKT-002634,HR Technology,Closed,2025-05-13,2025-07-09,Engineering,57
+TKT-001068,Compensation,Closed,2025-03-11,2025-03-24,Engineering,13
+TKT-001121,HR Technology,Closed,2025-09-24,2025-11-27,Engineering,64
+TKT-001740,HR Technology,Closed,2025-07-11,2025-08-23,Engineering,43
+TKT-002519,HR Technology,Closed,2025-10-04,2025-10-17,Engineering,13
+TKT-002377,Payroll,Closed,2025-04-30,2025-05-12,Engineering,12
+TKT-000734,Payroll,Closed,2025-07-08,2025-08-12,Engineering,35
+TKT-002063,Offboarding,Closed,2025-03-20,2025-04-10,Finance,21
+TKT-002573,Payroll,Closed,2025-04-06,2025-05-05,Customer Success,29
+TKT-002418,Payroll,Closed,2025-10-16,2025-10-29,Engineering,13
+TKT-001680,Policy & Benefits,Closed,2025-12-12,2025-12-21,Product,9
+TKT-002096,Compensation,Closed,2025-04-02,2025-04-15,Engineering,13
+TKT-000438,Employee Relations,Closed,2025-04-16,2025-05-24,Engineering,38
+TKT-002288,HR Technology,Closed,2025-04-29,2025-07-08,Engineering,70
+TKT-002693,Payroll,Closed,2025-03-20,2025-03-23,Sales,3
+TKT-001012,Policy & Benefits,Closed,2025-07-07,2025-07-11,Customer Success,4
+TKT-001709,Policy & Benefits,Closed,2025-05-13,2025-05-23,Sales,10
+TKT-002529,Onboarding,Closed,2025-08-11,2025-09-06,Engineering,26
+TKT-002130,Policy & Benefits,Closed,2025-06-04,2025-06-09,Customer Success,5
+TKT-001716,Policy & Benefits,Closed,2025-10-20,2025-10-30,Customer Success,10
+TKT-001841,HR Technology,Closed,2025-01-16,2025-03-31,Finance,74
+TKT-002329,Payroll,Closed,2025-11-06,2025-11-12,Sales,6
+TKT-002146,Payroll,Closed,2025-07-11,2025-07-17,Sales,6
+TKT-002698,HR Technology,Closed,2025-04-28,2025-07-14,Engineering,77
+TKT-002203,Policy & Benefits,Closed,2025-07-20,2025-08-01,Marketing,12
+TKT-002567,Payroll,Closed,2025-01-23,2025-02-08,Customer Success,16
+TKT-000871,Offboarding,Closed,2025-11-12,2025-11-26,Sales,14
+TKT-002113,HR Technology,Closed,2025-01-10,2025-03-06,Data,55
+TKT-000199,Policy & Benefits,Closed,2025-01-16,2025-02-11,Sales,26
+TKT-002562,HR Technology,Closed,2025-05-31,2025-08-04,HR,65
+TKT-001310,Payroll,Closed,2025-03-24,2025-03-30,Engineering,6
+TKT-001634,Policy & Benefits,Closed,2025-11-21,2025-11-24,Engineering,3
+TKT-002449,Policy & Benefits,Closed,2025-06-16,2025-06-21,Engineering,5
+TKT-001664,HR Technology,Closed,2025-06-18,2025-07-26,Product,38
+TKT-001588,Policy & Benefits,Closed,2025-03-01,2025-03-15,Engineering,14
+TKT-001973,HR Technology,Closed,2025-10-30,2025-12-31,Sales,62
+TKT-001202,HR Technology,Closed,2025-07-23,2025-08-20,Engineering,28
+TKT-002570,HR Technology,Closed,2025-07-15,2025-09-08,Engineering,55
+TKT-002048,Payroll,Closed,2025-01-26,2025-02-24,Engineering,29
+TKT-002453,Payroll,Closed,2025-04-13,2025-04-21,Customer Success,8
+TKT-000293,Compensation,Closed,2025-03-05,2025-04-19,Customer Success,45
+TKT-001549,Payroll,Closed,2025-09-26,2025-10-24,Marketing,28
+TKT-000987,HR Technology,Closed,2025-03-18,2025-04-28,Engineering,41
+TKT-002105,Payroll,Closed,2025-06-05,2025-06-21,Engineering,16
+TKT-002466,Employee Relations,Closed,2025-09-28,2025-12-06,Marketing,69
+TKT-002041,HR Technology,Closed,2025-07-06,2025-08-21,Customer Success,46
+TKT-001138,Onboarding,Closed,2025-01-19,2025-01-30,Engineering,11
+TKT-001586,Policy & Benefits,Closed,2025-08-05,2025-08-12,Engineering,7
+TKT-002600,Policy & Benefits,Closed,2025-02-16,2025-02-21,Marketing,5
+TKT-002046,Policy & Benefits,Closed,2025-03-09,2025-03-22,Customer Success,13
+TKT-001925,Compensation,Closed,2025-02-20,2025-03-26,Engineering,34
+TKT-001668,Policy & Benefits,Closed,2025-12-02,2025-12-25,HR,23
+TKT-002558,Offboarding,Closed,2025-05-03,2025-05-11,Customer Success,8
+TKT-002359,Policy & Benefits,Closed,2025-04-02,2025-04-18,Engineering,16
+TKT-001327,Compensation,Closed,2025-04-18,2025-06-04,Data,47
+TKT-002641,Compensation,Closed,2025-04-02,2025-04-15,Product,13
+TKT-001646,Employee Relations,Closed,2025-12-18,2025-12-31,Engineering,13
+TKT-002715,Employee Relations,Closed,2025-12-18,2025-12-31,Customer Success,13
+TKT-002406,Employee Relations,Closed,2025-10-24,2025-12-08,Customer Success,45
+TKT-000013,Onboarding,Closed,2025-08-10,2025-08-16,Engineering,6
+TKT-001008,Learning & Development,Closed,2025-06-02,2025-07-19,Data,47
+TKT-002633,Onboarding,Closed,2025-08-11,2025-09-09,Engineering,29
+TKT-001770,HR Technology,Closed,2025-08-05,2025-09-29,Product,55
+TKT-001918,Policy & Benefits,Closed,2025-09-06,2025-09-08,Engineering,2
+TKT-002353,Payroll,Closed,2025-01-09,2025-01-29,Customer Success,20
+TKT-002396,HR Technology,Closed,2025-09-08,2025-12-15,Engineering,98
+TKT-001752,Employee Relations,Closed,2025-09-23,2025-11-15,Customer Success,53
+TKT-002750,Learning & Development,Closed,2025-06-28,2025-08-02,Customer Success,35
+TKT-002392,HR Technology,Closed,2025-01-25,2025-03-27,Engineering,61
+TKT-001365,Payroll,Closed,2025-11-10,2025-11-29,Engineering,19
+TKT-002542,HR Technology,Closed,2025-03-31,2025-05-27,Customer Success,57
+TKT-001638,Policy & Benefits,Closed,2025-06-10,2025-06-30,Sales,20
+TKT-001950,HR Technology,Closed,2025-10-21,2025-12-31,Data,71
+TKT-001808,Offboarding,Closed,2025-01-17,2025-02-03,Product,17
+TKT-000595,Payroll,Closed,2025-06-10,2025-06-27,Engineering,17
+TKT-002321,Onboarding,Closed,2025-01-13,2025-02-05,Product,23
+TKT-001811,Payroll,Closed,2025-08-21,2025-09-09,Engineering,19
+TKT-001176,Onboarding,Closed,2025-05-24,2025-06-12,Engineering,19
+TKT-002108,Policy & Benefits,Closed,2025-04-25,2025-04-29,Engineering,4
+TKT-000085,Learning & Development,Closed,2025-08-31,2025-09-30,Product,30
+TKT-002335,Payroll,Closed,2025-12-20,2025-12-29,Engineering,9
+TKT-001415,Policy & Benefits,Closed,2025-03-31,2025-04-18,Customer Success,18
+TKT-001256,Onboarding,Closed,2025-06-26,2025-07-12,Customer Success,16
+TKT-001550,Employee Relations,Closed,2025-11-09,2025-12-29,Engineering,50
+TKT-002176,Employee Relations,Closed,2025-10-09,2025-11-01,Sales,23
+TKT-000247,Policy & Benefits,Closed,2025-04-30,2025-05-21,Product,21
+TKT-002532,Offboarding,Closed,2025-03-20,2025-04-06,Engineering,17
+TKT-001795,HR Technology,Closed,2025-02-11,2025-04-20,Sales,68
+TKT-002374,HR Technology,Closed,2025-10-26,2025-12-31,Engineering,66
+TKT-002655,Learning & Development,Closed,2025-03-13,2025-05-04,Data,52
+TKT-002020,Policy & Benefits,Closed,2025-12-26,2025-12-31,Engineering,5
+TKT-001982,HR Technology,Closed,2025-02-18,2025-03-15,Engineering,25
+TKT-001739,Payroll,Closed,2025-05-19,2025-05-23,Product,4
+TKT-001184,Learning & Development,Closed,2025-04-23,2025-07-16,Engineering,84
+TKT-001834,Learning & Development,Closed,2025-08-09,2025-09-16,Product,38
+TKT-001874,Payroll,Closed,2025-07-04,2025-08-05,Engineering,32
+TKT-002243,Compensation,Closed,2025-09-12,2025-10-23,Engineering,41
+TKT-002178,Offboarding,Closed,2025-04-04,2025-04-13,Engineering,9
+TKT-002087,Compensation,Closed,2025-06-27,2025-07-10,Engineering,13
+TKT-000652,Onboarding,Closed,2025-10-10,2025-11-01,Customer Success,22
+TKT-002143,HR Technology,Closed,2025-11-12,2025-11-18,Customer Success,6
+TKT-001907,HR Technology,Closed,2025-09-14,2025-09-21,Engineering,7
+TKT-002549,Learning & Development,Closed,2025-07-10,2025-08-12,Engineering,33
+TKT-002554,Compensation,Closed,2025-02-18,2025-03-25,HR,35
+TKT-001912,Learning & Development,Closed,2025-10-16,2025-11-26,Marketing,41
+TKT-000314,Onboarding,Closed,2025-12-28,2025-12-31,Engineering,3
+TKT-001727,HR Technology,Closed,2025-09-22,2025-12-06,Finance,75
+TKT-002460,Compensation,Closed,2025-05-03,2025-06-06,Engineering,34
+TKT-001017,HR Technology,Closed,2025-01-24,2025-02-17,Engineering,24
+TKT-002515,HR Technology,Closed,2025-04-25,2025-06-04,Customer Success,40
+TKT-001969,Offboarding,Closed,2025-12-18,2025-12-24,Data,6
+TKT-001592,Policy & Benefits,Closed,2025-05-19,2025-06-02,Sales,14
+TKT-001794,Compensation,Closed,2025-08-13,2025-09-22,Customer Success,40
+TKT-001816,HR Technology,Closed,2025-11-15,2025-12-13,Engineering,28
+TKT-001836,Payroll,Closed,2025-09-02,2025-10-08,Sales,36
+TKT-001409,Offboarding,Closed,2025-04-20,2025-05-09,Engineering,19
+TKT-001756,Compensation,Closed,2025-04-21,2025-05-23,Engineering,32
+TKT-000422,HR Technology,Closed,2025-01-27,2025-02-24,Engineering,28
+TKT-001400,HR Technology,Closed,2025-07-27,2025-08-10,Executive,14
+TKT-001809,Learning & Development,Closed,2025-07-26,2025-08-15,Engineering,20
+TKT-002164,Payroll,Closed,2025-03-24,2025-03-29,Customer Success,5
+TKT-002762,HR Technology,Closed,2025-06-11,2025-07-04,Customer Success,23
+TKT-002328,HR Technology,Closed,2025-05-30,2025-07-10,Customer Success,41
+TKT-002256,Payroll,Closed,2025-06-23,2025-07-14,Product,21
+TKT-002588,Onboarding,Closed,2025-07-09,2025-07-17,Sales,8
+TKT-002647,Policy & Benefits,Closed,2025-10-30,2025-11-19,Engineering,20
+TKT-002419,Policy & Benefits,Closed,2025-08-31,2025-09-03,Sales,3
+TKT-001842,Payroll,Closed,2025-11-10,2025-12-14,Product,34
+TKT-002400,Compensation,Closed,2025-10-14,2025-11-29,Sales,46
+TKT-001546,Employee Relations,Closed,2025-11-08,2025-12-29,Engineering,51
+TKT-002356,Learning & Development,Closed,2025-12-05,2025-12-20,Engineering,15
+TKT-002363,Payroll,Closed,2025-06-26,2025-07-06,Marketing,10
+TKT-002103,Onboarding,Closed,2025-10-20,2025-11-19,Engineering,30
+TKT-000542,Payroll,Closed,2025-12-24,2025-12-31,Product,7
+TKT-001562,HR Technology,Closed,2025-01-17,2025-04-14,Sales,87
+TKT-001798,HR Technology,Closed,2025-01-02,2025-02-21,Sales,50
+TKT-001891,Onboarding,Closed,2025-02-06,2025-03-08,Sales,30
+TKT-002412,Policy & Benefits,Closed,2025-01-07,2025-01-12,Sales,5
+TKT-001961,Offboarding,Closed,2025-01-11,2025-01-22,Product,11
+TKT-002348,HR Technology,Closed,2025-05-14,2025-07-05,Engineering,52
+TKT-002343,Policy & Benefits,Closed,2025-07-20,2025-07-28,Engineering,8
+TKT-002136,HR Technology,Closed,2025-06-13,2025-08-10,Engineering,58
+TKT-001198,Compensation,Closed,2025-01-23,2025-02-28,Data,36
+TKT-002325,Payroll,Closed,2025-03-31,2025-04-05,Sales,5
+TKT-002447,Learning & Development,Closed,2025-07-12,2025-08-11,Product,30
+TKT-000881,Payroll,Closed,2025-05-12,2025-07-02,Product,51
+TKT-001568,Payroll,Closed,2025-05-14,2025-06-04,Sales,21
+TKT-002553,Payroll,Closed,2025-06-06,2025-07-14,Engineering,38
+TKT-001604,HR Technology,Closed,2025-04-09,2025-05-23,Engineering,44
+TKT-001786,Offboarding,Closed,2025-07-22,2025-08-15,Engineering,24
+TKT-001339,HR Technology,Closed,2025-04-28,2025-07-04,Customer Success,67
+TKT-002454,Learning & Development,Closed,2025-04-28,2025-07-14,Engineering,77
+TKT-001354,Payroll,Closed,2025-01-18,2025-02-10,Sales,23
+TKT-002209,Payroll,Closed,2025-08-09,2025-09-06,Engineering,28
+TKT-000687,HR Technology,Closed,2025-11-07,2025-12-16,Engineering,39
+TKT-002376,Payroll,Closed,2025-11-22,2025-12-12,Sales,20
+TKT-001750,Learning & Development,Closed,2025-11-24,2025-12-21,Data,27
+TKT-000910,Onboarding,Closed,2025-05-22,2025-06-19,Engineering,28
+TKT-000375,Learning & Development,Closed,2025-03-26,2025-05-28,Data,63
+TKT-001987,HR Technology,Closed,2025-04-07,2025-05-13,Customer Success,36
+TKT-000957,HR Technology,Closed,2025-01-19,2025-04-01,Customer Success,72
+TKT-002227,HR Technology,Closed,2025-03-05,2025-04-20,Engineering,46
+TKT-002188,Learning & Development,Closed,2025-06-27,2025-08-30,Engineering,64
+TKT-002752,Employee Relations,Closed,2025-04-10,2025-05-10,Customer Success,30
+TKT-002226,Learning & Development,Closed,2025-04-23,2025-05-28,Data,35
+TKT-002369,Onboarding,Closed,2025-12-13,2025-12-31,Engineering,18
+TKT-000912,HR Technology,Closed,2025-02-15,2025-05-05,Sales,79
+TKT-001172,HR Technology,Closed,2025-06-17,2025-08-15,Engineering,59
+TKT-002490,Payroll,Closed,2025-04-25,2025-04-29,Data,4
+TKT-001777,Learning & Development,Closed,2025-07-28,2025-09-01,Engineering,35
+TKT-002502,Payroll,Closed,2025-01-12,2025-01-25,Finance,13
+TKT-002535,HR Technology,Closed,2025-07-11,2025-08-11,Customer Success,31
+TKT-002656,Payroll,Closed,2025-05-21,2025-06-26,Engineering,36
+TKT-002360,HR Technology,Closed,2025-10-14,2025-12-25,Engineering,72
+TKT-002675,Policy & Benefits,Closed,2025-06-15,2025-07-10,Finance,25
+TKT-001185,Payroll,Closed,2025-04-17,2025-05-04,Engineering,17
+TKT-002631,HR Technology,Closed,2025-04-18,2025-05-14,Data,26
+TKT-001434,HR Technology,Closed,2025-12-17,2025-12-31,Customer Success,14
+TKT-002559,Payroll,Closed,2025-04-05,2025-04-15,Data,10
+TKT-000538,HR Technology,Closed,2025-06-03,2025-06-25,Customer Success,22
+TKT-002539,Learning & Development,Closed,2025-07-12,2025-09-01,Engineering,51
+TKT-002495,HR Technology,Closed,2025-08-15,2025-11-11,Customer Success,88
+TKT-002174,HR Technology,Closed,2025-11-21,2025-12-14,Customer Success,23
+TKT-001180,Learning & Development,Closed,2025-07-07,2025-08-02,Engineering,26
+TKT-002186,HR Technology,Closed,2025-05-08,2025-07-15,Customer Success,68
+TKT-002245,Offboarding,Closed,2025-10-20,2025-10-26,Engineering,6
+TKT-002711,Payroll,Closed,2025-01-04,2025-02-03,Sales,30
+TKT-002603,HR Technology,Closed,2025-10-23,2025-12-20,Customer Success,58
+TKT-000769,Onboarding,Closed,2025-12-08,2025-12-15,Engineering,7
+TKT-002104,Offboarding,Closed,2025-03-14,2025-03-22,Sales,8
+TKT-001949,Payroll,Closed,2025-03-27,2025-04-16,Engineering,20
+TKT-001619,HR Technology,Closed,2025-01-28,2025-03-03,Data,34
+TKT-001917,Learning & Development,Closed,2025-08-27,2025-10-10,Customer Success,44
+TKT-002623,Policy & Benefits,Closed,2025-08-17,2025-08-28,Product,11
+TKT-002121,Payroll,Closed,2025-10-06,2025-10-10,Engineering,4
+TKT-001910,Employee Relations,Closed,2025-04-27,2025-05-30,HR,33
+TKT-001940,HR Technology,Closed,2025-12-22,2025-12-31,Engineering,9
+TKT-001084,Compensation,Closed,2025-12-31,2025-12-31,Engineering,0
+TKT-002118,Payroll,Closed,2025-09-28,2025-10-27,Customer Success,29
+TKT-001484,Policy & Benefits,Closed,2025-03-28,2025-04-08,Engineering,11
+TKT-001193,Onboarding,Closed,2024-12-31,2025-01-14,Engineering,14
+TKT-002409,HR Technology,Closed,2025-12-31,2025-12-31,Engineering,0
+TKT-000370,Policy & Benefits,Closed,2025-06-03,2025-06-21,Engineering,18
+TKT-002389,HR Technology,Closed,2025-01-21,2025-03-05,Engineering,43
+TKT-002508,HR Technology,Closed,2025-11-09,2025-12-19,Engineering,40
+TKT-000410,Learning & Development,Closed,2025-06-17,2025-08-21,Data,65
+TKT-002434,Offboarding,Closed,2025-02-23,2025-03-03,Sales,8
+TKT-002193,HR Technology,Closed,2025-02-23,2025-05-29,Marketing,95
+TKT-000629,Onboarding,Closed,2025-06-03,2025-06-27,HR,24
+TKT-002332,Offboarding,Closed,2025-05-29,2025-06-02,HR,4
+TKT-002684,Payroll,Closed,2025-10-02,2025-10-16,Engineering,14
+TKT-002022,Offboarding,Closed,2025-05-13,2025-05-23,Engineering,10
+TKT-000945,Onboarding,Closed,2025-02-12,2025-02-25,Engineering,13
+TKT-002686,HR Technology,Closed,2025-08-03,2025-11-08,Engineering,97
+TKT-001684,Payroll,Closed,2025-11-22,2025-12-06,Product,14
+TKT-002759,HR Technology,Closed,2025-07-06,2025-08-02,Sales,27
+TKT-001764,Policy & Benefits,Closed,2025-02-01,2025-02-10,Engineering,9
+TKT-000679,HR Technology,Closed,2025-12-29,2025-12-31,Customer Success,2
+TKT-001890,Onboarding,Closed,2025-05-10,2025-06-05,HR,26
+TKT-002371,Learning & Development,Closed,2025-12-23,2025-12-31,Product,8
+TKT-002122,HR Technology,Closed,2025-09-03,2025-09-18,Engineering,15
+TKT-002331,HR Technology,Closed,2025-03-26,2025-04-14,Engineering,19
+TKT-001695,Learning & Development,Closed,2025-01-11,2025-02-04,Product,24
+TKT-001609,Compensation,Closed,2025-08-05,2025-08-23,Engineering,18
+TKT-002385,HR Technology,Closed,2025-06-18,2025-07-01,Engineering,13
+TKT-002221,Employee Relations,Closed,2025-01-10,2025-03-06,Product,55
+TKT-002078,Payroll,Closed,2025-12-29,2025-12-31,Sales,2
+TKT-001345,Payroll,Closed,2025-10-13,2025-10-31,Engineering,18
+TKT-002476,Policy & Benefits,Closed,2025-02-12,2025-02-27,Sales,15
+TKT-001344,HR Technology,Closed,2025-04-05,2025-04-26,Sales,21
+TKT-001242,Onboarding,Closed,2025-11-12,2025-11-25,Engineering,13
+TKT-000988,Payroll,Closed,2025-09-27,2025-10-01,Engineering,4
+TKT-002015,Offboarding,Closed,2025-01-23,2025-02-06,Marketing,14
+TKT-001693,Payroll,Closed,2025-04-07,2025-04-15,Data,8
+TKT-001707,Learning & Development,Closed,2025-05-01,2025-06-20,Product,50
+TKT-001107,Onboarding,Closed,2025-06-06,2025-06-21,Sales,15
+TKT-002134,Employee Relations,Closed,2025-03-15,2025-04-27,Data,43
+TKT-000781,HR Technology,Closed,2025-04-20,2025-07-05,Sales,76
+TKT-002025,HR Technology,Closed,2025-09-07,2025-11-12,Product,66
+TKT-002305,Compensation,Closed,2025-05-01,2025-05-13,Engineering,12
+TKT-002471,Payroll,Closed,2025-08-01,2025-09-15,Finance,45
+TKT-002137,HR Technology,Closed,2025-06-03,2025-07-23,Engineering,50
+TKT-002270,Payroll,Closed,2025-11-25,2025-12-26,Engineering,31
+TKT-001899,Onboarding,Closed,2025-10-06,2025-11-07,Engineering,32
+TKT-000940,Employee Relations,Closed,2025-02-11,2025-03-25,Sales,42
+TKT-001175,Offboarding,Closed,2025-11-26,2025-12-02,Engineering,6
+TKT-001849,Policy & Benefits,Closed,2025-02-20,2025-02-22,Engineering,2
+TKT-001355,Policy & Benefits,Closed,2025-04-30,2025-05-16,Customer Success,16
+TKT-001303,HR Technology,Closed,2025-09-17,2025-10-17,Engineering,30
+TKT-000693,HR Technology,Closed,2025-07-18,2025-09-01,HR,45
+TKT-001276,Offboarding,Closed,2025-07-23,2025-08-04,Engineering,12
+TKT-000551,HR Technology,Closed,2025-02-10,2025-04-24,Engineering,73
+TKT-001539,HR Technology,Closed,2025-06-20,2025-07-12,Engineering,22
+TKT-001059,Onboarding,Closed,2025-10-19,2025-11-22,Customer Success,34
+TKT-002334,Payroll,Closed,2025-02-25,2025-03-18,Data,21
+TKT-001919,Learning & Development,Closed,2025-03-24,2025-05-19,Engineering,56
+TKT-000613,Onboarding,Closed,2025-10-12,2025-10-31,Engineering,19
+TKT-000413,HR Technology,Closed,2025-04-02,2025-06-01,Sales,60
+TKT-000401,HR Technology,Closed,2025-03-07,2025-04-20,Marketing,44
+TKT-001631,Compensation,Closed,2025-09-28,2025-10-26,Engineering,28
+TKT-000445,Learning & Development,Closed,2025-07-01,2025-07-10,Executive,9
+TKT-001443,Learning & Development,Closed,2025-01-17,2025-04-10,Engineering,83
+TKT-000299,Learning & Development,Closed,2025-10-24,2025-11-13,Customer Success,20
+TKT-001421,Onboarding,Closed,2025-06-21,2025-07-03,Data,12
+TKT-001295,Onboarding,Closed,2025-11-19,2025-11-28,Product,9
+TKT-000776,Employee Relations,Closed,2025-10-24,2025-12-03,Sales,40
+TKT-001667,Payroll,Closed,2025-09-12,2025-10-18,Sales,36
+TKT-001615,HR Technology,Closed,2025-06-15,2025-07-08,Product,23
+TKT-000960,Payroll,Closed,2025-01-14,2025-01-30,Customer Success,16
+TKT-001156,HR Technology,Closed,2025-06-30,2025-07-27,Customer Success,27
+TKT-001154,Offboarding,Closed,2025-02-04,2025-02-24,HR,20
+TKT-001393,Offboarding,Closed,2025-12-21,2025-12-31,Engineering,10
+TKT-002510,HR Technology,Closed,2025-10-23,2025-11-29,Data,37
+TKT-001960,HR Technology,Closed,2025-02-01,2025-03-25,Sales,52
+TKT-002306,HR Technology,Closed,2025-02-14,2025-03-17,Marketing,31
+TKT-002361,HR Technology,Closed,2025-08-14,2025-09-30,Engineering,47
+TKT-000597,Learning & Development,Closed,2025-03-19,2025-04-06,Engineering,18
+TKT-002084,HR Technology,Closed,2025-09-30,2025-10-19,Sales,19
+TKT-002299,Learning & Development,Closed,2025-07-31,2025-08-25,Sales,25
+TKT-001516,HR Technology,Closed,2025-07-25,2025-09-28,Product,65
+TKT-001261,HR Technology,Closed,2025-06-17,2025-07-10,HR,23
+TKT-000126,Employee Relations,Closed,2025-02-17,2025-03-19,Product,30
+TKT-000947,Onboarding,Closed,2025-10-26,2025-11-09,Customer Success,14
+TKT-001510,HR Technology,Closed,2025-02-24,2025-04-12,Customer Success,47
+TKT-001285,Learning & Development,Closed,2025-10-25,2025-12-22,Sales,58
+TKT-002469,Learning & Development,Closed,2025-08-12,2025-10-16,Engineering,65
+TKT-002110,HR Technology,Closed,2025-08-20,2025-11-04,Customer Success,76
+TKT-001662,Onboarding,Closed,2025-12-14,2025-12-31,Customer Success,17
+TKT-001755,Offboarding,Closed,2025-08-11,2025-08-24,Engineering,13
+TKT-001254,Onboarding,Closed,2025-12-30,2025-12-31,Sales,1
+TKT-001851,Payroll,Closed,2025-01-14,2025-02-10,Customer Success,27
+TKT-001453,Onboarding,Closed,2025-06-09,2025-06-15,Engineering,6
+TKT-001737,Policy & Benefits,Closed,2025-12-17,2025-12-31,Customer Success,14
+TKT-001958,Policy & Benefits,Closed,2025-11-17,2025-11-30,Sales,13
+TKT-001738,Payroll,Closed,2025-11-30,2025-12-27,Customer Success,27
+TKT-002271,Compensation,Closed,2025-03-29,2025-04-03,Engineering,5
+TKT-002451,Policy & Benefits,Closed,2025-04-08,2025-04-17,Marketing,9
+TKT-001845,Employee Relations,Closed,2025-11-02,2025-12-03,Engineering,31
+TKT-001378,HR Technology,Closed,2025-02-24,2025-03-20,Engineering,24
+TKT-001186,HR Technology,Closed,2025-04-16,2025-06-12,Engineering,57
+TKT-001561,Employee Relations,Closed,2025-05-01,2025-06-15,Engineering,45
+TKT-002338,HR Technology,Closed,2025-08-30,2025-09-24,Data,25
+TKT-002013,Offboarding,Closed,2025-06-09,2025-07-01,Finance,22
+TKT-001852,Payroll,Closed,2025-03-29,2025-04-14,Customer Success,16
+TKT-001596,Offboarding,Closed,2025-10-27,2025-10-31,Product,4
+TKT-001311,Payroll,Closed,2025-11-23,2025-12-19,Engineering,26
+TKT-000923,Employee Relations,Closed,2025-12-17,2025-12-31,Product,14
+TKT-001633,Policy & Benefits,Closed,2025-10-22,2025-11-03,Engineering,12
+TKT-001211,Payroll,Closed,2025-10-22,2025-10-29,Engineering,7
+TKT-000907,Onboarding,Closed,2025-12-21,2025-12-31,Data,10
+TKT-002023,Payroll,Closed,2025-06-19,2025-07-14,Engineering,25
+TKT-000674,HR Technology,Closed,2025-09-12,2025-10-20,Finance,38
+TKT-001194,Learning & Development,Closed,2025-04-08,2025-05-04,Customer Success,26
+TKT-002439,Onboarding,Closed,2025-07-28,2025-09-06,Engineering,40
+TKT-000649,HR Technology,Closed,2025-03-21,2025-04-16,Engineering,26
+TKT-000524,Payroll,Closed,2025-12-04,2025-12-31,Marketing,27
+TKT-001766,HR Technology,Closed,2025-04-09,2025-05-21,Engineering,42
+TKT-001227,HR Technology,Closed,2025-10-23,2025-12-31,Engineering,69
+TKT-002404,Policy & Benefits,Closed,2025-10-16,2025-10-19,Sales,3
+TKT-001213,Learning & Development,Closed,2025-08-11,2025-09-13,Data,33
+TKT-001363,HR Technology,Closed,2025-07-05,2025-09-29,Engineering,86
+TKT-001769,Onboarding,Closed,2025-08-15,2025-09-01,Engineering,17
+TKT-000634,Learning & Development,Closed,2025-03-31,2025-04-26,Product,26
+TKT-001523,Onboarding,Closed,2025-10-30,2025-11-10,Engineering,11
+TKT-001881,Offboarding,Closed,2025-05-08,2025-05-31,Customer Success,23
+TKT-001846,Policy & Benefits,Closed,2025-01-01,2025-01-08,Engineering,7
+TKT-002166,HR Technology,Closed,2025-11-07,2025-11-22,Engineering,15
+TKT-001531,HR Technology,Closed,2025-12-11,2025-12-31,Engineering,20
+TKT-002074,Employee Relations,Closed,2025-10-02,2025-11-05,Engineering,34
+TKT-001039,Employee Relations,Closed,2025-01-08,2025-02-20,Customer Success,43
+TKT-002165,Offboarding,Closed,2025-11-18,2025-12-10,Engineering,22
+TKT-001133,HR Technology,Closed,2025-06-22,2025-10-09,Customer Success,109
+TKT-002342,Onboarding,Closed,2025-08-14,2025-09-09,Customer Success,26
+TKT-001572,HR Technology,Closed,2025-09-10,2025-10-26,Data,46
+TKT-002352,HR Technology,Closed,2025-12-07,2025-12-31,Data,24
+TKT-001518,Policy & Benefits,Closed,2025-06-18,2025-06-25,Engineering,7
+TKT-001366,HR Technology,Closed,2025-11-04,2025-12-24,Marketing,50
+TKT-000082,Onboarding,Closed,2025-09-26,2025-10-13,Customer Success,17
+TKT-002241,Employee Relations,Closed,2025-12-16,2025-12-31,Engineering,15
+TKT-001675,HR Technology,Closed,2025-05-20,2025-06-26,Customer Success,37
+TKT-000827,HR Technology,Closed,2025-08-07,2025-10-10,Marketing,64
+TKT-001724,Offboarding,Closed,2025-01-04,2025-01-15,Sales,11
+TKT-001744,Policy & Benefits,Closed,2025-11-29,2025-12-06,Sales,7
+TKT-002313,Onboarding,Closed,2025-07-29,2025-08-27,Sales,29
+TKT-001944,Offboarding,Closed,2025-06-15,2025-06-24,Data,9
+TKT-001324,Learning & Development,Closed,2025-12-27,2025-12-31,Engineering,4
+TKT-000554,Payroll,Closed,2025-11-15,2025-12-31,Sales,46
+TKT-002197,Payroll,Closed,2025-12-22,2025-12-31,Engineering,9
+TKT-000921,Employee Relations,Closed,2025-11-29,2025-12-21,Customer Success,22
+TKT-001564,Employee Relations,Closed,2025-10-05,2025-11-13,Data,39
+TKT-002281,HR Technology,Closed,2025-06-20,2025-10-04,Product,106
+TKT-002727,HR Technology,Closed,2025-07-28,2025-10-03,Product,67
+TKT-000560,Policy & Benefits,Closed,2025-03-23,2025-04-01,Finance,9
+TKT-002141,HR Technology,Closed,2025-06-04,2025-08-10,Data,67
+TKT-000244,Payroll,Closed,2025-02-03,2025-02-24,Engineering,21
+TKT-001031,Payroll,Closed,2025-09-06,2025-10-19,Customer Success,43
+TKT-000510,HR Technology,Closed,2025-05-03,2025-06-18,Engineering,46
+TKT-000254,Policy & Benefits,Closed,2025-03-29,2025-04-01,Engineering,3
+TKT-000858,Onboarding,Closed,2025-09-29,2025-10-16,Product,17
+TKT-001351,Policy & Benefits,Closed,2025-05-30,2025-06-13,Engineering,14
+TKT-001209,Learning & Development,Closed,2025-09-03,2025-09-21,Product,18
+TKT-000010,HR Technology,Closed,2025-05-05,2025-05-25,Sales,20
+TKT-002035,Policy & Benefits,Closed,2025-07-07,2025-07-16,Engineering,9
+TKT-001754,Payroll,Closed,2025-05-04,2025-05-13,Engineering,9
+TKT-001431,Employee Relations,Closed,2025-02-25,2025-03-29,Engineering,32
+TKT-001906,Employee Relations,Closed,2025-10-17,2025-11-07,Engineering,21
+TKT-000976,Offboarding,Closed,2025-03-14,2025-04-01,Engineering,18
+TKT-001325,Learning & Development,Closed,2025-08-17,2025-10-01,HR,45
+TKT-001905,Onboarding,Closed,2025-05-02,2025-05-26,Engineering,24
+TKT-001266,Payroll,Closed,2025-08-10,2025-08-28,Customer Success,18
+TKT-001403,HR Technology,Closed,2025-09-06,2025-11-04,Customer Success,59
+TKT-002171,HR Technology,Closed,2025-09-15,2025-10-19,Engineering,34
+TKT-001976,Payroll,Closed,2025-06-20,2025-07-28,Sales,38
+TKT-000403,Policy & Benefits,Closed,2025-07-30,2025-08-06,Engineering,7
+TKT-002497,Learning & Development,Closed,2025-10-18,2025-11-06,Engineering,19
+TKT-002233,HR Technology,Closed,2025-06-07,2025-07-16,Sales,39
+TKT-002224,Learning & Development,Closed,2025-12-10,2025-12-31,Product,21
+TKT-001527,HR Technology,Closed,2025-07-21,2025-09-05,Product,46
+TKT-000915,HR Technology,Closed,2025-01-26,2025-03-06,Sales,39
+TKT-001847,Payroll,Closed,2025-05-28,2025-06-24,Product,27
+TKT-000344,HR Technology,Closed,2025-01-10,2025-02-20,Finance,41
+TKT-001152,Payroll,Closed,2025-04-13,2025-05-01,Engineering,18
+TKT-001379,Offboarding,Closed,2025-01-09,2025-01-21,Engineering,12
+TKT-001444,Offboarding,Closed,2025-02-23,2025-03-07,Sales,12
+TKT-001920,HR Technology,Closed,2025-04-08,2025-05-08,Product,30
+TKT-001346,HR Technology,Closed,2025-06-28,2025-09-11,Data,75
+TKT-001100,Learning & Development,Closed,2025-08-10,2025-08-27,Engineering,17
+TKT-000986,Policy & Benefits,Closed,2025-06-26,2025-07-16,Engineering,20
+TKT-000904,HR Technology,Closed,2025-12-03,2025-12-31,Engineering,28
+TKT-001499,HR Technology,Closed,2025-02-11,2025-04-10,Engineering,58
+TKT-001929,Compensation,Closed,2025-12-28,2025-12-31,Engineering,3
+TKT-002283,Onboarding,Closed,2025-12-26,2025-12-31,Engineering,5
+TKT-000726,Policy & Benefits,Closed,2025-08-20,2025-08-24,Engineering,4
+TKT-001828,HR Technology,Closed,2025-07-07,2025-07-09,Finance,2
+TKT-001064,Onboarding,Closed,2025-11-16,2025-11-28,Customer Success,12
+TKT-001921,Policy & Benefits,Closed,2025-05-01,2025-05-17,Engineering,16
+TKT-001472,Offboarding,Closed,2025-07-22,2025-08-03,Product,12
+TKT-001945,HR Technology,Closed,2025-06-22,2025-07-28,Engineering,36
+TKT-002016,Policy & Benefits,Closed,2025-06-04,2025-06-08,Engineering,4
+TKT-001779,HR Technology,Closed,2025-08-19,2025-10-06,Sales,48
+TKT-000486,Learning & Development,Closed,2025-04-10,2025-05-15,Customer Success,35
+TKT-002501,Policy & Benefits,Closed,2025-02-13,2025-02-17,Engineering,4
+TKT-001201,Payroll,Closed,2025-09-04,2025-09-12,Customer Success,8
+TKT-001714,Payroll,Closed,2025-10-08,2025-10-25,Customer Success,17
+TKT-000032,Payroll,Closed,2025-10-18,2025-11-16,Finance,29
+TKT-001652,HR Technology,Closed,2025-08-26,2025-09-16,Sales,21
+TKT-000899,Policy & Benefits,Closed,2025-01-28,2025-02-06,Sales,9
+TKT-002467,HR Technology,Closed,2025-11-10,2025-12-11,Engineering,31
+TKT-001063,Policy & Benefits,Closed,2025-02-09,2025-02-18,Marketing,9
+TKT-002463,Employee Relations,Closed,2025-10-22,2025-12-31,Customer Success,70
+TKT-000790,HR Technology,Closed,2025-11-05,2025-12-31,Sales,56
+TKT-002044,Learning & Development,Closed,2025-09-19,2025-10-12,Data,23
+TKT-002556,HR Technology,Closed,2025-08-24,2025-10-14,HR,51
+TKT-001011,Onboarding,Closed,2025-11-29,2025-12-05,Engineering,6
+TKT-000716,Payroll,Closed,2025-07-03,2025-07-05,Engineering,2
+TKT-002201,HR Technology,Closed,2025-09-01,2025-10-22,Engineering,51
+TKT-000460,Employee Relations,Closed,2025-10-19,2025-11-06,Product,18
+TKT-001471,Learning & Development,Closed,2025-03-01,2025-04-09,Engineering,39
+TKT-001915,Payroll,Closed,2025-07-16,2025-09-02,Sales,48
+TKT-000744,HR Technology,Closed,2025-12-14,2025-12-31,Engineering,17
+TKT-002517,Payroll,Closed,2025-01-09,2025-01-26,Engineering,17
+TKT-001853,Onboarding,Closed,2025-08-01,2025-08-24,Engineering,23
+TKT-002205,Onboarding,Closed,2025-05-03,2025-05-15,Customer Success,12
+TKT-000587,Payroll,Closed,2025-11-13,2025-12-13,Marketing,30
+TKT-000304,Offboarding,Closed,2025-12-15,2025-12-23,Engineering,8
+TKT-002012,Compensation,Closed,2025-10-15,2025-11-24,Engineering,40
+TKT-001433,HR Technology,Closed,2025-05-28,2025-06-14,Marketing,17
+TKT-001087,Learning & Development,Closed,2025-08-09,2025-08-19,Customer Success,10
+TKT-000733,Policy & Benefits,Closed,2025-06-18,2025-07-01,Engineering,13
+TKT-001416,Policy & Benefits,Closed,2025-03-09,2025-03-25,Engineering,16
+TKT-002442,Policy & Benefits,Closed,2025-02-03,2025-02-06,Marketing,3
+TKT-001719,Policy & Benefits,Closed,2025-05-27,2025-06-14,Customer Success,18
+TKT-001095,Payroll,Closed,2025-05-18,2025-06-22,Engineering,35
+TKT-001337,Payroll,Closed,2025-04-22,2025-04-28,HR,6
+TKT-001682,Employee Relations,Closed,2025-12-23,2025-12-31,Customer Success,8
+TKT-002322,Onboarding,Closed,2025-09-18,2025-09-24,Engineering,6
+TKT-000238,Onboarding,Closed,2025-01-14,2025-02-01,Data,18
+TKT-002483,Onboarding,Closed,2025-03-09,2025-04-01,Product,23
+TKT-001360,Onboarding,Closed,2025-10-18,2025-11-16,Engineering,29
+TKT-002594,Payroll,Closed,2025-11-02,2025-12-09,Customer Success,37
+TKT-002290,HR Technology,Closed,2025-03-08,2025-04-19,Customer Success,42
+TKT-000352,HR Technology,Closed,2025-12-06,2025-12-18,Data,12
+TKT-002175,Learning & Development,Closed,2025-09-26,2025-10-12,Engineering,16
+TKT-001007,HR Technology,Closed,2025-06-14,2025-08-10,Product,57
+TKT-001857,Payroll,Closed,2025-05-11,2025-05-15,Engineering,4
+TKT-002349,Learning & Development,Closed,2025-12-21,2025-12-31,Customer Success,10
+TKT-001832,Policy & Benefits,Closed,2025-01-08,2025-01-15,Engineering,7
+TKT-001610,HR Technology,Closed,2025-06-17,2025-07-27,Customer Success,40
+TKT-002736,Compensation,Closed,2025-03-17,2025-04-03,Customer Success,17
+TKT-001991,Payroll,Closed,2025-07-19,2025-08-12,Engineering,24
+TKT-001207,Onboarding,Closed,2025-02-09,2025-02-24,Engineering,15
+TKT-002291,HR Technology,Closed,2025-11-10,2025-12-31,Customer Success,51
+TKT-001628,Employee Relations,Closed,2025-05-23,2025-06-11,Sales,19
+TKT-001888,Learning & Development,Closed,2025-10-10,2025-10-25,Data,15
+TKT-001164,Employee Relations,Closed,2025-06-23,2025-07-17,Product,24
+TKT-000466,Payroll,Closed,2025-02-02,2025-03-13,Engineering,39
+TKT-001589,HR Technology,Closed,2025-10-21,2025-11-12,Product,22
+TKT-001577,Compensation,Closed,2025-03-05,2025-03-18,Engineering,13
+TKT-000676,Policy & Benefits,Closed,2025-09-25,2025-10-15,Engineering,20
+TKT-001959,Payroll,Closed,2025-01-15,2025-02-01,Engineering,17
+TKT-001322,Offboarding,Closed,2025-12-07,2025-12-14,Engineering,7
+TKT-001181,Offboarding,Closed,2025-06-02,2025-06-13,Customer Success,11
+TKT-000702,Payroll,Closed,2025-03-01,2025-03-20,Customer Success,19
+TKT-000008,Offboarding,Closed,2025-04-21,2025-05-03,Engineering,12
+TKT-002069,Compensation,Closed,2025-03-06,2025-03-13,Sales,7
+TKT-002358,HR Technology,Closed,2025-02-26,2025-03-17,Engineering,19
+TKT-001392,Policy & Benefits,Closed,2025-10-02,2025-10-17,Sales,15
+TKT-001381,Policy & Benefits,Closed,2025-10-05,2025-10-11,Engineering,6
+TKT-002170,Compensation,Closed,2025-09-27,2025-10-17,Data,20
+TKT-000930,HR Technology,Closed,2025-08-25,2025-10-18,Engineering,54
+TKT-001712,Offboarding,Closed,2025-10-19,2025-10-27,Engineering,8
+TKT-001658,Offboarding,Closed,2025-11-08,2025-12-02,Product,24
+TKT-000863,Learning & Development,Closed,2025-04-03,2025-04-30,Engineering,27
+TKT-001530,Employee Relations,Closed,2025-05-09,2025-06-07,Product,29
+TKT-001483,Offboarding,Closed,2025-02-02,2025-02-14,Engineering,12
+TKT-001956,Payroll,Closed,2025-04-24,2025-04-28,Engineering,4
+TKT-002149,HR Technology,Closed,2025-11-03,2025-12-15,Engineering,42
+TKT-002071,Payroll,Closed,2025-04-22,2025-04-27,Engineering,5
+TKT-000262,HR Technology,Closed,2025-10-27,2025-12-29,Customer Success,63
+TKT-002068,Employee Relations,Closed,2025-01-17,2025-04-03,Customer Success,76
+TKT-001362,Onboarding,Closed,2025-11-30,2025-12-06,Engineering,6
+TKT-002479,Policy & Benefits,Closed,2025-06-16,2025-06-23,Engineering,7
+TKT-002089,HR Technology,Closed,2025-11-11,2025-12-31,HR,50
+TKT-001438,Payroll,Closed,2025-06-11,2025-06-26,Marketing,15
+TKT-000124,Offboarding,Closed,2025-11-22,2025-12-07,Engineering,15
+TKT-001620,Payroll,Closed,2025-03-07,2025-03-11,Finance,4
+TKT-002244,Payroll,Closed,2025-06-01,2025-06-04,Engineering,3
+TKT-000984,Compensation,Closed,2025-08-08,2025-08-18,Engineering,10
+TKT-002407,HR Technology,Closed,2025-01-24,2025-04-20,Customer Success,86
+TKT-001279,HR Technology,Closed,2025-05-01,2025-06-02,Data,32
+TKT-000758,Policy & Benefits,Closed,2025-01-13,2025-01-24,Sales,11
+TKT-001692,Policy & Benefits,Closed,2025-10-30,2025-11-01,Customer Success,2
+TKT-001587,Payroll,Closed,2025-02-08,2025-03-22,Engineering,42
+TKT-001676,Policy & Benefits,Closed,2025-09-11,2025-09-14,Sales,3
+TKT-001118,Payroll,Closed,2025-11-12,2025-12-21,Engineering,39
+TKT-001551,HR Technology,Closed,2025-05-10,2025-07-08,Engineering,59
+TKT-000052,Compensation,Closed,2025-02-20,2025-03-03,Engineering,11
+TKT-001375,Onboarding,Closed,2025-10-07,2025-10-17,Engineering,10
+TKT-001506,Payroll,Closed,2025-09-15,2025-09-27,Customer Success,12
+TKT-002274,Onboarding,Closed,2025-06-08,2025-06-21,Customer Success,13
+TKT-001759,HR Technology,Closed,2025-11-19,2025-12-31,Customer Success,42
+TKT-001854,Policy & Benefits,Closed,2025-08-26,2025-08-29,Product,3
+TKT-002399,Offboarding,Closed,2025-11-28,2025-12-09,Sales,11
+TKT-002544,Learning & Development,Closed,2025-04-17,2025-05-02,Engineering,15
+TKT-002210,Payroll,Closed,2025-08-20,2025-08-23,Sales,3
+TKT-001235,Policy & Benefits,Closed,2025-08-23,2025-09-05,Product,13
+TKT-001784,Payroll,Closed,2025-05-28,2025-06-16,Sales,19
+TKT-001331,Offboarding,Closed,2025-05-28,2025-06-09,Engineering,12
+TKT-000425,Policy & Benefits,Closed,2025-10-29,2025-11-06,Engineering,8
+TKT-000045,Policy & Benefits,Closed,2025-07-12,2025-07-28,Marketing,16
+TKT-001703,Employee Relations,Closed,2025-11-24,2025-12-31,Engineering,37
+TKT-000270,HR Technology,Closed,2025-02-01,2025-03-16,Product,43
+TKT-001465,Payroll,Closed,2025-01-15,2025-01-23,Sales,8
+TKT-001554,Payroll,Closed,2025-11-11,2025-12-25,Sales,44
+TKT-002109,Onboarding,Closed,2025-01-17,2025-02-03,Sales,17
+TKT-001768,Payroll,Closed,2025-05-31,2025-06-17,Product,17
+TKT-000711,HR Technology,Closed,2025-01-26,2025-03-17,Engineering,50
+TKT-002050,HR Technology,Closed,2025-02-20,2025-06-17,Engineering,117
+TKT-001977,Policy & Benefits,Closed,2025-07-26,2025-08-14,Engineering,19
+TKT-000829,HR Technology,Closed,2025-08-20,2025-10-22,Data,63
+TKT-002018,Offboarding,Closed,2025-11-25,2025-12-17,Sales,22
+TKT-001509,Policy & Benefits,Closed,2025-03-27,2025-04-01,Product,5
+TKT-000788,HR Technology,Closed,2025-04-27,2025-05-26,Product,29
+TKT-001263,Policy & Benefits,Closed,2025-05-06,2025-05-09,Sales,3
+TKT-001941,Payroll,Closed,2025-06-23,2025-07-08,Engineering,15
+TKT-000462,HR Technology,Closed,2025-06-21,2025-07-18,Engineering,27
+TKT-001079,HR Technology,Closed,2025-05-08,2025-05-18,Engineering,10
+TKT-001204,Compensation,Closed,2025-02-28,2025-03-24,Customer Success,24
+TKT-002183,Learning & Development,Closed,2025-06-25,2025-07-29,Engineering,34
+TKT-001248,Policy & Benefits,Closed,2025-03-07,2025-03-23,Sales,16
+TKT-001999,HR Technology,Closed,2025-12-14,2025-12-31,Engineering,17
+TKT-001541,Policy & Benefits,Closed,2025-05-17,2025-05-22,Sales,5
+TKT-001700,Learning & Development,Closed,2025-04-22,2025-06-22,Data,61
+TKT-000667,Policy & Benefits,Closed,2025-12-13,2025-12-25,Engineering,12
+TKT-001690,Compensation,Closed,2025-10-16,2025-12-03,Customer Success,48
+TKT-002083,Payroll,Closed,2025-10-31,2025-11-12,Engineering,12
+TKT-001034,HR Technology,Closed,2025-11-30,2025-12-31,Engineering,31
+TKT-002278,Onboarding,Closed,2025-05-29,2025-07-03,Customer Success,35
+TKT-001896,Employee Relations,Closed,2025-08-04,2025-09-21,Data,48
+TKT-002107,HR Technology,Closed,2025-10-27,2025-12-23,Engineering,57
+TKT-000583,Policy & Benefits,Closed,2025-03-23,2025-04-03,Sales,11
+TKT-000882,Compensation,Closed,2025-03-23,2025-04-05,Engineering,13
+TKT-002445,Compensation,Closed,2025-02-07,2025-03-19,Data,40
+TKT-000944,HR Technology,Closed,2025-07-17,2025-07-31,Engineering,14
+TKT-002398,HR Technology,Closed,2025-03-16,2025-04-09,Finance,24
+TKT-002264,Policy & Benefits,Closed,2025-12-10,2025-12-15,Customer Success,5
+TKT-001966,Employee Relations,Closed,2025-04-02,2025-05-24,Engineering,52
+TKT-002265,Onboarding,Closed,2025-10-08,2025-10-23,Engineering,15
+TKT-002354,Employee Relations,Closed,2025-10-16,2025-11-07,Finance,22
+TKT-000472,HR Technology,Closed,2025-06-05,2025-08-02,Engineering,58
+TKT-002478,HR Technology,Closed,2025-09-26,2025-11-06,Data,41
+TKT-000766,Learning & Development,Closed,2025-07-11,2025-08-07,Customer Success,27
+TKT-001723,Policy & Benefits,Closed,2025-04-16,2025-05-01,Data,15
+TKT-000349,HR Technology,Closed,2025-07-15,2025-08-02,Customer Success,18
+TKT-002148,Policy & Benefits,Closed,2025-03-19,2025-04-14,Engineering,26
+TKT-002120,Onboarding,Closed,2025-07-22,2025-08-07,Customer Success,16
+TKT-002021,Onboarding,Closed,2025-02-28,2025-03-27,Customer Success,27
+TKT-000537,Payroll,Closed,2025-01-10,2025-02-10,Engineering,31
+TKT-001466,Payroll,Closed,2025-08-13,2025-09-11,Customer Success,29
+TKT-002039,Learning & Development,Closed,2025-08-26,2025-09-24,Engineering,29
+TKT-001721,HR Technology,Closed,2025-08-19,2025-09-20,Sales,32
+TKT-001741,Learning & Development,Closed,2025-10-07,2025-12-17,Customer Success,71
+TKT-000594,HR Technology,Closed,2025-10-17,2025-12-08,Engineering,52
+TKT-001838,Policy & Benefits,Closed,2025-12-09,2025-12-16,Sales,7
+TKT-001872,Learning & Development,Closed,2025-07-08,2025-08-02,Engineering,25
+TKT-001611,HR Technology,Closed,2025-12-17,2025-12-31,Data,14
+TKT-001300,Policy & Benefits,Closed,2025-04-10,2025-04-28,Customer Success,18
+TKT-002548,Payroll,Closed,2025-12-06,2025-12-16,Product,10
+TKT-002092,HR Technology,Closed,2025-06-08,2025-06-18,Engineering,10
+TKT-001286,Policy & Benefits,Closed,2025-05-11,2025-05-20,HR,9
+TKT-000517,Policy & Benefits,Closed,2025-06-19,2025-07-13,Engineering,24
+TKT-001788,Offboarding,Closed,2025-01-15,2025-01-25,Customer Success,10
+TKT-001349,Payroll,Closed,2025-12-11,2025-12-24,Engineering,13
+TKT-001504,Payroll,Closed,2025-11-22,2025-12-29,Engineering,37
+TKT-000259,HR Technology,Closed,2025-07-19,2025-10-23,Engineering,96
+TKT-001930,HR Technology,Closed,2025-05-24,2025-08-13,Engineering,81
+TKT-002102,Payroll,Closed,2025-06-15,2025-07-22,Engineering,37
+TKT-000231,HR Technology,Closed,2025-05-07,2025-06-13,Data,37
+TKT-002319,Policy & Benefits,Closed,2025-09-24,2025-10-02,Sales,8
+TKT-001001,Onboarding,Closed,2025-02-19,2025-03-12,Marketing,21
+TKT-000204,Employee Relations,Closed,2025-03-06,2025-04-20,HR,45
+TKT-001683,HR Technology,Closed,2025-02-27,2025-04-15,HR,47
+TKT-002503,Payroll,Closed,2025-09-27,2025-10-29,Engineering,32
+TKT-001553,Policy & Benefits,Closed,2025-06-11,2025-06-13,Engineering,2
+TKT-000916,Policy & Benefits,Closed,2025-05-13,2025-06-02,Engineering,20
+TKT-002650,Compensation,Closed,2025-05-25,2025-06-15,Engineering,21
+TKT-001234,HR Technology,Closed,2025-01-08,2025-03-03,Product,54
+TKT-002484,Onboarding,Closed,2025-12-08,2025-12-31,Sales,23
+TKT-001626,HR Technology,Closed,2025-01-08,2025-03-06,Engineering,57
+TKT-000205,Compensation,Closed,2025-01-08,2025-01-15,Customer Success,7
+TKT-001869,Payroll,Closed,2025-07-09,2025-07-26,HR,17
+TKT-002156,Learning & Development,Closed,2025-07-03,2025-08-11,Product,39
+TKT-000446,Policy & Benefits,Closed,2025-12-10,2025-12-27,Engineering,17
+TKT-002182,Learning & Development,Closed,2025-11-28,2025-12-27,Engineering,29
+TKT-001582,Policy & Benefits,Closed,2025-03-03,2025-03-04,Product,1
+TKT-001359,HR Technology,Closed,2025-02-10,2025-03-21,Engineering,39
+TKT-001765,HR Technology,Closed,2025-11-08,2025-11-29,Engineering,21
+TKT-000287,Onboarding,Closed,2025-03-14,2025-04-18,Product,35
+TKT-001578,Onboarding,Closed,2025-01-06,2025-02-01,Sales,26
+TKT-000977,Onboarding,Closed,2025-07-16,2025-07-22,Engineering,6
+TKT-001992,Employee Relations,Closed,2025-05-01,2025-06-08,Sales,38
+TKT-001243,HR Technology,Closed,2025-10-05,2025-10-27,Sales,22
+TKT-000825,HR Technology,Closed,2025-10-05,2025-11-11,Engineering,37
+TKT-001183,Onboarding,Closed,2025-10-12,2025-11-02,Marketing,21
+TKT-001529,Payroll,Closed,2025-09-01,2025-09-26,Data,25
+TKT-000677,HR Technology,Closed,2025-10-19,2025-12-31,Sales,73
+TKT-002011,Onboarding,Closed,2025-06-23,2025-07-13,Data,20
+TKT-000122,Payroll,Closed,2025-04-09,2025-04-16,Sales,7
+TKT-001878,Payroll,Closed,2025-06-09,2025-06-18,Product,9
+TKT-002235,Payroll,Closed,2025-03-03,2025-03-07,Engineering,4
+TKT-002073,Employee Relations,Closed,2025-01-09,2025-01-27,Finance,18
+TKT-001934,Learning & Development,Closed,2025-09-24,2025-11-01,Engineering,38
+TKT-002066,Payroll,Closed,2025-09-12,2025-10-10,Engineering,28
+TKT-001274,Payroll,Closed,2025-05-29,2025-06-25,Engineering,27
+TKT-000824,Payroll,Closed,2025-03-26,2025-04-01,Sales,6
+TKT-000908,Policy & Benefits,Closed,2025-03-13,2025-03-27,Engineering,14
+TKT-001718,Employee Relations,Closed,2025-12-28,2025-12-31,Engineering,3
+TKT-000433,Compensation,Closed,2025-06-28,2025-06-30,Customer Success,2
+TKT-000735,Payroll,Closed,2025-05-08,2025-06-08,Engineering,31
+TKT-000306,Compensation,Closed,2025-03-02,2025-03-28,HR,26
+TKT-000380,Policy & Benefits,Closed,2025-04-04,2025-04-12,Engineering,8
+TKT-001450,HR Technology,Closed,2025-06-28,2025-08-31,Engineering,64
+TKT-002125,Onboarding,Closed,2025-06-17,2025-07-19,Data,32
+TKT-000821,Learning & Development,Closed,2025-07-07,2025-07-28,Engineering,21
+TKT-000331,Policy & Benefits,Closed,2025-02-10,2025-02-15,Sales,5
+TKT-000067,HR Technology,Closed,2025-04-03,2025-05-16,Marketing,43
+TKT-000754,Payroll,Closed,2025-11-25,2025-12-12,Engineering,17
+TKT-000675,HR Technology,Closed,2025-11-14,2025-12-29,Engineering,45
+TKT-000215,Payroll,Closed,2024-12-31,2025-01-13,Customer Success,13
+TKT-000813,Learning & Development,Closed,2025-11-03,2025-12-31,Data,58
+TKT-001161,Learning & Development,Closed,2025-09-06,2025-09-24,Product,18
+TKT-001526,Offboarding,Closed,2025-01-22,2025-02-07,Sales,16
+TKT-001369,Onboarding,Closed,2025-10-26,2025-11-13,Product,18
+TKT-000481,Policy & Benefits,Closed,2025-06-09,2025-06-23,Customer Success,14
+TKT-001120,Offboarding,Closed,2025-11-10,2025-11-22,Customer Success,12
+TKT-001054,Learning & Development,Closed,2025-04-17,2025-07-01,HR,75
+TKT-001308,Onboarding,Closed,2025-09-15,2025-09-24,Engineering,9
+TKT-002456,Payroll,Closed,2025-06-16,2025-07-27,Data,41
+TKT-001533,Payroll,Closed,2025-04-23,2025-05-21,Sales,28
+TKT-002179,Policy & Benefits,Closed,2025-11-28,2025-12-19,Marketing,21
+TKT-001075,Payroll,Closed,2025-12-01,2025-12-04,Engineering,3
+TKT-000048,Payroll,Closed,2025-08-26,2025-09-12,Engineering,17
+TKT-001860,Policy & Benefits,Closed,2025-11-21,2025-11-24,Sales,3
+TKT-002225,Learning & Development,Closed,2025-07-21,2025-08-16,Sales,26
+TKT-000738,Policy & Benefits,Closed,2025-12-10,2025-12-17,Product,7
+TKT-000668,Payroll,Closed,2025-05-09,2025-06-09,HR,31
+TKT-000798,Payroll,Closed,2025-05-03,2025-06-02,Customer Success,30
+TKT-001490,Offboarding,Closed,2025-08-30,2025-09-02,Customer Success,3
+TKT-001231,Compensation,Closed,2025-09-23,2025-10-10,Sales,17
+TKT-002441,Onboarding,Closed,2025-07-16,2025-08-07,Engineering,22
+TKT-001627,Policy & Benefits,Closed,2025-09-22,2025-09-28,Customer Success,6
+TKT-001150,Employee Relations,Closed,2025-03-14,2025-04-04,Customer Success,21
+TKT-001440,HR Technology,Closed,2025-04-18,2025-06-10,Engineering,53
+TKT-001048,Onboarding,Closed,2025-07-05,2025-07-23,Sales,18
+TKT-001827,Compensation,Closed,2025-01-26,2025-02-11,Customer Success,16
+TKT-000717,Payroll,Closed,2025-01-01,2025-01-22,Engineering,21
+TKT-001273,Payroll,Closed,2025-03-11,2025-04-03,Sales,23
+TKT-001203,HR Technology,Closed,2025-02-02,2025-04-27,Customer Success,84
+TKT-002070,Onboarding,Closed,2025-09-23,2025-10-21,Engineering,28
+TKT-001640,Policy & Benefits,Closed,2025-12-01,2025-12-16,Marketing,15
+TKT-001432,Payroll,Closed,2025-02-06,2025-02-10,Engineering,4
+TKT-000495,Offboarding,Closed,2025-07-09,2025-07-19,Engineering,10
+TKT-001170,Payroll,Closed,2025-05-14,2025-05-22,Engineering,8
+TKT-001101,Payroll,Closed,2025-06-12,2025-07-01,Engineering,19
+TKT-002333,Payroll,Closed,2025-02-15,2025-02-25,Data,10
+TKT-001128,Policy & Benefits,Closed,2025-07-10,2025-07-24,Finance,14
+TKT-001410,HR Technology,Closed,2025-10-16,2025-11-08,Customer Success,23
+TKT-001492,Payroll,Closed,2025-08-30,2025-09-23,Product,24
+TKT-001053,Offboarding,Closed,2025-05-20,2025-06-15,Engineering,26
+TKT-000513,Learning & Development,Closed,2025-02-12,2025-03-08,Product,24
+TKT-001630,Payroll,Closed,2025-12-29,2025-12-31,Engineering,2
+TKT-000819,Onboarding,Closed,2025-10-08,2025-10-15,Engineering,7
+TKT-000704,Onboarding,Closed,2025-12-31,2025-12-31,Data,0
+TKT-001962,HR Technology,Closed,2025-02-15,2025-03-15,Engineering,28
+TKT-000480,HR Technology,Closed,2025-11-16,2025-12-03,Finance,17
+TKT-000764,HR Technology,Closed,2025-08-31,2025-10-19,Customer Success,49
+TKT-002144,Offboarding,Closed,2025-11-15,2025-12-02,Engineering,17
+TKT-000390,Payroll,Closed,2025-04-08,2025-04-12,Engineering,4
+TKT-000160,Learning & Development,Closed,2025-01-15,2025-02-15,Marketing,31
+TKT-001356,HR Technology,Closed,2025-10-14,2025-11-15,Engineering,32
+TKT-001108,Offboarding,Closed,2025-09-08,2025-09-20,Engineering,12
+TKT-001515,Learning & Development,Closed,2025-01-14,2025-01-26,Sales,12
+TKT-000843,Learning & Development,Closed,2025-08-06,2025-09-22,Data,47
+TKT-001216,Onboarding,Closed,2025-01-09,2025-01-25,Engineering,16
+TKT-001033,Payroll,Closed,2025-11-26,2025-12-31,Engineering,35
+TKT-000893,Policy & Benefits,Closed,2025-11-22,2025-12-02,Engineering,10
+TKT-001810,HR Technology,Closed,2025-06-03,2025-08-26,Customer Success,84
+TKT-001583,HR Technology,Closed,2025-12-31,2025-12-31,Engineering,0
+TKT-002124,Employee Relations,Closed,2025-11-24,2025-12-26,Engineering,32
+TKT-001494,Policy & Benefits,Closed,2025-07-22,2025-07-25,Engineering,3
+TKT-001994,Onboarding,Closed,2025-06-08,2025-06-17,Engineering,9
+TKT-000398,Policy & Benefits,Closed,2025-06-26,2025-07-08,Customer Success,12
+TKT-001104,Payroll,Closed,2025-04-08,2025-05-15,Engineering,37
+TKT-001099,HR Technology,Closed,2025-07-29,2025-11-11,Customer Success,105
+TKT-002208,HR Technology,Closed,2025-10-31,2025-12-31,Customer Success,61
+TKT-001291,Compensation,Closed,2025-07-11,2025-08-12,Data,32
+TKT-001496,HR Technology,Closed,2025-08-20,2025-09-23,Data,34
+TKT-000400,Payroll,Closed,2025-10-31,2025-11-22,Marketing,22
+TKT-000465,HR Technology,Closed,2025-11-14,2025-12-31,Engineering,47
+TKT-001435,Payroll,Closed,2025-12-26,2025-12-31,Customer Success,5
+TKT-001614,Employee Relations,Closed,2025-07-01,2025-07-20,Sales,19
+TKT-001343,HR Technology,Closed,2025-09-27,2025-11-07,Sales,41
+TKT-001985,HR Technology,Closed,2025-07-20,2025-07-30,Sales,10
+TKT-001220,Learning & Development,Closed,2025-05-06,2025-06-02,Data,27
+TKT-001319,Payroll,Closed,2025-08-13,2025-10-01,Engineering,49
+TKT-001955,Compensation,Closed,2025-12-23,2025-12-31,Engineering,8
+TKT-001112,Offboarding,Closed,2025-03-03,2025-03-12,Data,9
+TKT-002216,Payroll,Closed,2025-07-19,2025-08-24,Product,36
+TKT-002047,Onboarding,Closed,2025-03-31,2025-04-08,Product,8
+TKT-001931,HR Technology,Closed,2025-01-14,2025-03-26,Data,71
+TKT-000227,Payroll,Closed,2025-10-24,2025-11-16,Engineering,23
+TKT-000817,Offboarding,Closed,2025-06-26,2025-07-04,Customer Success,8
+TKT-000229,Learning & Development,Closed,2025-06-13,2025-07-12,Engineering,29
+TKT-000672,Onboarding,Closed,2025-02-24,2025-03-18,Product,22
+TKT-001323,Offboarding,Closed,2025-04-03,2025-04-15,Engineering,12
+TKT-001129,Policy & Benefits,Closed,2025-01-11,2025-02-04,Product,24
+TKT-001760,Payroll,Closed,2025-08-26,2025-10-02,Engineering,37
+TKT-000300,Policy & Benefits,Closed,2025-02-04,2025-02-25,Engineering,21
+TKT-001272,HR Technology,Closed,2025-09-26,2025-11-02,Engineering,37
+TKT-001428,Offboarding,Closed,2025-01-01,2025-01-10,Engineering,9
+TKT-000498,Learning & Development,Closed,2025-02-18,2025-04-25,Engineering,66
+TKT-000991,HR Technology,Closed,2025-07-31,2025-10-26,HR,87
+TKT-001787,Policy & Benefits,Closed,2025-01-01,2025-01-10,Engineering,9
+TKT-000963,Onboarding,Closed,2025-12-29,2025-12-31,Customer Success,2
+TKT-001280,Learning & Development,Closed,2025-07-14,2025-09-21,Customer Success,69
+TKT-002010,HR Technology,Closed,2025-04-03,2025-07-08,Engineering,96
+TKT-001612,Offboarding,Closed,2025-12-14,2025-12-26,Sales,12
+TKT-000219,Payroll,Closed,2025-03-23,2025-04-04,Engineering,12
+TKT-001026,Learning & Development,Closed,2025-08-04,2025-09-20,Engineering,47
+TKT-001942,Onboarding,Closed,2025-09-20,2025-10-19,Sales,29
+TKT-001591,Employee Relations,Closed,2025-09-29,2025-10-29,Product,30
+TKT-001305,Offboarding,Closed,2025-10-05,2025-10-14,Product,9
+TKT-000892,Onboarding,Closed,2025-10-01,2025-10-11,Sales,10
+TKT-001687,Payroll,Closed,2025-02-16,2025-02-28,Product,12
+TKT-000932,HR Technology,Closed,2025-10-19,2025-11-19,Engineering,31
+TKT-001066,Policy & Benefits,Closed,2025-10-08,2025-10-25,Engineering,17
+TKT-000820,Payroll,Closed,2025-02-13,2025-03-12,Sales,27
+TKT-001862,Payroll,Closed,2025-01-10,2025-01-28,Product,18
+TKT-001239,Learning & Development,Closed,2025-07-27,2025-09-25,Data,60
+TKT-000285,Offboarding,Closed,2025-04-01,2025-04-22,Engineering,21
+TKT-000869,HR Technology,Closed,2025-12-10,2025-12-31,Engineering,21
+TKT-000837,Onboarding,Closed,2025-11-14,2025-12-02,Engineering,18
+TKT-001192,Onboarding,Closed,2025-01-22,2025-02-05,Engineering,14
+TKT-002173,Onboarding,Closed,2025-08-06,2025-08-20,Engineering,14
+TKT-000035,Offboarding,Closed,2025-08-29,2025-09-13,Engineering,15
+TKT-001699,Payroll,Closed,2025-07-24,2025-08-12,Finance,19
+TKT-000884,Onboarding,Closed,2025-06-12,2025-06-18,Customer Success,6
+TKT-001711,Offboarding,Closed,2025-03-10,2025-03-20,Engineering,10
+TKT-001460,HR Technology,Closed,2025-06-11,2025-07-16,Product,35
+TKT-001697,Employee Relations,Closed,2025-05-31,2025-08-19,Engineering,80
+TKT-001783,Offboarding,Closed,2025-12-31,2025-12-31,Engineering,0
+TKT-001065,Onboarding,Closed,2025-03-30,2025-04-22,Sales,23
+TKT-000357,Learning & Development,Closed,2025-05-30,2025-06-12,Customer Success,13
+TKT-002292,Payroll,Closed,2025-12-19,2025-12-31,Engineering,12
+TKT-000237,Learning & Development,Closed,2025-12-25,2025-12-31,Customer Success,6
+TKT-001191,HR Technology,Closed,2025-11-10,2025-12-31,Customer Success,51
+TKT-001503,HR Technology,Closed,2025-03-01,2025-04-01,Sales,31
+TKT-002432,Compensation,Closed,2025-03-26,2025-04-01,Engineering,6
+TKT-001778,HR Technology,Closed,2025-09-19,2025-11-24,Customer Success,66
+TKT-000496,Learning & Development,Closed,2025-08-16,2025-09-17,Sales,32
+TKT-001648,Learning & Development,Closed,2025-01-09,2025-01-23,Data,14
+TKT-002077,Payroll,Closed,2025-03-21,2025-03-29,HR,8
+TKT-000683,Payroll,Closed,2025-08-14,2025-08-16,Engineering,2
+TKT-000379,Onboarding,Closed,2025-05-15,2025-05-21,Engineering,6
+TKT-001866,Onboarding,Closed,2025-02-28,2025-03-08,Engineering,8
+TKT-000194,Onboarding,Closed,2025-02-27,2025-03-02,Product,3
+TKT-001199,Policy & Benefits,Closed,2025-10-07,2025-10-24,Engineering,17
+TKT-001844,Learning & Development,Closed,2025-01-22,2025-02-19,Sales,28
+TKT-000482,Policy & Benefits,Closed,2025-10-03,2025-10-07,Engineering,4
+TKT-002485,HR Technology,Closed,2025-03-12,2025-04-01,Engineering,20
+TKT-001376,Employee Relations,Closed,2025-01-10,2025-02-12,Engineering,33
+TKT-001119,Payroll,Closed,2025-02-15,2025-03-21,Customer Success,34
+TKT-000006,Compensation,Closed,2025-02-19,2025-03-28,Marketing,37
+TKT-000889,Payroll,Closed,2025-01-24,2025-02-12,Engineering,19
+TKT-001413,Policy & Benefits,Closed,2025-07-21,2025-08-15,Marketing,25
+TKT-000952,Payroll,Closed,2025-12-06,2025-12-17,Customer Success,11
+TKT-000266,Payroll,Closed,2025-02-07,2025-02-09,Engineering,2
+TKT-002159,Policy & Benefits,Closed,2025-08-19,2025-08-21,Marketing,2
+TKT-000807,Offboarding,Closed,2025-02-13,2025-02-26,Customer Success,13
+TKT-000479,HR Technology,Closed,2025-02-09,2025-03-04,Engineering,23
+TKT-001074,HR Technology,Closed,2025-08-23,2025-11-28,HR,97
+TKT-000568,HR Technology,Closed,2025-01-06,2025-02-03,Customer Success,28
+TKT-002027,Employee Relations,Closed,2025-12-02,2025-12-25,Engineering,23
+TKT-000188,Payroll,Closed,2025-07-24,2025-08-08,Data,15
+TKT-002468,HR Technology,Closed,2025-10-29,2025-12-31,Product,63
+TKT-001225,Policy & Benefits,Closed,2025-03-02,2025-03-06,Engineering,4
+TKT-002546,Learning & Development,Closed,2025-10-15,2025-11-23,Customer Success,39
+TKT-002158,HR Technology,Closed,2025-04-25,2025-06-22,Customer Success,58
+TKT-000005,HR Technology,Closed,2025-10-30,2025-11-18,Data,19
+TKT-001625,Onboarding,Closed,2025-05-19,2025-06-21,Engineering,33
+TKT-000946,HR Technology,Closed,2025-07-24,2025-08-23,Product,30
+TKT-001835,Learning & Development,Closed,2025-07-07,2025-07-13,Engineering,6
+TKT-000512,HR Technology,Closed,2025-06-11,2025-07-09,Customer Success,28
+TKT-001188,Offboarding,Closed,2025-08-25,2025-09-10,Engineering,16
+TKT-001407,Payroll,Closed,2025-10-01,2025-10-09,Customer Success,8
+TKT-002302,Policy & Benefits,Closed,2025-09-26,2025-10-01,Customer Success,5
+TKT-001964,Learning & Development,Closed,2025-01-31,2025-04-08,Engineering,67
+TKT-000222,Onboarding,Closed,2025-09-03,2025-10-03,Engineering,30
+TKT-001603,HR Technology,Closed,2025-02-15,2025-02-16,Customer Success,1
+TKT-000958,Policy & Benefits,Closed,2025-08-19,2025-08-24,Sales,5
+TKT-001445,Employee Relations,Closed,2025-08-05,2025-09-04,Data,30
+TKT-000385,Policy & Benefits,Closed,2025-07-31,2025-08-06,Product,6
+TKT-001136,Offboarding,Closed,2025-08-08,2025-08-15,Product,7
+TKT-001159,Payroll,Closed,2025-07-07,2025-07-23,Engineering,16
+TKT-001705,Onboarding,Closed,2025-07-12,2025-07-16,Engineering,4
+TKT-000786,Policy & Benefits,Closed,2025-06-28,2025-07-05,Engineering,7
+TKT-000697,Policy & Benefits,Closed,2025-08-31,2025-09-25,Customer Success,25
+TKT-000004,Policy & Benefits,Closed,2025-10-26,2025-10-29,Engineering,3
+TKT-002054,Policy & Benefits,Closed,2025-05-21,2025-06-01,Sales,11
+TKT-002000,Payroll,Closed,2025-04-29,2025-05-24,Engineering,25
+TKT-000759,HR Technology,Closed,2025-01-16,2025-05-10,Sales,114
+TKT-001317,Policy & Benefits,Closed,2025-04-03,2025-04-05,Engineering,2
+TKT-001831,Payroll,Closed,2025-12-29,2025-12-31,Data,2
+TKT-000440,HR Technology,Closed,2025-05-04,2025-06-12,Engineering,39
+TKT-001710,Policy & Benefits,Closed,2025-11-12,2025-11-14,Engineering,2
+TKT-000860,Policy & Benefits,Closed,2025-10-19,2025-10-26,Product,7
+TKT-000818,HR Technology,Closed,2025-11-20,2025-12-31,Engineering,41
+TKT-000830,Policy & Benefits,Closed,2025-07-08,2025-08-02,Product,25
+TKT-001255,Policy & Benefits,Closed,2025-02-26,2025-03-21,Engineering,23
+TKT-001544,Employee Relations,Closed,2025-01-28,2025-03-15,Engineering,46
+TKT-001733,HR Technology,Closed,2025-03-28,2025-04-17,Engineering,20
+TKT-001938,Payroll,Closed,2025-03-18,2025-04-19,Engineering,32
+TKT-001556,Onboarding,Closed,2025-11-06,2025-11-14,Customer Success,8
+TKT-000441,Policy & Benefits,Closed,2025-08-05,2025-08-08,Engineering,3
+TKT-002401,Compensation,Closed,2025-09-02,2025-09-28,Engineering,26
+TKT-001575,Offboarding,Closed,2025-02-14,2025-03-13,HR,27
+TKT-001437,HR Technology,Closed,2025-12-08,2025-12-31,Marketing,23
+TKT-001558,Payroll,Closed,2025-01-07,2025-01-12,Finance,5
+TKT-002231,Payroll,Closed,2025-08-22,2025-09-02,Engineering,11
+TKT-000969,Offboarding,Closed,2025-04-11,2025-04-28,Engineering,17
+TKT-002168,Onboarding,Closed,2025-02-18,2025-03-10,Customer Success,20
+TKT-000347,Employee Relations,Closed,2025-09-20,2025-12-06,Sales,77
+TKT-000768,HR Technology,Closed,2025-11-25,2025-12-31,Customer Success,36
+TKT-000730,Onboarding,Closed,2025-03-04,2025-03-31,Engineering,27
+TKT-001641,HR Technology,Closed,2025-11-30,2025-12-31,Sales,31
+TKT-000808,Onboarding,Closed,2025-08-15,2025-09-10,Engineering,26
+TKT-000816,Employee Relations,Closed,2025-01-02,2025-03-07,Engineering,64
+TKT-001102,Policy & Benefits,Closed,2025-09-23,2025-10-07,Engineering,14
+TKT-001473,Policy & Benefits,Closed,2025-01-20,2025-01-21,Customer Success,1
+TKT-000669,Payroll,Closed,2025-03-17,2025-04-07,Customer Success,21
+TKT-001299,Policy & Benefits,Closed,2025-06-13,2025-06-30,Customer Success,17
+TKT-001522,HR Technology,Closed,2025-07-01,2025-08-07,Product,37
+TKT-002262,Learning & Development,Closed,2025-03-30,2025-04-13,Sales,14
+TKT-002001,HR Technology,Closed,2025-06-07,2025-08-02,Engineering,56
+TKT-002090,Policy & Benefits,Closed,2025-03-12,2025-03-28,Sales,16
+TKT-000939,Offboarding,Closed,2025-08-23,2025-09-01,Product,9
+TKT-001704,Policy & Benefits,Closed,2025-10-27,2025-11-10,Sales,14
+TKT-000809,Payroll,Closed,2025-11-20,2025-12-31,Engineering,41
+TKT-000931,Learning & Development,Closed,2025-07-16,2025-09-02,Engineering,48
+TKT-000487,Compensation,Closed,2025-03-08,2025-03-22,Sales,14
+TKT-001926,Payroll,Closed,2025-04-23,2025-05-12,Sales,19
+TKT-000707,Compensation,Closed,2025-03-08,2025-04-16,Product,39
+TKT-000182,Offboarding,Closed,2025-07-30,2025-08-04,Engineering,5
+TKT-000834,Policy & Benefits,Closed,2025-01-24,2025-02-14,Engineering,21
+TKT-001731,Policy & Benefits,Closed,2025-02-08,2025-03-04,Engineering,24
+TKT-000692,Payroll,Closed,2025-02-19,2025-02-27,Data,8
+TKT-001748,Onboarding,Closed,2025-09-05,2025-09-15,Sales,10
+TKT-000815,Policy & Benefits,Closed,2025-11-29,2025-12-09,Product,10
+TKT-000700,Onboarding,Closed,2025-04-26,2025-05-13,Product,17
+TKT-000026,HR Technology,Closed,2025-01-04,2025-02-07,Sales,34
+TKT-001868,Payroll,Closed,2025-05-30,2025-06-14,Engineering,15
+TKT-000404,HR Technology,Closed,2025-04-06,2025-04-22,Engineering,16
+TKT-000806,Payroll,Closed,2025-09-28,2025-10-16,Engineering,18
+TKT-001178,Onboarding,Closed,2025-11-29,2025-12-15,Customer Success,16
+TKT-002180,Learning & Development,Closed,2025-05-25,2025-06-23,Engineering,29
+TKT-001125,Onboarding,Closed,2025-10-17,2025-10-29,Sales,12
+TKT-001790,HR Technology,Closed,2025-09-25,2025-12-02,Engineering,68
+TKT-000333,Payroll,Closed,2025-02-20,2025-03-08,Sales,16
+TKT-000874,HR Technology,Closed,2025-04-17,2025-06-08,Data,52
+TKT-000098,HR Technology,Closed,2025-03-24,2025-05-28,Engineering,65
+TKT-001402,Employee Relations,Closed,2025-11-09,2025-11-25,Customer Success,16
+TKT-001665,Payroll,Closed,2025-04-03,2025-04-24,Engineering,21
+TKT-001022,Learning & Development,Closed,2025-07-10,2025-07-30,Engineering,20
+TKT-001886,HR Technology,Closed,2025-07-18,2025-09-12,Customer Success,56
+TKT-000456,Onboarding,Closed,2025-12-09,2025-12-29,Data,20
+TKT-000966,Policy & Benefits,Closed,2025-11-16,2025-11-20,Engineering,4
+TKT-000184,Payroll,Closed,2025-01-07,2025-01-12,Sales,5
+TKT-000461,Onboarding,Closed,2025-08-18,2025-09-06,Engineering,19
+TKT-001803,Payroll,Closed,2025-09-21,2025-10-16,Data,25
+TKT-000062,HR Technology,Closed,2025-12-15,2025-12-31,Engineering,16
+TKT-001839,Payroll,Closed,2025-05-28,2025-06-24,Finance,27
+TKT-002190,Payroll,Closed,2025-09-21,2025-10-03,Customer Success,12
+TKT-000721,Compensation,Closed,2025-02-12,2025-03-14,Engineering,30
+TKT-001385,Payroll,Closed,2025-08-18,2025-09-11,Engineering,24
+TKT-002172,Learning & Development,Closed,2025-05-02,2025-06-09,Finance,38
+TKT-000427,HR Technology,Closed,2025-04-13,2025-06-07,Engineering,55
+TKT-002430,Offboarding,Closed,2025-08-13,2025-08-28,Data,15
+TKT-001262,Policy & Benefits,Closed,2025-04-17,2025-04-20,Data,3
+TKT-000019,HR Technology,Closed,2025-07-31,2025-09-04,Customer Success,35
+TKT-000741,HR Technology,Closed,2025-01-21,2025-02-25,Engineering,35
+TKT-001978,Onboarding,Closed,2025-01-06,2025-02-05,Customer Success,30
+TKT-001124,Compensation,Closed,2025-03-07,2025-03-23,Customer Success,16
+TKT-001165,Employee Relations,Closed,2025-04-20,2025-05-15,Customer Success,25
+TKT-001052,Learning & Development,Closed,2025-03-05,2025-04-11,Engineering,37
+TKT-000605,Learning & Development,Closed,2025-03-26,2025-05-09,Sales,44
+TKT-001098,Learning & Development,Closed,2025-08-10,2025-08-21,Customer Success,11
+TKT-001656,Payroll,Closed,2024-12-31,2025-01-21,Sales,21
+TKT-000856,Onboarding,Closed,2025-08-14,2025-08-18,Engineering,4
+TKT-001147,Learning & Development,Closed,2025-04-06,2025-05-06,Data,30
+TKT-001287,Employee Relations,Closed,2025-10-18,2025-11-06,Customer Success,19
+TKT-002038,Payroll,Closed,2025-05-12,2025-06-16,Product,35
+TKT-001818,Onboarding,Closed,2025-06-24,2025-07-05,Engineering,11
+TKT-000143,Policy & Benefits,Closed,2025-07-06,2025-07-11,HR,5
+TKT-000336,Payroll,Closed,2025-07-25,2025-08-17,Engineering,23
+TKT-000763,HR Technology,Closed,2025-02-11,2025-02-23,Customer Success,12
+TKT-000896,Payroll,Closed,2025-05-15,2025-06-02,Engineering,18
+TKT-001247,Payroll,Closed,2025-11-21,2025-12-02,Engineering,11
+TKT-001793,Payroll,Closed,2025-08-14,2025-09-01,Engineering,18
+TKT-001984,Payroll,Closed,2025-04-21,2025-05-05,Sales,14
+TKT-000911,Payroll,Closed,2025-08-06,2025-08-28,Marketing,22
+TKT-000933,Policy & Benefits,Closed,2025-03-05,2025-03-19,HR,14
+TKT-001654,HR Technology,Closed,2025-06-11,2025-06-28,Engineering,17
+TKT-001221,Policy & Benefits,Closed,2025-07-29,2025-08-11,Engineering,13
+TKT-000890,Payroll,Closed,2025-05-13,2025-06-01,Engineering,19
+TKT-002344,Learning & Development,Closed,2025-09-17,2025-11-13,Engineering,57
+TKT-000473,Payroll,Closed,2025-04-01,2025-04-12,Product,11
+TKT-001802,HR Technology,Closed,2025-10-17,2025-11-28,Sales,42
+TKT-000290,Offboarding,Closed,2025-03-02,2025-03-07,Engineering,5
+TKT-001674,Payroll,Closed,2025-01-27,2025-02-04,HR,8
+TKT-002061,Policy & Benefits,Closed,2025-03-12,2025-03-21,Product,9
+TKT-000417,HR Technology,Closed,2025-11-25,2025-12-25,Engineering,30
+TKT-001993,Offboarding,Closed,2025-04-12,2025-04-27,Engineering,15
+TKT-000152,Payroll,Closed,2025-03-01,2025-03-07,Product,6
+TKT-001069,Offboarding,Closed,2025-12-22,2025-12-31,Engineering,9
+TKT-000291,Payroll,Closed,2025-03-24,2025-04-11,Engineering,18
+TKT-000511,Learning & Development,Closed,2025-04-02,2025-04-21,Sales,19
+TKT-000601,Employee Relations,Closed,2025-05-20,2025-06-08,Engineering,19
+TKT-001429,HR Technology,Closed,2025-10-12,2025-11-19,Sales,38
+TKT-001021,Onboarding,Closed,2025-07-12,2025-07-29,Sales,17
+TKT-000851,Learning & Development,Closed,2025-08-28,2025-11-19,Marketing,83
+TKT-000694,Payroll,Closed,2025-05-09,2025-05-23,Data,14
+TKT-000536,HR Technology,Closed,2025-06-21,2025-08-16,Sales,56
+TKT-001632,Policy & Benefits,Closed,2025-09-16,2025-09-23,Data,7
+TKT-001732,Policy & Benefits,Closed,2025-08-04,2025-08-16,Product,12
+TKT-002091,Policy & Benefits,Closed,2025-08-09,2025-08-13,Engineering,4
+TKT-001785,Learning & Development,Closed,2025-03-20,2025-04-19,Finance,30
+TKT-001422,Policy & Benefits,Closed,2025-01-26,2025-02-07,Engineering,12
+TKT-000622,Learning & Development,Closed,2025-10-18,2025-12-30,Engineering,73
+TKT-001143,Payroll,Closed,2025-08-03,2025-08-07,Engineering,4
+TKT-000470,HR Technology,Closed,2025-03-28,2025-05-31,Sales,64
+TKT-000471,Policy & Benefits,Closed,2025-03-11,2025-03-18,Engineering,7
+TKT-001016,Employee Relations,Closed,2025-05-04,2025-06-14,Engineering,41
+TKT-000506,Payroll,Closed,2025-06-27,2025-07-13,Engineering,16
+TKT-000192,HR Technology,Closed,2025-11-10,2025-12-31,HR,51
+TKT-000313,Policy & Benefits,Closed,2025-05-07,2025-05-19,Engineering,12
+TKT-001391,Offboarding,Closed,2025-05-23,2025-06-04,Engineering,12
+TKT-001353,Policy & Benefits,Closed,2025-10-28,2025-11-13,Data,16
+TKT-000113,Onboarding,Closed,2025-07-10,2025-07-23,Sales,13
+TKT-000318,Onboarding,Closed,2025-06-08,2025-06-11,Engineering,3
+TKT-000414,HR Technology,Closed,2025-01-15,2025-03-05,Data,49
+TKT-000491,Learning & Development,Closed,2025-04-28,2025-06-10,Product,43
+TKT-001347,HR Technology,Closed,2025-01-29,2025-03-06,Sales,36
+TKT-000430,Payroll,Closed,2025-03-09,2025-03-15,Product,6
+TKT-000337,Payroll,Closed,2025-12-08,2025-12-31,Customer Success,23
+TKT-000979,Compensation,Closed,2025-04-30,2025-05-29,Customer Success,29
+TKT-000489,Payroll,Closed,2025-11-24,2025-11-30,HR,6
+TKT-001142,HR Technology,Closed,2025-02-09,2025-04-05,Engineering,55
+TKT-002416,Policy & Benefits,Closed,2025-07-17,2025-07-31,Data,14
+TKT-001498,HR Technology,Closed,2025-11-21,2025-12-31,Sales,40
+TKT-000606,Onboarding,Closed,2025-06-22,2025-07-01,Marketing,9
+TKT-000317,Policy & Benefits,Closed,2025-08-01,2025-08-06,Engineering,5
+TKT-001049,HR Technology,Closed,2025-04-09,2025-05-27,Sales,48
+TKT-002007,Offboarding,Closed,2025-05-22,2025-05-29,Sales,7
+TKT-000709,Payroll,Closed,2025-07-01,2025-07-04,Product,3
+TKT-000128,Payroll,Closed,2025-07-24,2025-08-05,Customer Success,12
+TKT-001446,Compensation,Closed,2025-06-16,2025-06-24,Customer Success,8
+TKT-000519,Payroll,Closed,2025-10-10,2025-11-05,Sales,26
+TKT-001219,Learning & Development,Closed,2025-03-03,2025-03-21,Engineering,18
+TKT-001548,Policy & Benefits,Closed,2025-06-28,2025-07-10,Customer Success,12
+TKT-001070,Employee Relations,Closed,2025-08-28,2025-10-05,Customer Success,38
+TKT-001238,Policy & Benefits,Closed,2025-08-24,2025-09-03,Engineering,10
+TKT-000236,Policy & Benefits,Closed,2025-03-25,2025-04-11,Sales,17
+TKT-001647,Policy & Benefits,Closed,2025-01-15,2025-01-17,Customer Success,2
+TKT-000449,HR Technology,Closed,2025-03-10,2025-05-08,Engineering,59
+TKT-001173,HR Technology,Closed,2025-12-02,2025-12-31,Customer Success,29
+TKT-000248,HR Technology,Closed,2025-06-16,2025-08-09,Engineering,54
+TKT-000774,HR Technology,Closed,2025-03-03,2025-04-03,Marketing,31
+TKT-000305,Offboarding,Closed,2025-04-17,2025-04-20,Engineering,3
+TKT-000898,Policy & Benefits,Closed,2025-07-25,2025-07-28,Engineering,3
+TKT-000278,HR Technology,Closed,2025-02-14,2025-02-24,Engineering,10
+TKT-001726,HR Technology,Closed,2025-02-10,2025-04-04,Data,53
+TKT-000965,Policy & Benefits,Closed,2025-08-20,2025-08-27,Finance,7
+TKT-001390,Employee Relations,Closed,2025-03-09,2025-04-06,Customer Success,28
+TKT-001284,Offboarding,Closed,2025-08-09,2025-08-29,Product,20
+TKT-000971,HR Technology,Closed,2025-10-16,2025-11-29,Engineering,44
+TKT-000474,Learning & Development,Closed,2025-09-18,2025-10-03,Product,15
+TKT-001283,Payroll,Closed,2025-01-18,2025-02-02,Engineering,15
+TKT-000525,HR Technology,Closed,2025-08-19,2025-11-19,Data,92
+TKT-001776,HR Technology,Closed,2025-02-13,2025-03-17,Engineering,32
+TKT-000039,HR Technology,Closed,2025-11-16,2025-12-31,Finance,45
+TKT-000324,HR Technology,Closed,2025-07-13,2025-08-10,Customer Success,28
+TKT-000773,Payroll,Closed,2025-03-12,2025-04-30,Engineering,49
+TKT-000975,Onboarding,Closed,2025-08-14,2025-09-01,Engineering,18
+TKT-001259,Policy & Benefits,Closed,2025-05-18,2025-06-02,Sales,15
+TKT-000570,HR Technology,Closed,2025-05-06,2025-06-26,Data,51
+TKT-000323,Learning & Development,Closed,2025-10-27,2025-12-16,Engineering,50
+TKT-000671,Payroll,Closed,2025-12-16,2025-12-31,Engineering,15
+TKT-001479,Compensation,Closed,2025-03-29,2025-04-08,Customer Success,10
+TKT-001500,HR Technology,Closed,2025-09-23,2025-12-03,Engineering,71
+TKT-001491,Onboarding,Closed,2025-04-10,2025-04-17,Engineering,7
+TKT-001215,Offboarding,Closed,2025-09-17,2025-10-14,Engineering,27
+TKT-000746,Offboarding,Closed,2025-06-22,2025-07-11,Engineering,19
+TKT-000071,Policy & Benefits,Closed,2025-06-09,2025-06-25,Customer Success,16
+TKT-001071,Onboarding,Closed,2025-02-24,2025-03-25,Engineering,29
+TKT-001025,HR Technology,Closed,2025-11-08,2025-12-05,Customer Success,27
+TKT-002009,HR Technology,Closed,2025-04-06,2025-06-26,Customer Success,81
+TKT-000720,Policy & Benefits,Closed,2025-05-07,2025-05-19,Data,12
+TKT-001467,Payroll,Closed,2025-09-13,2025-10-19,Data,36
+TKT-000267,Payroll,Closed,2025-01-11,2025-01-17,Engineering,6
+TKT-000096,Policy & Benefits,Closed,2025-12-27,2025-12-29,Customer Success,2
+TKT-001559,Learning & Development,Closed,2025-04-22,2025-06-01,Sales,40
+TKT-001171,Onboarding,Closed,2025-10-02,2025-10-05,Sales,3
+TKT-001980,Policy & Benefits,Closed,2025-03-17,2025-03-21,Sales,4
+TKT-000935,Employee Relations,Closed,2025-05-02,2025-05-08,Data,6
+TKT-000900,Payroll,Closed,2025-04-16,2025-05-09,Engineering,23
+TKT-001948,Policy & Benefits,Closed,2025-07-31,2025-08-09,Engineering,9
+TKT-001028,HR Technology,Closed,2025-06-02,2025-08-18,Data,77
+TKT-000753,Offboarding,Closed,2025-02-20,2025-03-01,Product,9
+TKT-001974,Payroll,Closed,2025-07-01,2025-07-09,Product,8
+TKT-001495,Policy & Benefits,Closed,2025-04-17,2025-04-25,Data,8
+TKT-000176,Learning & Development,Closed,2025-03-09,2025-03-20,Customer Success,11
+TKT-000503,HR Technology,Closed,2025-10-03,2025-11-20,Product,48
+TKT-001302,Employee Relations,Closed,2025-12-29,2025-12-31,Engineering,2
+TKT-000665,Payroll,Closed,2025-11-03,2025-12-03,Product,30
+TKT-000678,HR Technology,Closed,2025-10-25,2025-12-03,Engineering,39
+TKT-001162,Policy & Benefits,Closed,2025-05-06,2025-05-23,Engineering,17
+TKT-000145,Employee Relations,Closed,2025-01-02,2025-02-14,Engineering,43
+TKT-000363,Onboarding,Closed,2025-04-08,2025-04-29,HR,21
+TKT-001425,Payroll,Closed,2025-05-05,2025-06-07,Engineering,33
+TKT-000936,HR Technology,Closed,2025-01-26,2025-04-26,Customer Success,90
+TKT-001109,Offboarding,Closed,2025-09-23,2025-10-20,Customer Success,27
+TKT-001520,Employee Relations,Closed,2025-08-03,2025-10-14,Engineering,72
+TKT-001326,Policy & Benefits,Closed,2025-02-23,2025-03-04,Sales,9
+TKT-000742,Onboarding,Closed,2025-07-24,2025-07-26,Engineering,2
+TKT-001598,Payroll,Closed,2025-12-04,2025-12-31,Sales,27
+TKT-001062,Employee Relations,Closed,2025-05-02,2025-05-17,Product,15
+TKT-000992,HR Technology,Closed,2025-05-27,2025-06-13,Product,17
+TKT-001160,Policy & Benefits,Closed,2025-12-25,2025-12-31,Product,6
+TKT-000221,HR Technology,Closed,2025-03-27,2025-04-01,Engineering,5
+TKT-000978,HR Technology,Closed,2025-11-07,2025-11-24,Engineering,17
+TKT-000526,Payroll,Closed,2025-09-05,2025-09-30,Sales,25
+TKT-001801,Onboarding,Closed,2025-06-01,2025-06-09,Product,8
+TKT-000608,Onboarding,Closed,2025-06-16,2025-06-28,Data,12
+TKT-000982,Onboarding,Closed,2025-11-25,2025-12-08,Engineering,13
+TKT-002058,HR Technology,Closed,2025-03-31,2025-06-29,Engineering,90
+TKT-001579,HR Technology,Closed,2025-08-06,2025-11-06,Finance,92
+TKT-000241,Offboarding,Closed,2025-05-09,2025-05-28,Customer Success,19
+TKT-001462,Policy & Benefits,Closed,2025-03-27,2025-04-09,Engineering,13
+TKT-001275,Onboarding,Closed,2025-04-09,2025-04-22,Engineering,13
+TKT-001780,Employee Relations,Closed,2025-07-15,2025-08-24,Engineering,40
+TKT-000535,HR Technology,Closed,2025-03-19,2025-05-22,Sales,64
+TKT-000320,Policy & Benefits,Closed,2025-03-08,2025-03-12,Customer Success,4
+TKT-001746,Learning & Development,Closed,2025-06-03,2025-06-10,Engineering,7
+TKT-000217,Policy & Benefits,Closed,2025-10-01,2025-10-03,Customer Success,2
+TKT-001082,Compensation,Closed,2025-04-19,2025-05-13,Customer Success,24
+TKT-001459,Employee Relations,Closed,2025-02-06,2025-02-20,Sales,14
+TKT-002237,HR Technology,Closed,2025-12-19,2025-12-31,Engineering,12
+TKT-001386,Employee Relations,Closed,2025-02-14,2025-03-06,Customer Success,20
+TKT-000127,Payroll,Closed,2025-03-02,2025-04-17,Sales,46
+TKT-001189,Policy & Benefits,Closed,2025-05-09,2025-05-14,Data,5
+TKT-001424,Policy & Benefits,Closed,2025-10-16,2025-10-20,HR,4
+TKT-000007,Policy & Benefits,Closed,2025-09-25,2025-10-05,Engineering,10
+TKT-001190,Employee Relations,Closed,2025-05-04,2025-05-21,Engineering,17
+TKT-000981,HR Technology,Closed,2025-10-26,2025-12-23,Engineering,58
+TKT-001761,Policy & Benefits,Closed,2025-09-03,2025-09-11,Sales,8
+TKT-000206,Onboarding,Closed,2025-11-02,2025-11-23,Engineering,21
+TKT-001804,HR Technology,Closed,2025-08-13,2025-09-26,Engineering,44
+TKT-000610,Payroll,Closed,2025-01-02,2025-02-10,Engineering,39
+TKT-000648,HR Technology,Closed,2025-02-27,2025-04-18,Customer Success,50
+TKT-000872,HR Technology,Closed,2025-01-22,2025-04-11,Engineering,79
+TKT-000943,Policy & Benefits,Closed,2025-10-10,2025-10-17,Marketing,7
+TKT-000332,Policy & Benefits,Closed,2025-03-11,2025-03-27,Customer Success,16
+TKT-001240,Payroll,Closed,2025-03-13,2025-03-20,Marketing,7
+TKT-000195,Policy & Benefits,Closed,2025-09-17,2025-10-02,Customer Success,15
+TKT-001009,Policy & Benefits,Closed,2025-04-26,2025-05-11,HR,15
+TKT-001972,HR Technology,Closed,2025-10-29,2025-12-31,Engineering,63
+TKT-001442,Offboarding,Closed,2025-01-16,2025-02-09,Product,24
+TKT-000631,Learning & Development,Closed,2025-08-27,2025-10-13,Engineering,47
+TKT-002275,Offboarding,Closed,2025-05-26,2025-06-10,Customer Success,15
+TKT-001560,HR Technology,Closed,2025-08-06,2025-09-22,Customer Success,47
+TKT-000681,Learning & Development,Closed,2025-07-25,2025-09-26,Engineering,63
+TKT-001321,Learning & Development,Closed,2025-11-13,2025-12-18,Engineering,35
+TKT-000848,Payroll,Closed,2025-07-30,2025-08-21,Engineering,22
+TKT-001232,Onboarding,Closed,2025-02-09,2025-02-21,Customer Success,12
+TKT-001514,Payroll,Closed,2025-05-22,2025-05-30,Customer Success,8
+TKT-001688,HR Technology,Closed,2025-12-18,2025-12-31,Engineering,13
+TKT-000209,HR Technology,Closed,2025-08-16,2025-11-11,Engineering,87
+TKT-001426,HR Technology,Closed,2025-08-07,2025-10-04,Customer Success,58
+TKT-000584,HR Technology,Closed,2025-05-10,2025-06-16,Sales,37
+TKT-001146,Policy & Benefits,Closed,2025-04-15,2025-04-19,Data,4
+TKT-000859,Onboarding,Closed,2025-07-30,2025-08-05,Engineering,6
+TKT-000091,Policy & Benefits,Closed,2025-08-22,2025-09-06,Engineering,15
+TKT-000556,Compensation,Closed,2025-04-26,2025-05-30,Engineering,34
+TKT-000382,Onboarding,Closed,2025-11-08,2025-11-24,Customer Success,16
+TKT-001540,HR Technology,Closed,2025-10-28,2025-12-20,Sales,53
+TKT-000770,HR Technology,Closed,2025-11-12,2025-12-31,Engineering,49
+TKT-000849,HR Technology,Closed,2025-12-18,2025-12-31,Engineering,13
+TKT-001812,Policy & Benefits,Closed,2025-07-06,2025-07-24,Data,18
+TKT-000412,Offboarding,Closed,2025-07-20,2025-08-14,Engineering,25
+TKT-001669,Policy & Benefits,Closed,2025-04-02,2025-04-13,Engineering,11
+TKT-000431,HR Technology,Closed,2025-11-10,2025-12-06,Product,26
+TKT-000699,HR Technology,Closed,2025-07-09,2025-09-06,Engineering,59
+TKT-000576,Policy & Benefits,Closed,2025-09-30,2025-10-13,Product,13
+TKT-000719,Policy & Benefits,Closed,2025-10-20,2025-11-08,Engineering,19
+TKT-000747,Payroll,Closed,2025-01-09,2025-02-04,Engineering,26
+TKT-001029,HR Technology,Closed,2025-08-07,2025-09-14,Engineering,38
+TKT-001880,Policy & Benefits,Closed,2025-07-22,2025-07-27,Engineering,5
+TKT-000785,HR Technology,Closed,2025-05-03,2025-08-02,Customer Success,91
+TKT-002367,Policy & Benefits,Closed,2025-07-03,2025-07-21,Engineering,18
+TKT-001139,Employee Relations,Closed,2025-05-12,2025-06-25,HR,44
+TKT-001289,HR Technology,Closed,2025-05-27,2025-06-10,Marketing,14
+TKT-000980,Policy & Benefits,Closed,2025-01-30,2025-02-22,Finance,23
+TKT-001294,Onboarding,Closed,2025-02-02,2025-02-14,Engineering,12
+TKT-000847,Employee Relations,Closed,2025-10-22,2025-11-14,Engineering,23
+TKT-002101,HR Technology,Closed,2025-08-05,2025-10-19,Customer Success,75
+TKT-000603,Employee Relations,Closed,2025-12-24,2025-12-31,Customer Success,7
+TKT-001116,Employee Relations,Closed,2025-10-27,2025-11-06,Sales,10
+TKT-000395,Offboarding,Closed,2025-01-11,2025-01-22,Engineering,11
+TKT-000673,Policy & Benefits,Closed,2025-08-14,2025-08-19,Engineering,5
+TKT-000620,Offboarding,Closed,2025-10-23,2025-11-07,Engineering,15
+TKT-000996,Onboarding,Closed,2025-01-05,2025-01-29,Customer Success,24
+TKT-000547,HR Technology,Closed,2025-05-10,2025-07-09,Customer Success,60
+TKT-000558,Policy & Benefits,Closed,2025-04-27,2025-05-08,Customer Success,11
+TKT-001411,Payroll,Closed,2025-11-27,2025-12-27,Product,30
+TKT-001132,Policy & Benefits,Closed,2025-02-15,2025-03-03,Sales,16
+TKT-000710,Learning & Development,Closed,2025-06-13,2025-07-08,Engineering,25
+TKT-001908,Onboarding,Closed,2025-04-11,2025-05-19,Sales,38
+TKT-000826,Policy & Benefits,Closed,2025-10-17,2025-10-21,Product,4
+TKT-001155,Payroll,Closed,2025-02-05,2025-02-14,Sales,9
+TKT-000389,Learning & Development,Closed,2025-01-02,2025-01-22,Engineering,20
+TKT-000326,Offboarding,Closed,2025-02-10,2025-02-22,Sales,12
+TKT-000469,HR Technology,Closed,2025-08-23,2025-11-12,Sales,81
+TKT-000277,Payroll,Closed,2025-04-24,2025-05-10,Product,16
+TKT-000049,Policy & Benefits,Closed,2025-07-30,2025-08-04,Engineering,5
+TKT-000647,Onboarding,Closed,2025-04-23,2025-05-07,Engineering,14
+TKT-000914,Onboarding,Closed,2025-07-07,2025-07-23,Engineering,16
+TKT-001486,HR Technology,Closed,2025-03-24,2025-05-07,Sales,44
+TKT-000240,Employee Relations,Closed,2025-10-27,2025-12-21,Product,55
+TKT-001543,Learning & Development,Closed,2025-09-07,2025-09-18,Engineering,11
+TKT-000397,Learning & Development,Closed,2025-09-19,2025-11-14,Engineering,56
+TKT-001103,Learning & Development,Closed,2025-11-28,2025-12-17,Customer Success,19
+TKT-002169,HR Technology,Closed,2025-11-07,2025-11-29,Engineering,22
+TKT-000938,HR Technology,Closed,2025-10-30,2025-12-11,Sales,42
+TKT-001032,HR Technology,Closed,2025-01-16,2025-02-08,Engineering,23
+TKT-000047,HR Technology,Closed,2025-11-17,2025-12-31,Sales,44
+TKT-000628,HR Technology,Closed,2025-10-09,2025-12-17,Data,69
+TKT-000954,Offboarding,Closed,2025-05-23,2025-06-04,Customer Success,12
+TKT-001475,Learning & Development,Closed,2025-05-30,2025-06-24,Engineering,25
+TKT-001013,HR Technology,Closed,2025-05-05,2025-06-02,Customer Success,28
+TKT-000081,Payroll,Closed,2025-09-25,2025-10-19,Data,24
+TKT-000342,Employee Relations,Closed,2025-01-27,2025-02-06,Engineering,10
+TKT-000061,Learning & Development,Closed,2025-12-08,2025-12-31,Engineering,23
+TKT-000757,Learning & Development,Closed,2025-05-22,2025-06-25,Data,34
+TKT-001122,Policy & Benefits,Closed,2025-03-13,2025-03-20,Finance,7
+TKT-001414,Offboarding,Closed,2025-07-14,2025-07-25,Customer Success,11
+TKT-000530,Payroll,Closed,2025-02-07,2025-02-20,Engineering,13
+TKT-001166,Learning & Development,Closed,2025-01-14,2025-02-17,Engineering,34
+TKT-002043,Payroll,Closed,2025-11-15,2025-12-04,Finance,19
+TKT-000312,Payroll,Closed,2025-08-13,2025-08-27,Engineering,14
+TKT-002053,HR Technology,Closed,2025-10-18,2025-10-27,Data,9
+TKT-000883,HR Technology,Closed,2025-01-18,2025-03-19,Data,60
+TKT-000718,Learning & Development,Closed,2025-12-12,2025-12-31,Engineering,19
+TKT-001975,Policy & Benefits,Closed,2025-06-30,2025-07-23,Customer Success,23
+TKT-000283,HR Technology,Closed,2025-01-09,2025-02-14,Customer Success,36
+TKT-000794,HR Technology,Closed,2025-12-01,2025-12-31,Customer Success,30
+TKT-000094,Employee Relations,Closed,2025-04-07,2025-06-17,Sales,71
+TKT-000862,HR Technology,Closed,2025-04-18,2025-07-13,Customer Success,86
+TKT-001269,Learning & Development,Closed,2025-07-09,2025-08-25,Sales,47
+TKT-001046,HR Technology,Closed,2025-05-13,2025-07-19,Data,67
+TKT-001038,Offboarding,Closed,2025-05-17,2025-06-04,Customer Success,18
+TKT-000706,Offboarding,Closed,2025-01-18,2025-02-04,Product,17
+TKT-001535,HR Technology,Closed,2025-11-09,2025-11-15,Engineering,6
+TKT-000141,HR Technology,Closed,2025-03-05,2025-06-28,HR,115
+TKT-000599,Payroll,Closed,2025-06-27,2025-07-20,Customer Success,23
+TKT-000793,Payroll,Closed,2025-02-11,2025-02-24,Engineering,13
+TKT-001214,HR Technology,Closed,2025-08-06,2025-10-11,Engineering,66
+TKT-001396,HR Technology,Closed,2025-12-21,2025-12-31,Engineering,10
+TKT-001563,Payroll,Closed,2025-01-24,2025-02-01,Sales,8
+TKT-000842,Offboarding,Closed,2025-11-17,2025-12-14,Marketing,27
+TKT-000637,Onboarding,Closed,2025-10-20,2025-11-12,HR,23
+TKT-000743,Payroll,Closed,2025-11-08,2025-12-08,Engineering,30
+TKT-000852,Policy & Benefits,Closed,2025-06-29,2025-07-18,Engineering,19
+TKT-002080,HR Technology,Closed,2025-04-20,2025-05-26,Engineering,36
+TKT-000185,HR Technology,Closed,2025-09-13,2025-10-11,Product,28
+TKT-000814,Offboarding,Closed,2025-09-07,2025-09-23,Sales,16
+TKT-001590,Payroll,Closed,2025-07-30,2025-09-12,HR,44
+TKT-001528,Policy & Benefits,Closed,2025-05-30,2025-06-11,Product,12
+TKT-001815,Onboarding,Closed,2025-08-06,2025-08-23,Engineering,17
+TKT-000559,Payroll,Closed,2025-03-16,2025-04-15,Engineering,30
+TKT-000197,HR Technology,Closed,2025-04-20,2025-07-14,Engineering,85
+TKT-000211,Payroll,Closed,2025-04-21,2025-05-10,Sales,19
+TKT-000828,HR Technology,Closed,2025-10-10,2025-11-13,Sales,34
+TKT-000762,Offboarding,Closed,2025-07-31,2025-08-16,Sales,16
+TKT-000069,Offboarding,Closed,2025-05-31,2025-06-08,Marketing,8
+TKT-000658,Onboarding,Closed,2025-01-04,2025-01-13,Data,9
+TKT-000493,Payroll,Closed,2025-01-06,2025-02-22,Sales,47
+TKT-001497,Onboarding,Closed,2025-12-18,2025-12-25,Data,7
+TKT-001141,Payroll,Closed,2025-09-25,2025-10-09,Product,14
+TKT-001914,Payroll,Closed,2025-09-06,2025-09-09,Engineering,3
+TKT-000688,Onboarding,Closed,2025-03-03,2025-03-22,Finance,19
+TKT-001055,Policy & Benefits,Closed,2025-11-01,2025-11-03,Engineering,2
+TKT-000531,Payroll,Closed,2025-11-16,2025-11-26,Engineering,10
+TKT-000423,Onboarding,Closed,2025-03-27,2025-04-17,Engineering,21
+TKT-000168,HR Technology,Closed,2025-05-26,2025-06-22,Engineering,27
+TKT-000249,Policy & Benefits,Closed,2025-12-02,2025-12-09,Engineering,7
+TKT-000999,HR Technology,Closed,2025-12-29,2025-12-31,Engineering,2
+TKT-001113,Employee Relations,Closed,2025-07-10,2025-08-14,Data,35
+TKT-000207,HR Technology,Closed,2025-10-31,2025-11-07,Engineering,7
+TKT-000135,HR Technology,Closed,2025-01-11,2025-04-22,Data,101
+TKT-000485,Payroll,Closed,2025-08-12,2025-08-27,Product,15
+TKT-001315,HR Technology,Closed,2025-10-09,2025-12-31,Sales,83
+TKT-000020,Offboarding,Closed,2025-03-08,2025-03-23,Customer Success,15
+TKT-000655,HR Technology,Closed,2025-08-04,2025-10-24,Customer Success,81
+TKT-000309,HR Technology,Closed,2025-02-03,2025-04-02,HR,58
+TKT-000539,Payroll,Closed,2025-05-12,2025-06-06,Engineering,25
+TKT-002142,Learning & Development,Closed,2025-07-23,2025-09-08,Data,47
+TKT-001461,Learning & Development,Closed,2025-02-25,2025-03-09,Sales,12
+TKT-000200,Payroll,Closed,2025-03-06,2025-03-10,Marketing,4
+TKT-000303,Employee Relations,Closed,2025-12-17,2025-12-31,Engineering,14
+TKT-000043,Offboarding,Closed,2025-04-07,2025-04-19,Sales,12
+TKT-001887,Onboarding,Closed,2025-06-25,2025-07-08,Sales,13
+TKT-000147,Onboarding,Closed,2025-09-04,2025-09-24,Product,20
+TKT-000025,Onboarding,Closed,2025-06-04,2025-07-04,Customer Success,30
+TKT-001371,Compensation,Closed,2025-07-30,2025-08-23,Customer Success,24
+TKT-000311,Employee Relations,Closed,2025-09-08,2025-10-02,Sales,24
+TKT-001210,Payroll,Closed,2025-07-26,2025-08-05,Engineering,10
+TKT-001195,HR Technology,Closed,2025-12-05,2025-12-31,Customer Success,26
+TKT-000731,Policy & Benefits,Closed,2025-04-27,2025-04-29,Customer Success,2
+TKT-001168,Offboarding,Closed,2025-02-12,2025-03-05,Engineering,21
+TKT-000574,Policy & Benefits,Closed,2025-10-01,2025-10-16,Customer Success,15
+TKT-000198,Employee Relations,Closed,2025-07-22,2025-08-29,Engineering,38
+TKT-000920,Onboarding,Closed,2025-08-30,2025-09-27,Customer Success,28
+TKT-000377,HR Technology,Closed,2025-05-11,2025-06-15,Marketing,35
+TKT-000208,Employee Relations,Closed,2025-04-08,2025-04-30,Engineering,22
+TKT-000686,HR Technology,Closed,2025-07-11,2025-07-22,Engineering,11
+TKT-001655,Learning & Development,Closed,2025-09-17,2025-11-19,Data,63
+TKT-000690,Employee Relations,Closed,2025-03-16,2025-05-22,Finance,67
+TKT-000841,Payroll,Closed,2025-06-24,2025-07-06,Customer Success,12
+TKT-001093,Offboarding,Closed,2025-10-04,2025-10-16,Product,12
+TKT-001229,Payroll,Closed,2025-06-23,2025-08-15,Engineering,53
+TKT-000148,Offboarding,Closed,2025-12-17,2025-12-31,Data,14
+TKT-001361,Onboarding,Closed,2025-04-07,2025-04-15,Engineering,8
+TKT-000015,Payroll,Closed,2025-09-21,2025-09-25,Finance,4
+TKT-000405,Payroll,Closed,2025-06-02,2025-06-16,Engineering,14
+TKT-000646,Employee Relations,Closed,2025-12-25,2025-12-31,Engineering,6
+TKT-000795,Payroll,Closed,2025-07-09,2025-07-16,Sales,7
+TKT-000154,HR Technology,Closed,2025-01-21,2025-02-23,Engineering,33
+TKT-000230,Learning & Development,Closed,2025-09-19,2025-10-03,Engineering,14
+TKT-000330,Policy & Benefits,Closed,2025-09-30,2025-10-13,Customer Success,13
+TKT-001127,Compensation,Closed,2025-05-29,2025-07-12,Engineering,44
+TKT-000949,Payroll,Closed,2025-06-02,2025-06-17,Engineering,15
+TKT-000990,Payroll,Closed,2025-02-03,2025-02-20,Engineering,17
+TKT-000621,Policy & Benefits,Closed,2025-07-22,2025-08-06,Engineering,15
+TKT-001004,Learning & Development,Closed,2025-09-25,2025-10-25,Engineering,30
+TKT-000937,Payroll,Closed,2025-08-24,2025-10-11,Customer Success,48
+TKT-000844,HR Technology,Closed,2025-03-06,2025-04-08,Customer Success,33
+TKT-000633,Policy & Benefits,Closed,2025-04-09,2025-04-29,Data,20
+TKT-001329,HR Technology,Closed,2025-11-15,2025-12-14,Data,29
+TKT-001384,Onboarding,Closed,2025-12-31,2025-12-31,Sales,0
+TKT-001135,Learning & Development,Closed,2025-02-11,2025-04-29,Sales,77
+TKT-001686,Payroll,Closed,2025-06-30,2025-07-26,Sales,26
+TKT-000016,Policy & Benefits,Closed,2024-12-31,2025-01-09,Data,9
+TKT-000490,Policy & Benefits,Closed,2025-03-31,2025-04-14,Engineering,14
+TKT-001722,Learning & Development,Closed,2025-07-03,2025-08-19,Engineering,47
+TKT-000627,HR Technology,Closed,2025-01-01,2025-02-09,Data,39
+TKT-000546,Policy & Benefits,Closed,2025-06-17,2025-07-02,Product,15
+TKT-001267,Policy & Benefits,Closed,2025-01-25,2025-02-09,Product,15
+TKT-001080,Compensation,Closed,2025-12-22,2025-12-31,Data,9
+TKT-001123,HR Technology,Closed,2025-05-18,2025-05-31,Engineering,13
+TKT-000624,HR Technology,Closed,2025-11-07,2025-12-31,Product,54
+TKT-000604,Policy & Benefits,Closed,2025-07-15,2025-07-20,Engineering,5
+TKT-000926,HR Technology,Closed,2025-04-27,2025-07-22,Engineering,86
+TKT-000193,HR Technology,Closed,2025-07-23,2025-09-19,HR,58
+TKT-001312,Payroll,Closed,2025-05-12,2025-05-28,Engineering,16
+TKT-000838,Policy & Benefits,Closed,2025-09-22,2025-10-01,Customer Success,9
+TKT-000335,Onboarding,Closed,2025-04-04,2025-04-27,Customer Success,23
+TKT-001030,HR Technology,Closed,2025-06-30,2025-09-06,Engineering,68
+TKT-000429,Payroll,Closed,2025-02-04,2025-02-08,Engineering,4
+TKT-000555,Onboarding,Closed,2025-12-01,2025-12-18,Sales,17
+TKT-000036,Policy & Benefits,Closed,2025-06-03,2025-06-17,Product,14
+TKT-000353,Learning & Development,Closed,2025-01-19,2025-03-18,Product,58
+TKT-000922,Onboarding,Closed,2025-10-10,2025-10-19,Product,9
+TKT-000076,Policy & Benefits,Closed,2025-01-22,2025-02-05,Engineering,14
+TKT-000660,HR Technology,Closed,2025-04-21,2025-06-15,Engineering,55
+TKT-000181,Compensation,Closed,2025-05-12,2025-07-07,Sales,56
+TKT-001250,HR Technology,Closed,2025-09-14,2025-11-07,Product,54
+TKT-000099,Onboarding,Closed,2025-12-23,2025-12-31,Engineering,8
+TKT-001571,Policy & Benefits,Closed,2025-11-04,2025-11-17,Finance,13
+TKT-000125,HR Technology,Closed,2025-09-22,2025-09-27,Customer Success,5
+TKT-001277,Learning & Development,Closed,2025-02-27,2025-03-06,Engineering,7
+TKT-000875,Compensation,Closed,2025-09-11,2025-10-24,Engineering,43
+TKT-001330,Learning & Development,Closed,2025-03-12,2025-05-19,Engineering,68
+TKT-000038,Learning & Development,Closed,2025-05-01,2025-05-23,Sales,22
+TKT-001742,Policy & Benefits,Closed,2025-07-16,2025-08-08,Engineering,23
+TKT-000201,Learning & Development,Closed,2025-04-16,2025-05-13,Customer Success,27
+TKT-000974,Employee Relations,Closed,2025-07-06,2025-07-24,Customer Success,18
+TKT-001296,Onboarding,Closed,2025-03-13,2025-04-08,Sales,26
+TKT-001364,Learning & Development,Closed,2025-12-31,2025-12-31,Customer Success,0
+TKT-000354,HR Technology,Closed,2025-10-22,2025-11-28,Data,37
+TKT-001367,Payroll,Closed,2025-06-30,2025-08-02,HR,33
+TKT-000959,HR Technology,Closed,2025-02-03,2025-02-25,Engineering,22
+TKT-001487,Employee Relations,Closed,2025-05-08,2025-06-24,Sales,47
+TKT-000136,HR Technology,Closed,2025-03-02,2025-05-11,Engineering,70
+TKT-001735,Compensation,Closed,2025-11-02,2025-11-12,Engineering,10
+TKT-000022,HR Technology,Closed,2025-12-05,2025-12-31,Customer Success,26
+TKT-000366,Payroll,Closed,2025-11-23,2025-12-06,Engineering,13
+TKT-000650,Employee Relations,Closed,2025-07-06,2025-08-19,Marketing,44
+TKT-000119,Policy & Benefits,Closed,2025-05-16,2025-05-19,Customer Success,3
+TKT-000740,Payroll,Closed,2025-08-23,2025-09-24,Marketing,32
+TKT-000051,Onboarding,Closed,2025-01-05,2025-02-07,Customer Success,33
+TKT-000891,HR Technology,Closed,2025-12-16,2025-12-31,HR,15
+TKT-001728,Onboarding,Closed,2025-08-09,2025-09-13,Engineering,35
+TKT-000483,Learning & Development,Closed,2025-08-07,2025-09-09,Product,33
+TKT-000116,Learning & Development,Closed,2025-08-02,2025-08-22,Engineering,20
+TKT-002260,Policy & Benefits,Closed,2025-05-07,2025-05-21,Customer Success,14
+TKT-001264,HR Technology,Closed,2025-08-30,2025-12-03,Customer Success,95
+TKT-000172,HR Technology,Closed,2025-10-28,2025-11-20,Engineering,23
+TKT-000578,Policy & Benefits,Closed,2025-06-03,2025-06-18,Engineering,15
+TKT-000783,Learning & Development,Closed,2025-02-18,2025-03-22,Engineering,32
+TKT-001149,HR Technology,Closed,2025-09-19,2025-10-17,Customer Success,28
+TKT-001493,Offboarding,Closed,2025-03-11,2025-04-06,Customer Success,26
+TKT-001525,HR Technology,Closed,2025-02-26,2025-04-18,Engineering,51
+TKT-001406,Offboarding,Closed,2025-07-14,2025-08-05,Customer Success,22
+TKT-000640,Payroll,Closed,2025-05-13,2025-06-08,Data,26
+TKT-000767,Offboarding,Closed,2025-01-24,2025-01-31,Engineering,7
+TKT-000598,Policy & Benefits,Closed,2025-07-19,2025-07-22,Sales,3
+TKT-000588,Offboarding,Closed,2025-11-21,2025-12-01,Engineering,10
+TKT-000151,Onboarding,Closed,2025-05-11,2025-05-27,Engineering,16
+TKT-001736,Offboarding,Closed,2025-01-05,2025-01-19,Data,14
+TKT-000115,Onboarding,Closed,2025-06-22,2025-07-04,Engineering,12
+TKT-001597,Policy & Benefits,Closed,2025-06-08,2025-06-24,Engineering,16
+TKT-000452,Offboarding,Closed,2025-02-25,2025-03-04,Engineering,7
+TKT-000134,Compensation,Closed,2025-06-21,2025-07-17,Product,26
+TKT-000543,Learning & Development,Closed,2025-06-24,2025-07-04,Engineering,10
+TKT-000437,Learning & Development,Closed,2025-03-31,2025-04-10,Engineering,10
+TKT-001023,Learning & Development,Closed,2025-02-25,2025-04-19,Engineering,53
+TKT-001870,HR Technology,Closed,2025-09-15,2025-10-24,Engineering,39
+TKT-000501,HR Technology,Closed,2025-04-14,2025-06-05,Customer Success,52
+TKT-002345,HR Technology,Closed,2025-10-06,2025-11-09,Engineering,34
+TKT-001051,Policy & Benefits,Closed,2025-10-26,2025-11-02,HR,7
+TKT-001019,HR Technology,Closed,2025-03-21,2025-06-13,Marketing,84
+TKT-000261,Onboarding,Closed,2025-07-02,2025-07-14,Finance,12
+TKT-000772,Compensation,Closed,2025-07-12,2025-07-31,Engineering,19
+TKT-000756,Policy & Benefits,Closed,2025-06-14,2025-07-07,Engineering,23
+TKT-001901,Payroll,Closed,2025-08-28,2025-09-25,Customer Success,28
+TKT-000751,Policy & Benefits,Closed,2025-10-01,2025-10-23,Sales,22
+TKT-000269,Payroll,Closed,2025-06-21,2025-07-27,Engineering,36
+TKT-000235,HR Technology,Closed,2025-08-20,2025-11-25,Engineering,97
+TKT-000443,HR Technology,Closed,2025-10-08,2025-11-01,Engineering,24
+TKT-000779,HR Technology,Closed,2025-01-11,2025-02-11,Customer Success,31
+TKT-000108,Offboarding,Closed,2025-01-29,2025-02-01,Customer Success,3
+TKT-000338,Onboarding,Closed,2025-07-12,2025-07-23,Customer Success,11
+TKT-000934,Onboarding,Closed,2025-03-27,2025-04-26,Product,30
+TKT-001094,Onboarding,Closed,2025-11-20,2025-12-07,Sales,17
+TKT-000164,HR Technology,Closed,2025-03-29,2025-06-02,Engineering,65
+TKT-000925,Payroll,Closed,2025-08-21,2025-09-11,Sales,21
+TKT-000478,Onboarding,Closed,2025-07-11,2025-08-02,Product,22
+TKT-001057,Payroll,Closed,2025-10-31,2025-11-20,Sales,20
+TKT-000186,Payroll,Closed,2025-12-27,2025-12-31,Engineering,4
+TKT-000458,Employee Relations,Closed,2025-03-18,2025-05-05,Sales,48
+TKT-000909,Learning & Development,Closed,2025-04-21,2025-05-06,Engineering,15
+TKT-001477,Offboarding,Closed,2025-06-28,2025-07-17,Sales,19
+TKT-001163,Onboarding,Closed,2025-05-26,2025-06-09,Engineering,14
+TKT-000374,Onboarding,Closed,2025-11-03,2025-11-14,Engineering,11
+TKT-000585,Payroll,Closed,2025-09-03,2025-09-25,Customer Success,22
+TKT-002139,Policy & Benefits,Closed,2025-01-10,2025-01-14,Engineering,4
+TKT-000607,Onboarding,Closed,2025-09-20,2025-10-05,Sales,15
+TKT-000712,Employee Relations,Closed,2025-10-14,2025-10-29,Engineering,15
+TKT-000334,HR Technology,Closed,2025-12-29,2025-12-31,Data,2
+TKT-000691,Onboarding,Closed,2025-05-12,2025-05-27,Customer Success,15
+TKT-001418,HR Technology,Closed,2025-03-21,2025-04-10,Engineering,20
+TKT-000359,Learning & Development,Closed,2025-09-30,2025-10-06,Customer Success,6
+TKT-000212,Learning & Development,Closed,2025-06-26,2025-08-08,Engineering,43
+TKT-000499,Learning & Development,Closed,2025-04-23,2025-07-05,Finance,73
+TKT-000654,Offboarding,Closed,2025-07-31,2025-08-18,Customer Success,18
+TKT-000528,HR Technology,Closed,2025-08-14,2025-11-18,Engineering,96
+TKT-000789,HR Technology,Closed,2025-03-10,2025-05-10,Engineering,61
+TKT-000242,Payroll,Closed,2025-12-16,2025-12-30,Finance,14
+TKT-000100,HR Technology,Closed,2025-11-12,2025-12-31,Engineering,49
+TKT-000873,Employee Relations,Closed,2025-07-06,2025-08-28,Data,53
+TKT-000216,Policy & Benefits,Closed,2025-08-15,2025-08-18,Data,3
+TKT-000663,HR Technology,Closed,2025-03-20,2025-05-16,Engineering,57
+TKT-001565,HR Technology,Closed,2025-12-31,2025-12-31,Customer Success,0
+TKT-000463,Onboarding,Closed,2025-05-31,2025-06-15,Customer Success,15
+TKT-001015,Payroll,Closed,2025-01-01,2025-02-16,Sales,46
+TKT-000929,Learning & Development,Closed,2025-09-02,2025-10-05,Data,33
+TKT-000411,Policy & Benefits,Closed,2025-04-12,2025-04-14,Customer Success,2
+TKT-000075,Policy & Benefits,Closed,2025-02-14,2025-02-16,Product,2
+TKT-001408,Onboarding,Closed,2025-01-24,2025-02-04,Engineering,11
+TKT-000415,HR Technology,Closed,2025-02-03,2025-04-06,Customer Success,62
+TKT-000392,Payroll,Closed,2025-11-30,2025-12-31,Engineering,31
+TKT-001089,Compensation,Closed,2025-09-15,2025-10-27,Engineering,42
+TKT-001182,HR Technology,Closed,2025-09-29,2025-12-01,Engineering,63
+TKT-000351,Policy & Benefits,Closed,2025-08-22,2025-09-16,Sales,25
+TKT-000028,Employee Relations,Closed,2025-07-03,2025-08-17,Marketing,45
+TKT-000196,Learning & Development,Closed,2025-12-04,2025-12-31,HR,27
+TKT-000557,Payroll,Closed,2025-09-24,2025-10-24,Engineering,30
+TKT-000289,Onboarding,Closed,2025-05-29,2025-07-10,Engineering,42
+TKT-001892,HR Technology,Closed,2025-05-09,2025-07-16,Engineering,68
+TKT-000315,HR Technology,Closed,2025-08-09,2025-08-24,Sales,15
+TKT-000919,HR Technology,Closed,2025-03-17,2025-04-13,HR,27
+TKT-001358,Onboarding,Closed,2025-01-07,2025-02-17,Product,41
+TKT-001701,Learning & Development,Closed,2025-10-31,2025-12-31,Engineering,61
+TKT-000120,Onboarding,Closed,2025-03-23,2025-04-21,Engineering,29
+TKT-000727,Onboarding,Closed,2025-08-04,2025-08-19,Sales,15
+TKT-000451,Payroll,Closed,2025-09-08,2025-10-17,Sales,39
+TKT-000155,Payroll,Closed,2025-01-10,2025-02-02,Data,23
+TKT-001370,Offboarding,Closed,2025-09-24,2025-10-18,Data,24
+TKT-001725,Policy & Benefits,Closed,2025-07-22,2025-08-09,Engineering,18
+TKT-000685,Policy & Benefits,Closed,2025-01-05,2025-01-09,Finance,4
+TKT-000787,HR Technology,Closed,2025-12-09,2025-12-31,Engineering,22
+TKT-000149,Payroll,Closed,2025-01-05,2025-02-02,Engineering,28
+TKT-000057,Policy & Benefits,Closed,2025-10-08,2025-10-11,Engineering,3
+TKT-000101,HR Technology,Closed,2025-08-17,2025-11-24,Engineering,99
+TKT-001077,HR Technology,Closed,2025-10-31,2025-12-24,Data,54
+TKT-000104,Policy & Benefits,Closed,2025-06-20,2025-07-03,Data,13
+TKT-000034,HR Technology,Closed,2025-03-19,2025-05-13,Product,55
+TKT-000698,Onboarding,Closed,2025-07-10,2025-08-05,Sales,26
+TKT-000089,Payroll,Closed,2025-03-07,2025-03-14,Customer Success,7
+TKT-000534,Onboarding,Closed,2025-05-25,2025-06-11,Engineering,17
+TKT-002111,HR Technology,Closed,2025-03-22,2025-05-09,Data,48
+TKT-001448,Compensation,Closed,2025-07-26,2025-08-18,Sales,23
+TKT-001314,Policy & Benefits,Closed,2025-09-24,2025-10-07,Sales,13
+TKT-000343,Policy & Benefits,Closed,2025-05-18,2025-05-27,Customer Success,9
+TKT-000997,Offboarding,Closed,2025-08-18,2025-08-26,Engineering,8
+TKT-001027,Employee Relations,Closed,2025-02-03,2025-02-18,Customer Success,15
+TKT-001117,Onboarding,Closed,2025-05-24,2025-05-28,Engineering,4
+TKT-000162,Policy & Benefits,Closed,2025-08-06,2025-08-21,Customer Success,15
+TKT-000459,Compensation,Closed,2025-09-12,2025-09-24,Customer Success,12
+TKT-001511,HR Technology,Closed,2025-06-28,2025-08-02,Data,35
+TKT-000527,Onboarding,Closed,2025-10-05,2025-11-03,Finance,29
+TKT-000836,Payroll,Closed,2025-11-02,2025-12-09,Customer Success,37
+TKT-000801,Policy & Benefits,Closed,2025-05-05,2025-05-13,Product,8
+TKT-001226,Payroll,Closed,2025-07-28,2025-08-21,Engineering,24
+TKT-001105,Onboarding,Closed,2025-04-03,2025-04-04,Engineering,1
+TKT-000308,HR Technology,Closed,2025-12-17,2025-12-31,Engineering,14
+TKT-000117,Payroll,Closed,2025-10-14,2025-10-20,Engineering,6
+TKT-000593,HR Technology,Closed,2025-03-02,2025-04-13,Engineering,42
+TKT-000804,Onboarding,Closed,2025-11-15,2025-12-07,Engineering,22
+TKT-000310,Offboarding,Closed,2025-01-16,2025-01-23,Engineering,7
+TKT-000561,Learning & Development,Closed,2025-06-27,2025-07-22,Engineering,25
+TKT-000611,Compensation,Closed,2025-09-27,2025-11-11,Engineering,45
+TKT-000520,Payroll,Closed,2025-02-25,2025-03-14,Customer Success,17
+TKT-000641,Learning & Development,Closed,2025-10-29,2025-11-22,Customer Success,24
+TKT-000070,Onboarding,Closed,2025-03-02,2025-04-01,Data,30
+TKT-000272,HR Technology,Closed,2025-06-22,2025-09-25,Data,95
+TKT-001357,Employee Relations,Closed,2025-01-07,2025-01-26,Sales,19
+TKT-000948,Onboarding,Closed,2025-08-20,2025-09-15,Sales,26
+TKT-000722,Offboarding,Closed,2025-07-25,2025-08-12,Sales,18
+TKT-000002,Policy & Benefits,Closed,2025-10-12,2025-10-17,Data,5
+TKT-000063,Offboarding,Closed,2025-05-30,2025-06-20,Engineering,21
+TKT-001685,Employee Relations,Closed,2025-11-25,2025-12-11,Engineering,16
+TKT-000523,HR Technology,Closed,2025-10-07,2025-12-31,Data,85
+TKT-000541,Policy & Benefits,Closed,2025-08-16,2025-08-17,Product,1
+TKT-000243,HR Technology,Closed,2025-08-10,2025-10-04,Product,55
+TKT-000284,HR Technology,Closed,2025-03-05,2025-04-12,Engineering,38
+TKT-001306,Policy & Benefits,Closed,2025-08-03,2025-08-14,Engineering,11
+TKT-000682,Policy & Benefits,Closed,2025-09-24,2025-10-10,Customer Success,16
+TKT-000161,HR Technology,Closed,2025-12-16,2025-12-27,Customer Success,11
+TKT-000782,HR Technology,Closed,2025-05-31,2025-06-21,Engineering,21
+TKT-000298,Policy & Benefits,Closed,2025-07-25,2025-08-08,Engineering,14
+TKT-000488,Payroll,Closed,2025-06-08,2025-06-24,Sales,16
+TKT-000213,Employee Relations,Closed,2025-04-15,2025-04-20,Product,5
+TKT-000784,HR Technology,Closed,2025-01-28,2025-02-17,Product,20
+TKT-000131,HR Technology,Closed,2025-01-16,2025-03-22,Engineering,65
+TKT-001223,Policy & Benefits,Closed,2025-05-04,2025-05-19,Product,15
+TKT-001288,Policy & Benefits,Closed,2025-06-29,2025-07-13,Finance,14
+TKT-000031,Policy & Benefits,Closed,2025-08-13,2025-08-24,Customer Success,11
+TKT-000264,Learning & Development,Closed,2025-04-21,2025-05-14,Engineering,23
+TKT-000053,Policy & Benefits,Closed,2025-06-23,2025-07-02,Engineering,9
+TKT-001320,Learning & Development,Closed,2025-10-29,2025-12-05,Engineering,37
+TKT-001661,Onboarding,Closed,2025-09-02,2025-10-08,Engineering,36
+TKT-000885,HR Technology,Closed,2025-01-10,2025-04-11,Customer Success,91
+TKT-000877,Policy & Benefits,Closed,2025-01-08,2025-02-01,Sales,24
+TKT-001088,HR Technology,Closed,2025-01-08,2025-02-28,Customer Success,51
+TKT-000664,Payroll,Closed,2025-08-23,2025-09-11,Engineering,19
+TKT-001271,HR Technology,Closed,2025-08-21,2025-09-08,Sales,18
+TKT-001420,HR Technology,Closed,2025-09-15,2025-10-07,Engineering,22
+TKT-000453,HR Technology,Closed,2025-02-05,2025-03-01,Marketing,24
+TKT-000174,Onboarding,Closed,2025-06-22,2025-07-05,Marketing,13
+TKT-000835,Policy & Benefits,Closed,2025-01-13,2025-01-15,HR,2
+TKT-001536,HR Technology,Closed,2025-01-13,2025-01-31,Engineering,18
+TKT-000112,Payroll,Closed,2025-04-19,2025-04-24,Product,5
+TKT-002129,Policy & Benefits,Closed,2025-06-26,2025-07-02,Customer Success,6
+TKT-001260,Offboarding,Closed,2025-07-06,2025-08-02,Customer Success,27
+TKT-000140,HR Technology,Closed,2025-03-09,2025-04-16,Engineering,38
+TKT-000468,Offboarding,Closed,2025-03-05,2025-03-19,Customer Success,14
+TKT-001292,Policy & Benefits,Closed,2025-11-01,2025-11-15,Customer Success,14
+TKT-000373,Onboarding,Closed,2025-03-20,2025-04-10,Engineering,21
+TKT-001157,Learning & Development,Closed,2025-07-30,2025-08-15,Customer Success,16
+TKT-000639,HR Technology,Closed,2025-07-19,2025-09-10,Data,53
+TKT-000060,Employee Relations,Closed,2025-12-20,2025-12-31,Engineering,11
+TKT-000426,Learning & Development,Closed,2025-07-28,2025-08-20,Sales,23
+TKT-000297,Offboarding,Closed,2025-12-06,2025-12-09,Engineering,3
+TKT-000625,HR Technology,Closed,2025-02-24,2025-03-25,Data,29
+TKT-001555,Onboarding,Closed,2025-09-26,2025-10-15,Engineering,19
+TKT-000833,Learning & Development,Closed,2025-04-16,2025-06-18,Engineering,63
+TKT-000295,Onboarding,Closed,2025-01-30,2025-02-06,Engineering,7
+TKT-000457,Payroll,Closed,2025-10-17,2025-10-25,Engineering,8
+TKT-000989,Onboarding,Closed,2025-01-19,2025-02-22,HR,34
+TKT-000972,Offboarding,Closed,2025-05-22,2025-05-26,Marketing,4
+TKT-000500,Offboarding,Closed,2025-02-17,2025-03-10,Engineering,21
+TKT-001771,Policy & Benefits,Closed,2025-04-10,2025-04-15,Customer Success,5
+TKT-000167,Onboarding,Closed,2025-09-15,2025-10-14,Sales,29
+TKT-000432,Payroll,Closed,2025-07-16,2025-08-08,Engineering,23
+TKT-000715,Policy & Benefits,Closed,2025-05-28,2025-06-05,Customer Success,8
+TKT-000854,Payroll,Closed,2025-03-12,2025-04-04,Product,23
+TKT-000130,Offboarding,Closed,2025-06-13,2025-06-27,Engineering,14
+TKT-000895,Learning & Development,Closed,2025-03-27,2025-05-27,Sales,61
+TKT-000178,Policy & Benefits,Closed,2025-05-26,2025-06-01,Sales,6
+TKT-000705,HR Technology,Closed,2025-03-11,2025-06-02,Engineering,83
+TKT-001114,Learning & Development,Closed,2025-02-27,2025-03-28,Sales,29
+TKT-000802,Policy & Benefits,Closed,2025-01-09,2025-01-14,Engineering,5
+TKT-000573,HR Technology,Closed,2025-04-03,2025-06-01,Customer Success,59
+TKT-001607,HR Technology,Closed,2025-05-24,2025-06-16,Engineering,23
+TKT-000041,Learning & Development,Closed,2025-04-22,2025-06-22,Sales,61
+TKT-000393,Employee Relations,Closed,2025-05-14,2025-07-02,Customer Success,49
+TKT-001060,Learning & Development,Closed,2025-09-12,2025-09-25,Engineering,13
+TKT-000090,HR Technology,Closed,2025-06-20,2025-08-09,Customer Success,50
+TKT-000454,Employee Relations,Closed,2025-01-27,2025-03-16,Finance,48
+TKT-000428,Learning & Development,Closed,2025-11-03,2025-12-31,Customer Success,58
+TKT-000275,Policy & Benefits,Closed,2025-09-25,2025-10-17,Engineering,22
+TKT-000695,Employee Relations,Closed,2025-04-15,2025-06-08,Engineering,54
+TKT-000118,Payroll,Closed,2025-05-18,2025-05-24,Finance,6
+TKT-000616,Learning & Development,Closed,2025-01-29,2025-04-12,Data,73
+TKT-000059,Policy & Benefits,Closed,2025-04-13,2025-04-24,Data,11
+TKT-000636,Payroll,Closed,2025-05-09,2025-06-21,Engineering,43
+TKT-001417,Payroll,Closed,2025-01-06,2025-01-15,Customer Success,9
+TKT-000442,Employee Relations,Closed,2025-12-26,2025-12-31,Customer Success,5
+TKT-000009,HR Technology,Closed,2025-03-08,2025-04-23,Sales,46
+TKT-000775,Policy & Benefits,Closed,2025-10-06,2025-10-15,Data,9
+TKT-000575,Policy & Benefits,Closed,2025-03-11,2025-03-24,Engineering,13
+TKT-000894,Policy & Benefits,Closed,2025-08-03,2025-08-08,Engineering,5
+TKT-000642,HR Technology,Closed,2025-04-14,2025-06-03,Engineering,50
+TKT-000055,Payroll,Closed,2025-05-17,2025-06-29,HR,43
+TKT-000416,HR Technology,Closed,2025-07-15,2025-08-09,Engineering,25
+TKT-000210,Payroll,Closed,2025-08-14,2025-10-04,Engineering,51
+TKT-000846,Payroll,Closed,2025-06-05,2025-06-13,HR,8
+TKT-000901,Compensation,Closed,2025-01-19,2025-01-26,Product,7
+TKT-000917,HR Technology,Closed,2025-09-27,2025-12-31,Engineering,95
+TKT-001067,Onboarding,Closed,2025-03-19,2025-03-27,Data,8
+TKT-001505,Payroll,Closed,2025-04-24,2025-05-13,Engineering,19
+TKT-000617,HR Technology,Closed,2025-01-14,2025-02-06,Finance,23
+TKT-000553,Payroll,Closed,2025-01-13,2025-01-18,Engineering,5
+TKT-000132,Employee Relations,Closed,2025-05-21,2025-06-01,Engineering,11
+TKT-000529,Onboarding,Closed,2025-03-04,2025-04-03,Sales,30
+TKT-000253,Offboarding,Closed,2025-01-05,2025-01-12,Engineering,7
+TKT-000214,HR Technology,Closed,2025-06-28,2025-09-28,Data,92
+TKT-001427,Payroll,Closed,2025-04-18,2025-05-04,Sales,16
+TKT-000839,Policy & Benefits,Closed,2025-04-13,2025-04-25,Sales,12
+TKT-000133,Onboarding,Closed,2025-01-21,2025-01-30,Customer Success,9
+TKT-000867,HR Technology,Closed,2025-01-13,2025-02-04,Engineering,22
+TKT-000771,Learning & Development,Closed,2025-11-03,2025-11-12,Customer Success,9
+TKT-001072,HR Technology,Closed,2025-05-22,2025-07-09,Engineering,48
+TKT-000492,HR Technology,Closed,2025-04-29,2025-06-25,Data,57
+TKT-000644,Payroll,Closed,2025-01-01,2025-01-31,Customer Success,30
+TKT-000592,HR Technology,Closed,2025-01-08,2025-03-15,Product,66
+TKT-000571,Onboarding,Closed,2025-01-03,2025-01-07,Engineering,4
+TKT-000913,Policy & Benefits,Closed,2025-07-12,2025-07-22,Engineering,10
+TKT-000190,HR Technology,Closed,2025-12-27,2025-12-31,Engineering,4
+TKT-000656,Onboarding,Closed,2025-06-03,2025-06-07,Engineering,4
+TKT-000582,HR Technology,Closed,2025-12-28,2025-12-31,Engineering,3
+TKT-000504,Payroll,Closed,2025-12-25,2025-12-30,Customer Success,5
+TKT-000302,Policy & Benefits,Closed,2025-11-28,2025-12-01,Customer Success,3
+TKT-000619,Employee Relations,Closed,2025-01-15,2025-02-08,Sales,24
+TKT-000549,Payroll,Closed,2025-03-25,2025-04-19,Sales,25
+TKT-000532,Learning & Development,Closed,2025-12-31,2025-12-31,Sales,0
+TKT-001265,Learning & Development,Closed,2025-11-07,2025-12-31,Engineering,54
+TKT-000307,Payroll,Closed,2025-10-09,2025-11-14,Product,36
+TKT-000017,Onboarding,Closed,2025-10-21,2025-11-03,Product,13
+TKT-000866,Learning & Development,Closed,2025-01-02,2025-01-19,Engineering,17
+TKT-000371,Offboarding,Closed,2025-02-18,2025-02-26,Customer Success,8
+TKT-000077,Learning & Development,Closed,2025-07-31,2025-08-18,Customer Success,18
+TKT-000737,Learning & Development,Closed,2025-12-25,2025-12-31,Engineering,6
+TKT-000086,Policy & Benefits,Closed,2025-07-27,2025-08-06,Engineering,10
+TKT-000670,Offboarding,Closed,2025-01-15,2025-01-20,Product,5
+TKT-000095,Employee Relations,Closed,2025-12-28,2025-12-31,Engineering,3
+TKT-000968,Employee Relations,Closed,2025-05-25,2025-07-04,Product,40
+TKT-001037,Payroll,Closed,2025-07-08,2025-07-28,Finance,20
+TKT-000033,Policy & Benefits,Closed,2025-01-30,2025-02-04,Engineering,5
+TKT-001111,HR Technology,Closed,2025-11-29,2025-12-31,Engineering,32
+TKT-001645,Employee Relations,Closed,2025-05-01,2025-07-16,Engineering,76
+TKT-000544,Payroll,Closed,2025-12-03,2025-12-24,Sales,21
+TKT-000436,HR Technology,Closed,2025-04-26,2025-06-20,Customer Success,55
+TKT-000564,Policy & Benefits,Closed,2025-01-16,2025-01-28,Engineering,12
+TKT-000994,Onboarding,Closed,2025-08-24,2025-08-27,Sales,3
+TKT-001313,Onboarding,Closed,2025-04-01,2025-05-13,Engineering,42
+TKT-000514,Payroll,Closed,2025-08-22,2025-09-05,HR,14
+TKT-000350,Offboarding,Closed,2025-01-23,2025-01-28,Engineering,5
+TKT-002106,HR Technology,Closed,2025-04-26,2025-06-27,Customer Success,62
+TKT-000419,Onboarding,Closed,2025-12-28,2025-12-31,Customer Success,3
+TKT-000399,Compensation,Closed,2025-08-03,2025-08-15,Customer Success,12
+TKT-000745,Learning & Development,Closed,2025-02-28,2025-03-11,Customer Success,11
+TKT-000340,Onboarding,Closed,2025-09-14,2025-09-20,Data,6
+TKT-000268,Payroll,Closed,2025-06-17,2025-06-24,Sales,7
+TKT-000386,HR Technology,Closed,2025-02-11,2025-04-16,Data,64
+TKT-000703,HR Technology,Closed,2025-11-15,2025-12-31,Engineering,46
+TKT-000567,Onboarding,Closed,2025-11-11,2025-12-02,HR,21
+TKT-000888,Learning & Development,Closed,2025-03-03,2025-05-12,Marketing,70
+TKT-001599,Payroll,Closed,2025-03-02,2025-03-20,Customer Success,18
+TKT-000263,Onboarding,Closed,2025-03-16,2025-03-24,Engineering,8
+TKT-000157,HR Technology,Closed,2025-10-07,2025-11-10,Customer Success,34
+TKT-000791,Onboarding,Closed,2025-09-10,2025-10-11,Product,31
+TKT-000092,Learning & Development,Closed,2025-05-10,2025-05-24,Engineering,14
+TKT-000661,HR Technology,Closed,2025-09-23,2025-11-18,Sales,56
+TKT-000533,Policy & Benefits,Closed,2025-12-27,2025-12-31,Engineering,4
+TKT-001096,Learning & Development,Closed,2025-06-16,2025-09-03,Sales,79
+TKT-000364,Onboarding,Closed,2025-07-07,2025-08-04,Engineering,28
+TKT-000011,Payroll,Closed,2025-06-27,2025-07-12,Customer Success,15
+TKT-001513,Policy & Benefits,Closed,2025-11-14,2025-11-20,Engineering,6
+TKT-000339,Offboarding,Closed,2025-09-26,2025-09-29,Customer Success,3
+TKT-000064,Onboarding,Closed,2025-11-20,2025-11-26,Engineering,6
+TKT-000110,Employee Relations,Closed,2025-03-18,2025-04-15,Engineering,28
+TKT-000150,Employee Relations,Closed,2025-03-11,2025-03-29,Engineering,18
+TKT-000044,Policy & Benefits,Closed,2025-07-15,2025-07-20,Finance,5
+TKT-000505,Payroll,Closed,2025-08-21,2025-09-01,Data,11
+TKT-000586,Learning & Development,Closed,2025-11-22,2025-12-23,Engineering,31
+TKT-001091,Policy & Benefits,Closed,2025-07-20,2025-08-01,Customer Success,12
+TKT-000408,Policy & Benefits,Closed,2025-11-03,2025-11-24,Customer Success,21
+TKT-000618,HR Technology,Closed,2025-07-16,2025-09-12,Data,58
+TKT-000345,Onboarding,Closed,2025-04-09,2025-04-22,Engineering,13
+TKT-000865,Offboarding,Closed,2025-10-21,2025-11-03,Engineering,13
+TKT-000565,HR Technology,Closed,2025-02-06,2025-04-06,Engineering,59
+TKT-000391,HR Technology,Closed,2025-08-17,2025-09-18,Engineering,32
+TKT-000173,HR Technology,Closed,2025-01-19,2025-03-17,Engineering,57
+TKT-000799,Policy & Benefits,Closed,2025-08-27,2025-09-16,Product,20
+TKT-000406,Payroll,Closed,2025-07-15,2025-08-31,Data,47
+TKT-001388,Onboarding,Closed,2025-11-07,2025-11-16,Engineering,9
+TKT-000484,Payroll,Closed,2025-10-06,2025-11-01,Engineering,26
+TKT-000372,HR Technology,Closed,2025-07-10,2025-08-07,Sales,28
+TKT-000522,Onboarding,Closed,2025-10-28,2025-11-19,Engineering,22
+TKT-000749,Learning & Development,Closed,2025-07-19,2025-09-08,Engineering,51
+TKT-000516,Policy & Benefits,Closed,2025-07-03,2025-07-19,Customer Success,16
+TKT-000502,Policy & Benefits,Closed,2025-05-29,2025-06-08,Product,10
+TKT-000518,Onboarding,Closed,2025-07-12,2025-08-10,Engineering,29
+TKT-000146,Policy & Benefits,Closed,2025-08-29,2025-09-05,Engineering,7
+TKT-000596,HR Technology,Closed,2025-10-23,2025-12-01,Engineering,39
+TKT-000455,Onboarding,Closed,2025-04-30,2025-05-28,Engineering,28
+TKT-000475,Payroll,Closed,2025-04-28,2025-05-11,Sales,13
+TKT-000346,HR Technology,Closed,2025-02-18,2025-03-10,Sales,20
+TKT-000325,Onboarding,Closed,2025-07-15,2025-08-13,Sales,29
+TKT-000591,Payroll,Closed,2025-07-28,2025-08-19,Engineering,22
+TKT-000387,Learning & Development,Closed,2025-01-21,2025-02-22,Engineering,32
+TKT-000029,Compensation,Closed,2025-02-22,2025-03-19,Customer Success,25
+TKT-000736,Learning & Development,Closed,2025-09-03,2025-09-22,Engineering,19
+TKT-000018,Employee Relations,Closed,2025-03-03,2025-04-08,Engineering,36
+TKT-000878,Policy & Benefits,Closed,2025-06-20,2025-06-28,Product,8
+TKT-000973,HR Technology,Closed,2025-04-27,2025-07-01,Finance,65
+TKT-001020,Employee Relations,Closed,2025-10-11,2025-11-14,Engineering,34
+TKT-000905,Payroll,Closed,2025-01-13,2025-01-26,Engineering,13
+TKT-000256,HR Technology,Closed,2025-10-26,2025-12-31,Engineering,66
+TKT-000448,Policy & Benefits,Closed,2025-11-09,2025-11-27,Sales,18
+TKT-000823,Payroll,Closed,2025-01-30,2025-02-22,Engineering,23
+TKT-000361,Onboarding,Closed,2025-12-08,2025-12-30,HR,22
+TKT-000111,HR Technology,Closed,2025-06-18,2025-10-04,Engineering,108
+TKT-001455,Employee Relations,Closed,2025-04-16,2025-07-07,Customer Success,82
+TKT-000384,HR Technology,Closed,2025-08-03,2025-09-12,Customer Success,40
+TKT-000251,Compensation,Closed,2025-09-10,2025-09-28,Customer Success,18
+TKT-000729,Payroll,Closed,2025-08-10,2025-09-10,Customer Success,31
+TKT-000224,HR Technology,Closed,2025-05-31,2025-09-22,Data,114
+TKT-000225,HR Technology,Closed,2025-11-14,2025-12-31,Sales,47
+TKT-000050,Policy & Benefits,Closed,2025-11-30,2025-12-04,Data,4
+TKT-000689,Onboarding,Closed,2025-09-21,2025-09-26,Engineering,5
+TKT-000257,Learning & Development,Closed,2025-12-20,2025-12-31,HR,11
+TKT-000114,Learning & Development,Closed,2025-12-16,2025-12-31,Marketing,15
+TKT-001253,HR Technology,Closed,2025-06-10,2025-07-16,Customer Success,36
+TKT-000105,Policy & Benefits,Closed,2025-11-19,2025-12-06,Engineering,17
+TKT-000012,Payroll,Closed,2025-09-23,2025-10-08,Customer Success,15
+TKT-000643,Onboarding,Closed,2025-07-13,2025-07-20,Product,7
+TKT-000418,Payroll,Closed,2025-02-12,2025-02-27,Sales,15
+TKT-000321,Learning & Development,Closed,2025-01-14,2025-02-07,Engineering,24
+TKT-001474,Compensation,Closed,2025-02-10,2025-02-16,Engineering,6
+TKT-000030,Onboarding,Closed,2025-08-06,2025-08-17,Engineering,11
+TKT-000024,Payroll,Closed,2025-09-25,2025-10-02,Engineering,7
+TKT-001002,HR Technology,Closed,2025-11-17,2025-12-07,Customer Success,20
+TKT-000255,Policy & Benefits,Closed,2025-09-10,2025-09-17,Customer Success,7
+TKT-000271,Payroll,Closed,2025-08-03,2025-08-09,Engineering,6
+TKT-000281,Payroll,Closed,2025-09-28,2025-10-06,Engineering,8
+TKT-000696,Payroll,Closed,2025-02-02,2025-02-20,Product,18
+TKT-001003,Onboarding,Closed,2025-12-18,2025-12-27,Engineering,9
+TKT-000232,Payroll,Closed,2025-05-14,2025-05-20,Engineering,6
+TKT-000058,Policy & Benefits,Closed,2025-04-25,2025-05-12,Sales,17
+TKT-000367,Onboarding,Closed,2025-04-16,2025-05-13,Engineering,27
+TKT-000590,Offboarding,Closed,2025-01-31,2025-02-18,Engineering,18
+TKT-000368,Policy & Benefits,Closed,2025-05-18,2025-06-06,Customer Success,19
+TKT-000376,Onboarding,Closed,2025-06-05,2025-06-11,Product,6
+TKT-000388,Learning & Development,Closed,2025-07-19,2025-08-19,Engineering,31
+TKT-000233,Onboarding,Closed,2025-07-29,2025-08-06,Engineering,8
+TKT-000260,HR Technology,Closed,2025-04-26,2025-08-05,Engineering,101
+TKT-000223,Learning & Development,Closed,2025-01-29,2025-02-10,Engineering,12
+TKT-000760,Compensation,Closed,2025-06-27,2025-08-05,Product,39
+TKT-000602,HR Technology,Closed,2025-11-18,2025-12-31,Finance,43
+TKT-000778,Onboarding,Closed,2025-11-16,2025-11-29,Engineering,13
+TKT-000169,Payroll,Closed,2025-03-15,2025-04-05,Engineering,21
+TKT-000083,Offboarding,Closed,2025-07-14,2025-08-06,Sales,23
+TKT-000394,Policy & Benefits,Closed,2025-03-19,2025-04-05,Engineering,17
+TKT-000358,Offboarding,Closed,2025-10-11,2025-10-30,HR,19
+TKT-001334,Learning & Development,Closed,2025-07-08,2025-08-21,Customer Success,44
+TKT-000023,HR Technology,Closed,2025-10-17,2025-12-08,Customer Success,52
+TKT-000156,Onboarding,Closed,2025-05-29,2025-07-01,Customer Success,33
+TKT-000626,Learning & Development,Closed,2025-07-01,2025-08-02,Customer Success,32
+TKT-000078,Policy & Benefits,Closed,2025-01-03,2025-01-05,Sales,2
+TKT-000014,Payroll,Closed,2025-06-23,2025-08-07,Engineering,45
+TKT-001167,HR Technology,Closed,2025-12-20,2025-12-31,Customer Success,11
+TKT-000166,Employee Relations,Closed,2025-05-15,2025-05-28,Sales,13
+TKT-000144,Learning & Development,Closed,2025-05-02,2025-05-24,Engineering,22
+TKT-001430,HR Technology,Closed,2025-06-09,2025-07-05,Engineering,26
+TKT-000179,Policy & Benefits,Closed,2025-03-26,2025-04-04,Engineering,9
+TKT-000153,Onboarding,Closed,2025-02-18,2025-03-23,Product,33
+TKT-000183,Offboarding,Closed,2025-11-19,2025-11-23,Engineering,4
+TKT-000180,Onboarding,Closed,2025-12-07,2025-12-10,Engineering,3
+TKT-000202,Onboarding,Closed,2025-02-07,2025-02-12,Engineering,5
+TKT-000467,Employee Relations,Closed,2025-05-26,2025-07-18,Engineering,53
+TKT-000286,Employee Relations,Closed,2025-11-21,2025-11-29,Engineering,8
+TKT-000292,Payroll,Closed,2025-03-06,2025-03-22,Finance,16
+TKT-000170,Compensation,Closed,2025-08-05,2025-09-27,HR,53
+TKT-001249,HR Technology,Closed,2025-08-17,2025-10-09,Customer Success,53
+TKT-000296,Onboarding,Closed,2025-02-18,2025-03-03,Customer Success,13
+TKT-000123,HR Technology,Closed,2025-04-23,2025-05-24,Engineering,31
+TKT-000579,Payroll,Closed,2025-03-18,2025-04-08,Engineering,21
+TKT-000027,Compensation,Closed,2025-04-06,2025-05-20,Engineering,44
+TKT-000074,Payroll,Closed,2025-04-09,2025-04-13,Product,4
+TKT-000421,Payroll,Closed,2025-07-30,2025-09-12,Engineering,44
+TKT-000276,HR Technology,Closed,2025-01-27,2025-02-10,Engineering,14
+TKT-001151,Policy & Benefits,Closed,2025-11-18,2025-11-23,Customer Success,5
+TKT-000274,Offboarding,Closed,2025-01-31,2025-02-04,Customer Success,4
+TKT-000109,Learning & Development,Closed,2025-10-19,2025-12-26,Engineering,68
+TKT-000246,Employee Relations,Closed,2025-08-26,2025-10-19,Engineering,54
+TKT-001130,HR Technology,Closed,2025-05-31,2025-08-22,Customer Success,83
+TKT-000079,Payroll,Closed,2025-03-21,2025-03-31,Customer Success,10
+TKT-001024,Onboarding,Closed,2025-11-07,2025-12-04,Customer Success,27
+TKT-000001,Onboarding,Closed,2025-08-28,2025-09-11,,14
+TKT-000348,Policy & Benefits,Closed,2025-08-02,2025-08-23,,21
+TKT-001538,Payroll,Closed,2025-11-05,2025-11-16,,11
+TKT-001855,Payroll,Closed,2025-04-23,2025-06-12,,50
+TKT-002100,HR Technology,Closed,2025-02-07,2025-03-17,,38
+TKT-002522,Learning & Development,Closed,2025-02-13,2025-03-13,,28
+TKT-000792,Payroll,Closed,2025-02-22,2025-03-01,,7
+TKT-000993,Payroll,Closed,2025-11-06,2025-11-24,,18
+TKT-001040,Policy & Benefits,Closed,2025-07-30,2025-08-07,,8
+TKT-002059,Employee Relations,Closed,2025-04-01,2025-05-11,,40
+TKT-002163,Payroll,Closed,2025-05-28,2025-07-13,,46
+TKT-002431,Learning & Development,Closed,2025-05-23,2025-06-21,,29
+TKT-002794,HR Technology,Closed,2025-06-27,2025-07-08,,11
+TKT-000107,Offboarding,Closed,2025-05-02,2025-05-25,,23
+TKT-000163,Policy & Benefits,Closed,2025-03-25,2025-03-31,,6
+TKT-000177,Employee Relations,Closed,2025-01-25,2025-03-20,,54
+TKT-000258,Offboarding,Closed,2025-11-24,2025-12-08,,14
+TKT-000280,Offboarding,Closed,2025-06-11,2025-06-16,,5
+TKT-001061,Policy & Benefits,Closed,2025-12-09,2025-12-20,,11
+TKT-001401,HR Technology,Closed,2025-02-13,2025-02-26,,13
+TKT-002002,Onboarding,Closed,2025-11-01,2025-12-04,,33
+TKT-002255,Onboarding,Closed,2025-08-07,2025-09-03,,27
+TKT-002279,Compensation,Closed,2025-12-18,2025-12-31,,13
+TKT-002315,Onboarding,Closed,2025-01-16,2025-01-23,,7
+TKT-002422,Employee Relations,Closed,2025-08-24,2025-09-25,,32
+TKT-002689,Offboarding,Closed,2025-11-21,2025-12-04,,13
+TKT-002771,Onboarding,Closed,2025-12-20,2025-12-31,,11
+TKT-000365,Offboarding,Closed,2025-12-04,2025-12-24,,20
+TKT-002029,Learning & Development,Closed,2025-11-19,2025-12-07,,18
+TKT-002426,HR Technology,Closed,2025-10-17,2025-12-03,,47
+TKT-000073,Learning & Development,Closed,2025-07-21,2025-08-08,,18
+TKT-001073,HR Technology,Closed,2025-11-15,2025-12-10,,25
+TKT-001177,Onboarding,Closed,2025-09-19,2025-09-27,,8
+TKT-001758,HR Technology,Closed,2025-06-25,2025-07-29,,34
+TKT-001998,HR Technology,Closed,2025-02-11,2025-03-09,,26
+TKT-002067,Employee Relations,Closed,2025-09-03,2025-11-13,,71
+TKT-002119,Onboarding,Closed,2025-11-26,2025-12-13,,17
+TKT-000494,Payroll,Closed,2025-12-27,2025-12-31,,4
+TKT-001833,Payroll,Closed,2025-11-12,2025-12-27,,45
+TKT-002397,Policy & Benefits,Closed,2025-11-11,2025-11-19,,8

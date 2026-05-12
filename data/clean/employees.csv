@@ -1,0 +1,420 @@
+employee_id,first_name,last_name,email,position_id,dept,location,country,hire_date,status,termination_date,salary,manager_id,salary_outlier
+EMP-00369,Travis,Davis,travis.davis@fakeco.com,SALES-IC2,Sales,New York,US,2025-11-16,Active,,102500,EMP-00040,False
+EMP-00058,Rita,Harrell,rita.harrell@fakeco.com,ENG-IC1,Engineering,Austin,US,2025-11-08,Active,,96000,EMP-00005,False
+EMP-00423,Collin,Jordan,collin.jordan@fakeco.com,ENG-IC2,Engineering,Remote-EU,GB,2025-10-17,Active,,128000,EMP-00014,False
+EMP-00426,James,Moran,james.moran@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2025-10-05,Active,,116000,EMP-00019,False
+EMP-00421,George,Daniel,george.daniel@fakeco.com,DATA-MGR,Data,Austin,US,2025-10-02,Active,,186000,EMP-00003,False
+EMP-00239,Brandy,Dominguez,brandy.dominguez@fakeco.com,PM-SR,Product,San Francisco,US,2025-09-19,Active,,171000,EMP-00027,False
+EMP-00169,Jeffrey,Velasquez,jeffrey.velasquez@fakeco.com,ENG-SR,Engineering,Austin,US,2025-08-17,Active,,160500,EMP-00015,False
+EMP-00274,Susan,Sanders,susan.sanders@fakeco.com,DATA-SR,Data,Remote-US,US,2025-08-09,Active,,152500,EMP-00028,False
+EMP-00420,Rodney,Hill,rodney.hill@fakeco.com,ENG-IC2,Engineering,London,GB,2025-08-06,Active,,133500,EMP-00004,False
+EMP-00422,Linda,Wolfe,linda.wolfe@fakeco.com,ENG-MGR,Engineering,Remote-EU,GB,2025-07-22,Active,,199500,EMP-00002,False
+EMP-00141,Jennifer,Harris,jennifer.harris@fakeco.com,ENG-IC2,Engineering,Austin,US,2025-07-21,Active,,118500,EMP-00011,False
+EMP-00088,Lindsey,Lee,lindsey.lee@fakeco.com,ENG-IC2,Engineering,London,GB,2025-07-04,Active,,129000,EMP-00009,False
+EMP-00001,Danielle,Johnson,danielle.johnson@fakeco.com,EXEC,Executive,Remote-US,US,2025-07-03,Active,,286500,,False
+EMP-00273,Larry,Byrd,larry.byrd@fakeco.com,DATA-SR,Data,Remote-US,US,2025-06-30,Active,,143000,EMP-00028,False
+EMP-00360,Marcus,Wright,marcus.wright@fakeco.com,SALES-IC2,Sales,New York,US,2025-06-22,Active,,114500,EMP-00039,False
+EMP-00019,Maria,Montgomery,maria.montgomery@fakeco.com,ENG-MGR,Engineering,New York,US,2025-06-09,Active,,186000,,False
+EMP-00427,Elizabeth,Mcmillan,elizabeth.mcmillan@fakeco.com,ENG-IC2,Engineering,New York,US,2025-06-03,Active,,121000,EMP-00014,False
+EMP-00381,Katherine,Garrett,katherine.garrett@fakeco.com,SALES-SR,Sales,San Francisco,US,2025-05-26,Active,,143000,EMP-00043,False
+EMP-00084,John,Caldwell,john.caldwell@fakeco.com,ENG-IC1,Engineering,San Francisco,US,2025-05-11,Active,,95500,EMP-00008,False
+EMP-00258,Karen,Decker,karen.decker@fakeco.com,DATA-IC2,Data,Austin,US,2025-05-01,Active,,114000,,False
+EMP-00228,John,Walsh,john.walsh@fakeco.com,PM-IC2,Product,London,GB,2025-04-30,Active,,135500,EMP-00024,False
+EMP-00425,Daniel,Johnson,daniel.johnson@fakeco.com,DATA-SR,Data,Toronto,CA,2025-04-29,Active,,164000,EMP-00028,False
+EMP-00354,Kaitlyn,Carroll,kaitlyn.carroll@fakeco.com,SALES-IC2,Sales,London,GB,2025-04-14,Active,,104500,EMP-00040,False
+EMP-00334,Krystal,Perez,krystal.perez@fakeco.com,CS-IC2,Customer Success,Remote-US,US,2025-04-13,Active,,86500,EMP-00036,False
+EMP-00170,Steven,Torres,steven.torres@fakeco.com,ENG-SR,Engineering,Austin,US,2025-04-08,Active,,68270,EMP-00012,False
+EMP-00394,Tina,Sanchez,tina.sanchez@fakeco.com,HR-IC2,HR,Austin,US,2025-03-09,Active,,76500,EMP-00045,False
+EMP-00064,Andrew,Hickman,andrew.hickman@fakeco.com,ENG-IC1,Engineering,Austin,US,2025-03-08,Active,,103500,EMP-00009,False
+EMP-00012,Matthew,Moore,matthew.moore@fakeco.com,ENG-MGR,Engineering,Austin,US,2025-03-04,Active,,193500,EMP-00003,False
+EMP-00101,Tanya,House,tanya.house@fakeco.com,ENG-IC2,Engineering,New York,US,2025-03-03,Active,,127500,EMP-00010,False
+EMP-00186,Amanda,Ball,amanda.ball@fakeco.com,ENG-SR,Engineering,Remote-EU,GB,2025-02-28,Active,,151500,EMP-00012,False
+EMP-00325,Taylor,Alexander,taylor.alexander@fakeco.com,CS-IC2,Customer Success,New York,US,2025-02-22,Active,,86000,,False
+EMP-00250,Tanner,Anderson,tanner.anderson@fakeco.com,DATA-IC2,Data,San Francisco,US,2025-02-20,Active,,129500,,False
+EMP-00181,Jessica,Edwards,jessica.edwards@fakeco.com,ENG-SR,Engineering,Austin,US,2025-02-20,Active,,141500,EMP-00011,False
+EMP-00424,Joseph,Bowers,joseph.bowers@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2025-02-07,Active,,121500,EMP-00013,False
+EMP-00138,Dennis,Wilson,dennis.wilson@fakeco.com,ENG-IC2,Engineering,New York,US,2025-02-06,Active,,113000,EMP-00017,False
+EMP-00386,Chelsea,Allen,chelsea.allen@fakeco.com,SALES-SR,Sales,New York,US,2025-02-05,Active,,138500,EMP-00043,False
+EMP-00408,Ashley,Hall,ashley.hall@fakeco.com,MKT-IC2,Marketing,Remote-US,US,2025-01-29,Active,,81000,EMP-00048,False
+EMP-00155,Laura,Valencia,laura.valencia@fakeco.com,ENG-SR,Engineering,Remote-EU,GB,2025-01-28,Active,,170500,EMP-00011,False
+EMP-00003,Jill,Rhodes,jill.rhodes@fakeco.com,EXEC,Executive,London,GB,2025-01-28,Active,,302500,,False
+EMP-00198,Aaron,Mitchell,aaron.mitchell@fakeco.com,ENG-STAFF,Engineering,Austin,US,2025-01-25,Active,,198000,EMP-00021,False
+EMP-00335,Alexandra,Hayes,alexandra.hayes@fakeco.com,CS-IC2,Customer Success,Austin,US,2025-01-13,Active,,86500,EMP-00036,False
+EMP-00264,Stefanie,Gonzalez,stefanie.gonzalez@fakeco.com,DATA-IC2,Data,Remote-EU,GB,2025-01-04,Active,,128000,EMP-00028,False
+EMP-00227,Thomas,Green,thomas.green@fakeco.com,PM-IC2,Product,Remote-US,US,2025-01-02,Active,,123500,EMP-00027,False
+EMP-00344,Brittney,Carter,brittney.carter@fakeco.com,SALES-IC2,Sales,Remote-EU,GB,2025-01-01,Active,,110000,EMP-00041,False
+EMP-00355,Keith,Martinez,keith.martinez@fakeco.com,SALES-IC2,Sales,Remote-US,US,2024-12-29,Active,,111500,EMP-00041,False
+EMP-00237,Robert,Clark,robert.clark@fakeco.com,PM-SR,Product,Remote-EU,GB,2024-12-22,Active,,160500,EMP-00025,False
+EMP-00293,Nicole,Sanchez,nicole.sanchez@fakeco.com,CS-IC1,Customer Success,New York,US,2024-12-19,Active,,66500,EMP-00038,False
+EMP-00305,Christopher,Walker,christopher.walker@fakeco.com,CS-IC1,Customer Success,New York,US,2024-12-15,Active,,66500,EMP-00032,False
+EMP-00398,Joshua,Tyler,joshua.tyler@fakeco.com,HR-IC2,HR,New York,US,2024-12-10,Active,,76500,EMP-00045,False
+EMP-00142,Cynthia,Baker,cynthia.baker@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2024-12-09,Active,,135000,EMP-00008,False
+EMP-00176,Tina,Herrera,tina.herrera@fakeco.com,ENG-SR,Engineering,Toronto,CA,2024-12-02,Active,,166500,EMP-00006,False
+EMP-00266,David,Caldwell,david.caldwell@fakeco.com,DATA-IC2,Data,Austin,US,2024-11-26,Active,,131500,EMP-00029,False
+EMP-00039,Robin,Ellis,robin.ellis@fakeco.com,SALES-MGR,Sales,Remote-US,US,2024-11-16,Active,,169500,EMP-00003,False
+EMP-00412,Elizabeth,Hoover,elizabeth.hoover@fakeco.com,MKT-IC2,Marketing,Remote-US,US,2024-11-15,Active,,81500,EMP-00048,False
+EMP-00080,Jerry,Robinson,jerry.robinson@fakeco.com,ENG-IC1,Engineering,New York,US,2024-11-12,Active,,107500,EMP-00004,False
+EMP-00075,James,Collins,james.collins@fakeco.com,ENG-IC1,Engineering,London,GB,2024-11-06,Active,,91000,EMP-00007,False
+EMP-00401,Justin,Evans,justin.evans@fakeco.com,FIN-IC2,Finance,New York,US,2024-11-04,Active,,85000,EMP-00047,False
+EMP-00209,John,Alvarez,john.alvarez@fakeco.com,ENG-STAFF,Engineering,Remote-US,US,2024-11-03,Active,,189500,EMP-00020,False
+EMP-00361,Christopher,Hayden,christopher.hayden@fakeco.com,SALES-IC2,Sales,Remote-EU,GB,2024-11-01,Active,,101500,EMP-00041,False
+EMP-00362,Mary,Johnston,mary.johnston@fakeco.com,SALES-IC2,Sales,Remote-US,US,2024-10-30,Active,,108500,EMP-00042,False
+EMP-00232,Joseph,Flores,joseph.flores@fakeco.com,PM-IC2,Product,London,GB,2024-10-24,Active,,129500,EMP-00025,False
+EMP-00393,Joshua,Davenport,joshua.davenport@fakeco.com,HR-IC2,HR,Toronto,CA,2024-10-24,Active,,76000,EMP-00044,False
+EMP-00220,Stephen,Solis,stephen.solis@fakeco.com,PM-IC2,Product,Austin,US,2024-10-22,Active,,137500,EMP-00025,False
+EMP-00320,Amanda,Hill,amanda.hill@fakeco.com,CS-IC2,Customer Success,New York,US,2024-10-19,Active,,85500,,False
+EMP-00281,Ross,Wood,ross.wood@fakeco.com,CS-IC1,Customer Success,New York,US,2024-10-16,Active,,65500,EMP-00032,False
+EMP-00346,Jacqueline,Gibson,jacqueline.gibson@fakeco.com,SALES-IC2,Sales,Remote-US,US,2024-10-07,Active,,99000,EMP-00040,False
+EMP-00076,Wanda,Santos,wanda.santos@fakeco.com,ENG-IC1,Engineering,Remote-US,US,2024-10-06,Active,,94500,EMP-00007,False
+EMP-00302,Tracy,Chang,tracy.chang@fakeco.com,CS-IC1,Customer Success,London,GB,2024-10-05,Active,,66500,EMP-00032,False
+EMP-00034,Jeremy,Johnson,jeremy.johnson@fakeco.com,CS-MGR,Customer Success,New York,US,2024-09-27,Active,,123000,EMP-00001,True
+EMP-00144,Meghan,Davis,meghan.davis@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2024-09-24,Active,,122000,EMP-00007,False
+EMP-00347,Grace,Bradshaw,grace.bradshaw@fakeco.com,SALES-IC2,Sales,Remote-EU,GB,2024-09-21,Active,,104000,EMP-00043,False
+EMP-00314,Jacob,Robinson,jacob.robinson@fakeco.com,CS-IC2,Customer Success,Toronto,CA,2024-09-12,Active,,87500,EMP-00031,False
+EMP-00331,Anna,Torres,anna.torres@fakeco.com,CS-IC2,Customer Success,San Francisco,US,2024-09-11,Active,,51166,,False
+EMP-00193,Richard,Phillips,richard.phillips@fakeco.com,ENG-SR,Engineering,Remote-US,US,2024-09-08,Active,,160500,,False
+EMP-00309,Julie,Rivera,julie.rivera@fakeco.com,CS-IC1,Customer Success,Remote-US,US,2024-09-07,Active,,66000,EMP-00038,False
+EMP-00342,Glenn,Jones,glenn.jones@fakeco.com,SALES-IC2,Sales,New York,US,2024-09-01,Active,,100000,EMP-00039,False
+EMP-00298,Matthew,Beard,matthew.beard@fakeco.com,CS-IC1,Customer Success,New York,US,2024-08-30,Active,,65500,EMP-00036,False
+EMP-00194,David,Fisher,david.fisher@fakeco.com,ENG-SR,Engineering,London,GB,2024-08-30,Active,,162000,EMP-00018,False
+EMP-00049,Wendy,Rice,wendy.rice@fakeco.com,MKT-MGR,Marketing,Remote-EU,GB,2024-08-18,Active,,125500,EMP-00002,True
+EMP-00104,Richard,Brown,richard.brown@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2024-08-16,Active,,127500,EMP-00013,False
+EMP-00093,Richard,Morgan,richard.morgan@fakeco.com,ENG-IC2,Engineering,Austin,US,2024-08-15,Active,,122000,EMP-00011,False
+EMP-00111,Tanya,Riley,tanya.riley@fakeco.com,ENG-IC2,Engineering,New York,US,2024-08-07,Active,,113500,,False
+EMP-00077,Samuel,Holmes,samuel.holmes@fakeco.com,ENG-IC1,Engineering,Remote-US,US,2024-08-01,Active,,99500,EMP-00010,False
+EMP-00202,Thomas,Santana,thomas.santana@fakeco.com,ENG-STAFF,Engineering,Remote-US,US,2024-08-01,Active,,206500,EMP-00018,False
+EMP-00085,Jason,Anderson,jason.anderson@fakeco.com,ENG-IC2,Engineering,London,GB,2024-07-24,Active,,120500,EMP-00005,False
+EMP-00267,Anne,Robinson,anne.robinson@fakeco.com,DATA-IC2,Data,Austin,US,2024-07-22,Active,,127500,EMP-00029,False
+EMP-00400,William,Hoover,william.hoover@fakeco.com,FIN-IC2,Finance,Remote-US,US,2024-07-19,Active,,86500,EMP-00047,False
+EMP-00300,Alejandro,Vaughan,alejandro.vaughan@fakeco.com,CS-IC1,Customer Success,Remote-US,US,2024-07-18,Active,,66000,EMP-00032,False
+EMP-00024,Craig,Ramirez,craig.ramirez@fakeco.com,PM-MGR,Product,San Francisco,US,2024-07-13,Active,,213500,EMP-00003,False
+EMP-00018,Nicholas,Arnold,nicholas.arnold@fakeco.com,ENG-MGR,Engineering,Remote-US,US,2024-07-12,Active,,186000,EMP-00003,False
+EMP-00091,Jessica,Nunez,jessica.nunez@fakeco.com,ENG-IC2,Engineering,Remote-EU,GB,2024-07-09,Active,,131000,EMP-00005,False
+EMP-00241,Omar,Smith,omar.smith@fakeco.com,PM-SR,Product,Remote-US,US,2024-06-30,Active,,169000,EMP-00024,False
+EMP-00125,Emily,Evans,emily.evans@fakeco.com,ENG-IC2,Engineering,Austin,US,2024-06-28,Active,,128500,EMP-00006,False
+EMP-00004,Patricia,Miller,patricia.miller@fakeco.com,ENG-MGR,Engineering,Austin,US,2024-06-27,Active,,192000,EMP-00001,False
+EMP-00259,Johnny,Miller,johnny.miller@fakeco.com,DATA-IC2,Data,Austin,US,2024-06-24,Active,,125500,EMP-00029,False
+EMP-00087,Thomas,Mueller,thomas.mueller@fakeco.com,ENG-IC2,Engineering,London,GB,2024-06-22,Active,,118500,EMP-00008,False
+EMP-00406,Stanley,Morris,stanley.morris@fakeco.com,FIN-IC2,Finance,Remote-EU,GB,2024-06-22,Active,,86000,EMP-00046,False
+EMP-00037,Nancy,Edwards,nancy.edwards@fakeco.com,CS-MGR,Customer Success,New York,US,2024-06-17,Active,,121500,EMP-00002,True
+EMP-00114,Wesley,Farrell,wesley.farrell@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2024-06-13,Active,,127500,EMP-00016,False
+EMP-00117,Brooke,Leonard,brooke.leonard@fakeco.com,ENG-IC2,Engineering,Austin,US,2024-06-07,Active,,131500,EMP-00018,False
+EMP-00415,Brittany,Kane,brittany.kane@fakeco.com,MKT-IC2,Marketing,Remote-EU,GB,2024-06-06,Active,,81500,EMP-00049,False
+EMP-00078,David,Walker,david.walker@fakeco.com,ENG-IC1,Engineering,San Francisco,US,2024-06-05,Active,,104500,EMP-00012,False
+EMP-00173,Mark,Lin,mark.lin@fakeco.com,ENG-SR,Engineering,Toronto,CA,2024-06-04,Active,,169500,EMP-00009,False
+EMP-00373,Keith,Landry,keith.landry@fakeco.com,SALES-SR,Sales,Toronto,CA,2024-06-02,Active,,123500,EMP-00042,False
+EMP-00248,Matthew,Shelton,matthew.shelton@fakeco.com,DATA-IC2,Data,Remote-EU,GB,2024-05-29,Active,,131000,EMP-00029,False
+EMP-00158,Kimberly,Henson,kimberly.henson@fakeco.com,ENG-SR,Engineering,New York,US,2024-05-28,Active,,155000,,False
+EMP-00067,Natalie,Arroyo,natalie.arroyo@fakeco.com,ENG-IC1,Engineering,New York,US,2024-05-25,Active,,100000,EMP-00020,False
+EMP-00022,Jeremy,Roberts,jeremy.roberts@fakeco.com,PM-MGR,Product,San Francisco,US,2024-05-21,Active,,189000,EMP-00003,False
+EMP-00180,Daniel,Hamilton,daniel.hamilton@fakeco.com,ENG-SR,Engineering,Remote-US,US,2024-05-21,Active,,148000,EMP-00010,False
+EMP-00303,Hannah,Brewer,hannah.brewer@fakeco.com,CS-IC1,Customer Success,Remote-US,US,2024-05-13,Active,,66500,EMP-00031,False
+EMP-00131,Nicole,Suarez,nicole.suarez@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2024-05-12,Active,,125000,,False
+EMP-00207,Emily,Walker,emily.walker@fakeco.com,ENG-STAFF,Engineering,San Francisco,US,2024-05-11,Active,,215500,EMP-00013,False
+EMP-00122,Alexandra,Donovan,alexandra.donovan@fakeco.com,ENG-IC2,Engineering,Remote-EU,GB,2024-05-07,Active,,130000,EMP-00011,False
+EMP-00006,Jeffery,Wagner,jeffery.wagner@fakeco.com,ENG-MGR,Engineering,San Francisco,US,2024-05-06,Active,,200000,EMP-00001,False
+EMP-00294,Steven,Bishop,steven.bishop@fakeco.com,CS-IC1,Customer Success,Austin,US,2024-05-05,Active,,65500,EMP-00036,False
+EMP-00094,Michelle,Wright,michelle.wright@fakeco.com,ENG-IC2,Engineering,Toronto,CA,2024-05-05,Active,,127500,EMP-00006,False
+EMP-00333,Kathy,Obrien,kathy.obrien@fakeco.com,CS-IC2,Customer Success,New York,US,2024-05-01,Active,,119158,,True
+EMP-00109,Angela,Higgins,angela.higgins@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2024-04-30,Active,,127500,EMP-00009,False
+EMP-00308,Alyssa,Coleman,alyssa.coleman@fakeco.com,CS-IC1,Customer Success,Remote-US,US,2024-04-23,Active,,65000,EMP-00033,False
+EMP-00030,Frank,Gray,frank.gray@fakeco.com,DATA-MGR,Data,New York,US,2024-04-19,Active,,171000,EMP-00003,False
+EMP-00249,Richard,Martin,richard.martin@fakeco.com,DATA-IC2,Data,Toronto,CA,2024-04-17,Active,,132500,EMP-00029,False
+EMP-00211,Robert,Soto,robert.soto@fakeco.com,ENG-STAFF,Engineering,New York,US,2024-04-13,Active,,207500,EMP-00004,False
+EMP-00129,Charles,Lewis,charles.lewis@fakeco.com,ENG-IC2,Engineering,Toronto,CA,2024-04-13,Active,,123000,EMP-00004,False
+EMP-00307,Bonnie,Kennedy,bonnie.kennedy@fakeco.com,CS-IC1,Customer Success,Austin,US,2024-04-10,Active,,65500,EMP-00031,False
+EMP-00416,Morgan,Alexander,morgan.alexander@fakeco.com,MKT-IC2,Marketing,Austin,US,2024-04-09,Active,,81500,EMP-00049,False
+EMP-00306,Heather,Torres,heather.torres@fakeco.com,CS-IC1,Customer Success,San Francisco,US,2024-04-02,Active,,65500,EMP-00038,False
+EMP-00204,Christopher,Robertson,christopher.robertson@fakeco.com,ENG-STAFF,Engineering,Remote-US,US,2024-03-31,Active,,184000,EMP-00011,False
+EMP-00301,Christopher,Cortez,christopher.cortez@fakeco.com,CS-IC1,Customer Success,Austin,US,2024-03-30,Active,,65500,EMP-00036,False
+EMP-00410,Julie,Thornton,julie.thornton@fakeco.com,MKT-IC2,Marketing,Austin,US,2024-03-24,Active,,80000,EMP-00048,False
+EMP-00340,Jared,Clark,jared.clark@fakeco.com,SALES-IC2,Sales,Remote-US,US,2024-03-11,Active,,97500,EMP-00042,False
+EMP-00388,Andrea,Davis,andrea.davis@fakeco.com,SALES-SR,Sales,Austin,US,2024-03-11,Active,,135500,EMP-00041,False
+EMP-00375,Shawn,Edwards,shawn.edwards@fakeco.com,SALES-SR,Sales,Remote-US,US,2024-03-06,Active,,126000,EMP-00043,False
+EMP-00268,Holly,Wang,holly.wang@fakeco.com,DATA-SR,Data,Austin,US,2024-03-05,Active,,172500,EMP-00028,False
+EMP-00124,John,Foster,john.foster@fakeco.com,ENG-IC2,Engineering,New York,US,2024-03-02,Active,,133000,EMP-00013,False
+EMP-00345,Jesse,Mann,jesse.mann@fakeco.com,SALES-IC2,Sales,Austin,US,2024-03-01,Active,,109500,EMP-00043,False
+EMP-00007,Anthony,Gonzalez,anthony.gonzalez@fakeco.com,ENG-MGR,Engineering,Remote-US,US,2024-02-26,Active,,181000,EMP-00001,False
+EMP-00411,Lisa,Hughes,lisa.hughes@fakeco.com,MKT-IC2,Marketing,Remote-US,US,2024-02-21,Active,,82000,EMP-00049,False
+EMP-00319,Harry,Smith,harry.smith@fakeco.com,CS-IC2,Customer Success,London,GB,2024-02-16,Active,,87000,EMP-00034,False
+EMP-00276,Hannah,Burton,hannah.burton@fakeco.com,DATA-SR,Data,San Francisco,US,2024-02-01,Active,,159000,EMP-00029,False
+EMP-00245,Amy,Morrison,amy.morrison@fakeco.com,PM-SR,Product,Austin,US,2024-01-29,Active,,154000,EMP-00025,False
+EMP-00247,Ryan,Johnson,ryan.johnson@fakeco.com,PM-SR,Product,London,GB,2024-01-27,Active,,162500,EMP-00026,False
+EMP-00407,Jacob,Terry,jacob.terry@fakeco.com,FIN-IC2,Finance,Remote-US,US,2024-01-24,Active,,87000,EMP-00047,False
+EMP-00253,Anthony,Day,anthony.day@fakeco.com,DATA-IC2,Data,Austin,US,2024-01-24,Active,,129500,EMP-00030,False
+EMP-00263,Denise,Webster,denise.webster@fakeco.com,DATA-IC2,Data,Austin,US,2024-01-22,Active,,124000,EMP-00029,False
+EMP-00149,Ronald,Smith,ronald.smith@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2024-01-22,Active,,125000,EMP-00021,False
+EMP-00288,Joseph,Morton,joseph.morton@fakeco.com,CS-IC1,Customer Success,Remote-US,US,2024-01-20,Active,,65500,,False
+EMP-00286,Jasmine,Graham,jasmine.graham@fakeco.com,CS-IC1,Customer Success,Remote-US,US,2024-01-18,Active,,65500,EMP-00036,False
+EMP-00136,Lisa,Evans,lisa.evans@fakeco.com,ENG-IC2,Engineering,Austin,US,2024-01-12,Active,,120000,EMP-00009,False
+EMP-00008,Debra,Gardner,debra.gardner@fakeco.com,ENG-MGR,Engineering,Austin,US,2024-01-11,Active,,187000,EMP-00002,False
+EMP-00223,Patricia,Salazar,patricia.salazar@fakeco.com,PM-IC2,Product,Remote-EU,GB,2024-01-11,Active,,127000,EMP-00027,False
+EMP-00177,Sheila,Wilson,sheila.wilson@fakeco.com,ENG-SR,Engineering,Remote-US,US,2024-01-10,Active,,171500,,False
+EMP-00231,Chris,Mitchell,chris.mitchell@fakeco.com,PM-IC2,Product,Remote-US,US,2024-01-08,Active,,133000,EMP-00022,False
+EMP-00372,Mark,Steele,mark.steele@fakeco.com,SALES-IC2,Sales,Remote-US,US,2023-12-29,Active,,104500,EMP-00043,False
+EMP-00134,Cheryl,Archer,cheryl.archer@fakeco.com,ENG-IC2,Engineering,Austin,US,2023-12-25,Active,,126000,,False
+EMP-00068,Christopher,Tucker,christopher.tucker@fakeco.com,ENG-IC1,Engineering,New York,US,2023-12-23,Active,,100000,EMP-00014,False
+EMP-00174,Tammy,Ramirez,tammy.ramirez@fakeco.com,ENG-SR,Engineering,Remote-EU,GB,2023-12-17,Active,,147500,EMP-00007,False
+EMP-00199,Russell,Carpenter,russell.carpenter@fakeco.com,ENG-STAFF,Engineering,Toronto,CA,2023-12-13,Active,,205500,EMP-00007,False
+EMP-00162,Lisa,Keith,lisa.keith@fakeco.com,ENG-SR,Engineering,New York,US,2023-12-13,Active,,154000,EMP-00006,False
+EMP-00392,Jennifer,Hicks,jennifer.hicks@fakeco.com,HR-IC2,HR,Remote-US,US,2023-12-10,Active,,76000,EMP-00044,False
+EMP-00126,Leslie,Walton,leslie.walton@fakeco.com,ENG-IC2,Engineering,Austin,US,2023-12-09,Active,,125500,EMP-00010,False
+EMP-00050,Tasha,Valencia,tasha.valencia@fakeco.com,ENG-IC1,Engineering,New York,US,2023-12-04,Active,,103500,EMP-00017,False
+EMP-00304,Travis,Mcguire,travis.mcguire@fakeco.com,CS-IC1,Customer Success,Remote-US,US,2023-12-01,Active,,65500,EMP-00038,False
+EMP-00246,Jeffrey,Robinson,jeffrey.robinson@fakeco.com,PM-SR,Product,New York,US,2023-11-29,Active,,156000,,False
+EMP-00313,Amanda,Gill,amanda.gill@fakeco.com,CS-IC2,Customer Success,Remote-US,US,2023-11-26,Active,,85500,EMP-00037,False
+EMP-00066,Kyle,Brown,kyle.brown@fakeco.com,ENG-IC1,Engineering,Remote-US,US,2023-11-25,Active,,98500,EMP-00005,False
+EMP-00366,Thomas,Pearson,thomas.pearson@fakeco.com,SALES-IC2,Sales,Austin,US,2023-11-24,Active,,110500,EMP-00039,False
+EMP-00150,Charles,Ware,charles.ware@fakeco.com,ENG-SR,Engineering,Austin,US,2023-11-24,Active,,160000,,False
+EMP-00079,Matthew,Chapman,matthew.chapman@fakeco.com,ENG-IC1,Engineering,Austin,US,2023-11-19,Active,,94500,EMP-00005,False
+EMP-00389,Victoria,Durham,victoria.durham@fakeco.com,SALES-SR,Sales,Remote-US,US,2023-11-16,Active,,144000,EMP-00042,False
+EMP-00135,Destiny,Smith,destiny.smith@fakeco.com,ENG-IC2,Engineering,Austin,US,2023-11-13,Active,,132500,EMP-00004,False
+EMP-00229,Katie,Boyd,katie.boyd@fakeco.com,PM-IC2,Product,New York,US,2023-11-10,Active,,125500,EMP-00024,False
+EMP-00226,Phyllis,Manning,phyllis.manning@fakeco.com,PM-IC2,Product,Remote-US,US,2023-11-06,Active,,121500,EMP-00023,False
+EMP-00357,Sherri,Mason,sherri.mason@fakeco.com,SALES-IC2,Sales,Austin,US,2023-11-02,Active,,115000,EMP-00043,False
+EMP-00219,John,Charles,john.charles@fakeco.com,PM-IC2,Product,London,GB,2023-10-30,Active,,130500,EMP-00022,False
+EMP-00402,Brenda,Duarte,brenda.duarte@fakeco.com,FIN-IC2,Finance,London,GB,2023-10-24,Active,,85000,EMP-00046,False
+EMP-00212,James,Horton,james.horton@fakeco.com,ENG-STAFF,Engineering,London,GB,2023-10-22,Active,,204500,EMP-00019,False
+EMP-00053,Joseph,Davidson,joseph.davidson@fakeco.com,ENG-IC1,Engineering,Austin,US,2023-10-19,Active,,96500,EMP-00010,False
+EMP-00043,Reginald,Robinson,reginald.robinson@fakeco.com,SALES-MGR,Sales,London,GB,2023-10-16,Active,,164000,,False
+EMP-00236,Rick,Daniels,rick.daniels@fakeco.com,PM-SR,Product,Remote-US,US,2023-10-09,Active,,158500,,False
+EMP-00278,Melissa,Burke,melissa.burke@fakeco.com,DATA-SR,Data,San Francisco,US,2023-10-07,Active,,170500,EMP-00030,False
+EMP-00017,Amanda,Dudley,amanda.dudley@fakeco.com,ENG-MGR,Engineering,New York,US,2023-10-02,Active,,184500,EMP-00003,False
+EMP-00118,Joe,Wilson,joe.wilson@fakeco.com,ENG-IC2,Engineering,Austin,US,2023-09-29,Active,,125500,EMP-00018,False
+EMP-00172,Andrew,Lee,andrew.lee@fakeco.com,ENG-SR,Engineering,Remote-US,US,2023-09-23,Active,,159000,EMP-00004,False
+EMP-00195,Shelby,Byrd,shelby.byrd@fakeco.com,ENG-SR,Engineering,Toronto,CA,2023-09-22,Active,,158000,EMP-00019,False
+EMP-00182,Catherine,Dixon,catherine.dixon@fakeco.com,ENG-SR,Engineering,Remote-US,US,2023-09-22,Active,,145000,,False
+EMP-00255,Brent,Gray,brent.gray@fakeco.com,DATA-IC2,Data,Remote-US,US,2023-09-20,Active,,127000,,False
+EMP-00121,Robert,Silva,robert.silva@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2023-09-16,Active,,121000,EMP-00009,False
+EMP-00377,Richard,Robertson,richard.robertson@fakeco.com,SALES-SR,Sales,Toronto,CA,2023-09-11,Active,,132000,EMP-00042,False
+EMP-00057,Vincent,White,vincent.white@fakeco.com,ENG-IC1,Engineering,San Francisco,US,2023-09-07,Active,,103500,EMP-00009,False
+EMP-00047,Laura,Henderson,laura.henderson@fakeco.com,FIN-MGR,Finance,New York,US,2023-09-02,Active,,132000,EMP-00001,True
+EMP-00038,Diana,Foster,diana.foster@fakeco.com,CS-MGR,Customer Success,Austin,US,2023-09-01,Active,,120000,EMP-00001,True
+EMP-00060,Chelsea,Hernandez,chelsea.hernandez@fakeco.com,ENG-IC1,Engineering,Remote-US,US,2023-08-31,Active,,92500,EMP-00021,False
+EMP-00224,Jennifer,Wagner,jennifer.wagner@fakeco.com,PM-IC2,Product,London,GB,2023-08-30,Active,,130500,EMP-00027,False
+EMP-00160,Eric,Spears,eric.spears@fakeco.com,ENG-SR,Engineering,Remote-US,US,2023-08-29,Active,,166000,EMP-00011,False
+EMP-00161,Michelle,Cherry,michelle.cherry@fakeco.com,ENG-SR,Engineering,Remote-US,US,2023-08-26,Active,,167000,EMP-00019,False
+EMP-00189,Elizabeth,Rivera,elizabeth.rivera@fakeco.com,ENG-SR,Engineering,San Francisco,US,2023-08-22,Active,,148000,EMP-00012,False
+EMP-00385,David,Dudley,david.dudley@fakeco.com,SALES-SR,Sales,San Francisco,US,2023-08-17,Active,,152000,EMP-00040,False
+EMP-00329,Charles,Soto,charles.soto@fakeco.com,CS-IC2,Customer Success,Remote-US,US,2023-08-12,Active,,87500,,False
+EMP-00359,Bill,Reynolds,bill.reynolds@fakeco.com,SALES-IC2,Sales,Austin,US,2023-08-11,Active,,100500,EMP-00042,False
+EMP-00071,Thomas,Pierce,thomas.pierce@fakeco.com,ENG-IC1,Engineering,Remote-US,US,2023-08-06,Active,,91500,EMP-00006,False
+EMP-00327,Shelley,Woods,shelley.woods@fakeco.com,CS-IC2,Customer Success,Remote-US,US,2023-08-05,Active,,86000,EMP-00032,False
+EMP-00032,Angela,Cohen,angela.cohen@fakeco.com,CS-MGR,Customer Success,Remote-US,US,2023-08-04,Active,,120500,EMP-00003,True
+EMP-00405,Andrea,Daniels,andrea.daniels@fakeco.com,FIN-IC2,Finance,Remote-EU,GB,2023-08-02,Active,,85500,EMP-00046,False
+EMP-00380,Jacob,Cox,jacob.cox@fakeco.com,SALES-SR,Sales,London,GB,2023-07-25,Active,,157000,EMP-00041,False
+EMP-00368,Brenda,Walters,brenda.walters@fakeco.com,SALES-IC2,Sales,Austin,US,2023-07-25,Active,,100500,EMP-00043,False
+EMP-00159,Richard,Oliver,richard.oliver@fakeco.com,ENG-SR,Engineering,Remote-US,US,2023-07-23,Active,,152500,EMP-00012,False
+EMP-00413,Tina,Simpson,tina.simpson@fakeco.com,MKT-IC2,Marketing,Remote-EU,GB,2023-07-21,Active,,81000,EMP-00048,False
+EMP-00332,Victoria,Wilson,victoria.wilson@fakeco.com,CS-IC2,Customer Success,Toronto,CA,2023-07-13,Active,,86500,,False
+EMP-00371,Elizabeth,Hodge,elizabeth.hodge@fakeco.com,SALES-IC2,Sales,Austin,US,2023-07-10,Active,,105000,EMP-00041,False
+EMP-00275,Jennifer,Jones,jennifer.jones@fakeco.com,DATA-SR,Data,Remote-US,US,2023-07-10,Active,,162500,EMP-00028,False
+EMP-00040,Joseph,Wright,joseph.wright@fakeco.com,SALES-MGR,Sales,Austin,US,2023-07-08,Active,,172500,EMP-00003,False
+EMP-00397,Natasha,Shields,natasha.shields@fakeco.com,HR-IC2,HR,Remote-US,US,2023-07-06,Active,,76000,EMP-00044,False
+EMP-00163,Angel,Doyle,angel.doyle@fakeco.com,ENG-SR,Engineering,San Francisco,US,2023-07-04,Active,,158500,EMP-00015,False
+EMP-00200,Diana,Marshall,diana.marshall@fakeco.com,ENG-STAFF,Engineering,Remote-US,US,2023-06-18,Active,,202500,EMP-00004,False
+EMP-00073,Rodney,Lewis,rodney.lewis@fakeco.com,ENG-IC1,Engineering,San Francisco,US,2023-06-17,Active,,94500,EMP-00009,False
+EMP-00213,Troy,Sanchez,troy.sanchez@fakeco.com,PM-IC2,Product,Remote-US,US,2023-06-16,Active,,129500,EMP-00024,False
+EMP-00185,Aaron,Frost,aaron.frost@fakeco.com,ENG-SR,Engineering,San Francisco,US,2023-06-15,Active,,163000,EMP-00010,False
+EMP-00364,Emily,Adams,emily.adams@fakeco.com,SALES-IC2,Sales,Remote-EU,GB,2023-06-09,Active,,109000,EMP-00040,False
+EMP-00208,James,Johnson,james.johnson@fakeco.com,ENG-STAFF,Engineering,New York,US,2023-06-06,Active,,202000,EMP-00019,False
+EMP-00081,Chad,Welch,chad.welch@fakeco.com,ENG-IC1,Engineering,Remote-US,US,2023-06-05,Active,,96500,EMP-00009,False
+EMP-00086,Selena,Duncan,selena.duncan@fakeco.com,ENG-IC2,Engineering,New York,US,2023-05-24,Active,,132500,EMP-00007,False
+EMP-00289,Amanda,Webb,amanda.webb@fakeco.com,CS-IC1,Customer Success,Remote-US,US,2023-05-22,Active,,65500,EMP-00031,False
+EMP-00322,Heidi,Martinez,heidi.martinez@fakeco.com,CS-IC2,Customer Success,San Francisco,US,2023-05-19,Active,,86500,EMP-00038,False
+EMP-00418,Jennifer,Ortiz,jennifer.ortiz@fakeco.com,MKT-IC2,Marketing,Remote-EU,GB,2023-05-19,Active,,82000,EMP-00049,False
+EMP-00148,Joyce,Arnold,joyce.arnold@fakeco.com,ENG-IC2,Engineering,Remote-EU,GB,2023-05-16,Active,,114500,EMP-00007,False
+EMP-00156,Rachel,Clark,rachel.clark@fakeco.com,ENG-SR,Engineering,Remote-US,US,2023-05-10,Active,,163500,EMP-00011,False
+EMP-00048,Bryan,James,bryan.james@fakeco.com,MKT-MGR,Marketing,London,GB,2023-05-09,Active,,126500,EMP-00003,True
+EMP-00292,Mariah,Miller,mariah.miller@fakeco.com,CS-IC1,Customer Success,New York,US,2023-04-29,Active,,65500,EMP-00035,False
+EMP-00061,Kathryn,Ryan,kathryn.ryan@fakeco.com,ENG-IC1,Engineering,Toronto,CA,2023-04-27,Active,,98000,EMP-00010,False
+EMP-00107,Spencer,Henderson,spencer.henderson@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2023-04-26,Active,,127500,EMP-00010,False
+EMP-00417,Alicia,Bryant,alicia.bryant@fakeco.com,MKT-IC2,Marketing,Remote-US,US,2023-04-25,Active,,80500,EMP-00048,False
+EMP-00337,Veronica,Torres,veronica.torres@fakeco.com,CS-IC2,Customer Success,New York,US,2023-04-22,Active,,85500,,False
+EMP-00062,Kimberly,Moreno,kimberly.moreno@fakeco.com,ENG-IC1,Engineering,Austin,US,2023-04-20,Active,,97500,EMP-00014,False
+EMP-00044,Whitney,Hicks,whitney.hicks@fakeco.com,HR-MGR,HR,New York,US,2023-04-14,Active,,110500,EMP-00001,True
+EMP-00316,Tiffany,Warren,tiffany.warren@fakeco.com,CS-IC2,Customer Success,New York,US,2023-04-13,Active,,86500,EMP-00032,False
+EMP-00167,Kristin,Rodriguez,kristin.rodriguez@fakeco.com,ENG-SR,Engineering,New York,US,2023-04-12,Active,,166000,,False
+EMP-00271,Lori,Oconnell,lori.oconnell@fakeco.com,DATA-SR,Data,Remote-EU,GB,2023-04-03,Active,,153000,EMP-00028,False
+EMP-00027,Joseph,Zuniga,joseph.zuniga@fakeco.com,PM-MGR,Product,San Francisco,US,2023-04-03,Active,,194500,EMP-00001,False
+EMP-00097,John,Leblanc,john.leblanc@fakeco.com,ENG-IC2,Engineering,Austin,US,2023-04-02,Active,,122500,EMP-00012,False
+EMP-00282,William,Peterson,william.peterson@fakeco.com,CS-IC1,Customer Success,San Francisco,US,2023-04-01,Active,,65500,EMP-00036,False
+EMP-00035,Leslie,Adams,leslie.adams@fakeco.com,CS-MGR,Customer Success,London,GB,2023-03-29,Active,,121500,,True
+EMP-00016,Lindsay,Blair,lindsay.blair@fakeco.com,ENG-MGR,Engineering,Remote-US,US,2023-03-14,Active,,181500,EMP-00003,False
+EMP-00256,Jason,Murphy,jason.murphy@fakeco.com,DATA-IC2,Data,New York,US,2023-03-13,Active,,127500,EMP-00030,False
+EMP-00112,Amy,Adkins,amy.adkins@fakeco.com,ENG-IC2,Engineering,Toronto,CA,2023-03-11,Active,,130000,EMP-00011,False
+EMP-00242,Michael,Molina,michael.molina@fakeco.com,PM-SR,Product,Remote-US,US,2023-02-24,Active,,166000,EMP-00023,False
+EMP-00201,Scott,Lewis,scott.lewis@fakeco.com,ENG-STAFF,Engineering,San Francisco,US,2023-02-22,Active,,205000,EMP-00010,False
+EMP-00323,Miranda,Henry,miranda.henry@fakeco.com,CS-IC2,Customer Success,London,GB,2023-02-15,Active,,85500,EMP-00036,False
+EMP-00113,Brian,Silva,brian.silva@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2023-02-11,Active,,119500,EMP-00018,False
+EMP-00225,Maria,Kelley,maria.kelley@fakeco.com,PM-IC2,Product,Austin,US,2023-02-09,Active,,139000,EMP-00026,False
+EMP-00324,Monique,Andrews,monique.andrews@fakeco.com,CS-IC2,Customer Success,San Francisco,US,2023-02-08,Active,,87000,EMP-00032,False
+EMP-00318,James,Perez,james.perez@fakeco.com,CS-IC2,Customer Success,Austin,US,2023-02-06,Active,,86500,,False
+EMP-00014,Christopher,Davis,christopher.davis@fakeco.com,ENG-MGR,Engineering,New York,US,2023-02-02,Active,,187000,EMP-00002,False
+EMP-00151,Rebecca,Gardner,rebecca.gardner@fakeco.com,ENG-SR,Engineering,Toronto,CA,2023-02-02,Active,,168500,EMP-00017,False
+EMP-00033,Megan,Parsons,megan.parsons@fakeco.com,CS-MGR,Customer Success,New York,US,2023-01-28,Active,,122000,EMP-00003,True
+EMP-00376,Marcus,Cordova,marcus.cordova@fakeco.com,SALES-SR,Sales,New York,US,2023-01-22,Active,,148500,EMP-00043,False
+EMP-00265,Andrew,Hernandez,andrew.hernandez@fakeco.com,DATA-IC2,Data,London,GB,2023-01-19,Active,,115000,EMP-00030,False
+EMP-00244,Robert,Adkins,robert.adkins@fakeco.com,PM-SR,Product,London,GB,2023-01-16,Active,,159000,EMP-00022,False
+EMP-00206,Loretta,Potter,loretta.potter@fakeco.com,ENG-STAFF,Engineering,Toronto,CA,2023-01-14,Active,,194000,EMP-00018,False
+EMP-00222,Caitlin,Dodson,caitlin.dodson@fakeco.com,PM-IC2,Product,Remote-US,US,2023-01-11,Active,,137000,EMP-00026,False
+EMP-00005,Robert,Johnson,robert.johnson@fakeco.com,ENG-MGR,Engineering,Austin,US,2023-01-11,Active,,191000,,False
+EMP-00140,Joseph,Jacobs,joseph.jacobs@fakeco.com,ENG-IC2,Engineering,Remote-EU,GB,2023-01-08,Active,,129500,EMP-00006,False
+EMP-00055,Shawn,Mckay,shawn.mckay@fakeco.com,ENG-IC1,Engineering,Austin,US,2023-01-07,Active,,98000,EMP-00021,False
+EMP-00217,Gregory,Rubio,gregory.rubio@fakeco.com,PM-IC2,Product,Remote-EU,GB,2023-01-07,Active,,123500,,False
+EMP-00021,Janet,Williams,janet.williams@fakeco.com,ENG-MGR,Engineering,New York,US,2023-01-02,Active,,188000,EMP-00003,False
+EMP-00321,Terri,Tran,terri.tran@fakeco.com,CS-IC2,Customer Success,Remote-US,US,2023-01-02,Active,,85500,EMP-00033,False
+EMP-00338,Christine,Lynch,christine.lynch@fakeco.com,CS-IC2,Customer Success,New York,US,2023-01-01,Active,,57659,EMP-00036,False
+EMP-00296,Melissa,White,melissa.white@fakeco.com,CS-IC1,Customer Success,Remote-US,US,2022-12-29,Active,,66500,,False
+EMP-00102,Melinda,Martin,melinda.martin@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2022-12-20,Active,,117500,EMP-00014,False
+EMP-00370,Michael,Cook,michael.cook@fakeco.com,SALES-IC2,Sales,San Francisco,US,2022-12-19,Active,,96000,EMP-00043,False
+EMP-00233,Amber,Taylor,amber.taylor@fakeco.com,PM-SR,Product,San Francisco,US,2022-12-15,Active,,172000,EMP-00024,False
+EMP-00103,Todd,Lewis,todd.lewis@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2022-12-14,Active,,122000,EMP-00013,False
+EMP-00341,Donna,Moore,donna.moore@fakeco.com,SALES-IC2,Sales,Austin,US,2022-12-09,Active,,105000,EMP-00043,False
+EMP-00015,Melanie,Munoz,melanie.munoz@fakeco.com,ENG-MGR,Engineering,New York,US,2022-12-09,Active,,194500,EMP-00002,False
+EMP-00260,Andrew,Ryan,andrew.ryan@fakeco.com,DATA-IC2,Data,San Francisco,US,2022-12-09,Active,,129000,EMP-00029,False
+EMP-00192,Kyle,Ortiz,kyle.ortiz@fakeco.com,ENG-SR,Engineering,Toronto,CA,2022-12-06,Active,,154500,EMP-00004,False
+EMP-00108,Susan,Cowan,susan.cowan@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2022-11-30,Active,,125000,EMP-00018,False
+EMP-00234,Jesse,Benson,jesse.benson@fakeco.com,PM-SR,Product,London,GB,2022-11-27,Active,,155000,EMP-00025,False
+EMP-00132,Mike,Moore,mike.moore@fakeco.com,ENG-IC2,Engineering,New York,US,2022-11-25,Active,,123500,EMP-00016,False
+EMP-00243,Melissa,Ashley,melissa.ashley@fakeco.com,PM-SR,Product,Remote-US,US,2022-11-22,Active,,154000,,False
+EMP-00188,Michael,Jones,michael.jones@fakeco.com,ENG-SR,Engineering,Austin,US,2022-11-09,Active,,164500,EMP-00018,False
+EMP-00166,Lisa,Adams,lisa.adams@fakeco.com,ENG-SR,Engineering,Toronto,CA,2022-11-06,Active,,152500,EMP-00021,False
+EMP-00059,Kenneth,Fowler,kenneth.fowler@fakeco.com,ENG-IC1,Engineering,New York,US,2022-10-26,Active,,101000,EMP-00018,False
+EMP-00203,Laura,Jackson,laura.jackson@fakeco.com,ENG-STAFF,Engineering,San Francisco,US,2022-10-24,Active,,192500,EMP-00013,False
+EMP-00283,Melissa,Short,melissa.short@fakeco.com,CS-IC1,Customer Success,Austin,US,2022-10-18,Active,,66500,,False
+EMP-00297,Jason,Salinas,jason.salinas@fakeco.com,CS-IC1,Customer Success,Austin,US,2022-10-16,Active,,65500,EMP-00031,False
+EMP-00164,Martin,Galvan,martin.galvan@fakeco.com,ENG-SR,Engineering,New York,US,2022-10-16,Active,,154500,EMP-00021,False
+EMP-00183,Paul,Ray,paul.ray@fakeco.com,ENG-SR,Engineering,Remote-US,US,2022-10-15,Active,,159000,,False
+EMP-00045,Christopher,Williams,christopher.williams@fakeco.com,HR-MGR,HR,Austin,US,2022-10-07,Active,,110000,EMP-00001,True
+EMP-00414,Benjamin,Shaw,benjamin.shaw@fakeco.com,MKT-IC2,Marketing,New York,US,2022-10-05,Active,,81000,EMP-00048,False
+EMP-00099,Andrea,Williams,andrea.williams@fakeco.com,ENG-IC2,Engineering,New York,US,2022-10-05,Active,,111000,EMP-00010,False
+EMP-00403,Tracy,Hernandez,tracy.hernandez@fakeco.com,FIN-IC2,Finance,Remote-US,US,2022-10-04,Active,,86500,EMP-00047,False
+EMP-00146,Adam,Wise,adam.wise@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2022-09-25,Active,,116000,EMP-00016,False
+EMP-00348,Kristin,Weber,kristin.weber@fakeco.com,SALES-IC2,Sales,New York,US,2022-09-17,Active,,116500,EMP-00042,False
+EMP-00165,Leah,Shields,leah.shields@fakeco.com,ENG-SR,Engineering,New York,US,2022-09-14,Active,,156000,EMP-00012,False
+EMP-00291,Joseph,Christian,joseph.christian@fakeco.com,CS-IC1,Customer Success,London,GB,2022-09-14,Active,,67000,EMP-00037,False
+EMP-00251,Cindy,Johnson,cindy.johnson@fakeco.com,DATA-IC2,Data,London,GB,2022-09-08,Active,,137000,,False
+EMP-00390,Steven,Wilson,steven.wilson@fakeco.com,SALES-SR,Sales,San Francisco,US,2022-09-04,Active,,151500,,False
+EMP-00285,Cynthia,Poole,cynthia.poole@fakeco.com,CS-IC1,Customer Success,San Francisco,US,2022-08-30,Active,,65500,EMP-00038,False
+EMP-00154,Kyle,Nolan,kyle.nolan@fakeco.com,ENG-SR,Engineering,San Francisco,US,2022-08-27,Active,,154500,EMP-00018,False
+EMP-00374,Lisa,Pierce,lisa.pierce@fakeco.com,SALES-SR,Sales,New York,US,2022-08-24,Active,,143000,,False
+EMP-00152,Mary,Aguilar,mary.aguilar@fakeco.com,ENG-SR,Engineering,San Francisco,US,2022-08-22,Active,,174500,,False
+EMP-00130,Joseph,Mahoney,joseph.mahoney@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2022-08-21,Active,,130500,EMP-00017,False
+EMP-00190,Lee,Charles,lee.charles@fakeco.com,ENG-SR,Engineering,London,GB,2022-08-21,Active,,162000,EMP-00005,False
+EMP-00002,Joshua,Walker,joshua.walker@fakeco.com,EXEC,Executive,New York,US,2022-08-17,Active,,327500,,False
+EMP-00179,Sydney,Baker,sydney.baker@fakeco.com,ENG-SR,Engineering,Remote-US,US,2022-08-11,Active,,173500,EMP-00005,False
+EMP-00299,Jacqueline,Hill,jacqueline.hill@fakeco.com,CS-IC1,Customer Success,Austin,US,2022-08-09,Active,,67000,,False
+EMP-00261,Zoe,Bell,zoe.bell@fakeco.com,DATA-IC2,Data,San Francisco,US,2022-08-07,Active,,118500,EMP-00030,False
+EMP-00311,John,Martinez,john.martinez@fakeco.com,CS-IC1,Customer Success,San Francisco,US,2022-08-07,Active,,66000,EMP-00032,False
+EMP-00317,Justin,Garcia,justin.garcia@fakeco.com,CS-IC2,Customer Success,London,GB,2022-07-31,Active,,85500,EMP-00037,False
+EMP-00023,Christopher,Hall,christopher.hall@fakeco.com,PM-MGR,Product,Remote-US,US,2022-07-29,Active,,193500,EMP-00003,False
+EMP-00349,Donna,Peck,donna.peck@fakeco.com,SALES-IC2,Sales,New York,US,2022-07-26,Active,,104000,EMP-00043,False
+EMP-00171,Laura,Perez,laura.perez@fakeco.com,ENG-SR,Engineering,Remote-US,US,2022-07-18,Active,,149000,EMP-00008,False
+EMP-00041,Anna,Baker,anna.baker@fakeco.com,SALES-MGR,Sales,London,GB,2022-07-14,Active,,174000,EMP-00001,False
+EMP-00025,Cynthia,Diaz,cynthia.diaz@fakeco.com,PM-MGR,Product,San Francisco,US,2022-07-13,Active,,204500,EMP-00003,False
+EMP-00356,Haley,Lyons,haley.lyons@fakeco.com,SALES-IC2,Sales,New York,US,2022-06-29,Active,,101000,EMP-00039,False
+EMP-00128,Yolanda,Ferrell,yolanda.ferrell@fakeco.com,ENG-IC2,Engineering,Remote-EU,GB,2022-06-24,Active,,123000,EMP-00004,False
+EMP-00143,Tracy,Whitehead,tracy.whitehead@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2022-06-21,Active,,118500,EMP-00018,False
+EMP-00409,Kimberly,Williams,kimberly.williams@fakeco.com,MKT-IC2,Marketing,San Francisco,US,2022-06-17,Active,,82000,EMP-00049,False
+EMP-00147,Dana,Green,dana.green@fakeco.com,ENG-IC2,Engineering,Austin,US,2022-06-11,Active,,132000,EMP-00011,False
+EMP-00215,Karen,Carrillo,karen.carrillo@fakeco.com,PM-IC2,Product,New York,US,2022-06-05,Active,,119500,EMP-00025,False
+EMP-00378,Vanessa,Sandoval,vanessa.sandoval@fakeco.com,SALES-SR,Sales,Austin,US,2022-06-03,Active,,139000,EMP-00040,False
+EMP-00365,Billy,Avila,billy.avila@fakeco.com,SALES-IC2,Sales,San Francisco,US,2022-06-03,Active,,100500,EMP-00043,False
+EMP-00352,Margaret,Jones,margaret.jones@fakeco.com,SALES-IC2,Sales,Remote-US,US,2022-05-30,Active,,105000,EMP-00042,False
+EMP-00382,Kathleen,Harris,kathleen.harris@fakeco.com,SALES-SR,Sales,New York,US,2022-05-25,Active,,149500,EMP-00041,False
+EMP-00221,Elizabeth,Travis,elizabeth.travis@fakeco.com,PM-IC2,Product,Austin,US,2022-05-24,Active,,126000,EMP-00023,False
+EMP-00090,Rodney,Owens,rodney.owens@fakeco.com,ENG-IC2,Engineering,New York,US,2022-05-12,Active,,117000,EMP-00011,False
+EMP-00184,Jonathan,Fletcher,jonathan.fletcher@fakeco.com,ENG-SR,Engineering,London,GB,2022-05-11,Active,,162500,EMP-00011,False
+EMP-00210,Melissa,Jones,melissa.jones@fakeco.com,ENG-STAFF,Engineering,New York,US,2022-05-11,Active,,198500,EMP-00017,False
+EMP-00252,Phillip,Elliott,phillip.elliott@fakeco.com,DATA-IC2,Data,New York,US,2022-05-05,Active,,112500,EMP-00030,False
+EMP-00379,Amy,Gutierrez,amy.gutierrez@fakeco.com,SALES-SR,Sales,New York,US,2022-05-04,Active,,150500,EMP-00041,False
+EMP-00026,Mitchell,Clark,mitchell.clark@fakeco.com,PM-MGR,Product,Remote-US,US,2022-05-02,Active,,193500,EMP-00001,False
+EMP-00230,Courtney,Hill,courtney.hill@fakeco.com,PM-IC2,Product,Remote-US,US,2022-05-01,Active,,123500,EMP-00025,False
+EMP-00383,Andrea,Pennington,andrea.pennington@fakeco.com,SALES-SR,Sales,New York,US,2022-04-17,Active,,138500,,False
+EMP-00052,Erin,Herrera,erin.herrera@fakeco.com,ENG-IC1,Engineering,Remote-US,US,2022-04-15,Active,,91000,EMP-00016,False
+EMP-00116,Christopher,Lopez,christopher.lopez@fakeco.com,ENG-IC2,Engineering,New York,US,2022-04-07,Active,,128500,EMP-00017,False
+EMP-00009,Jeffrey,Lawrence,jeffrey.lawrence@fakeco.com,ENG-MGR,Engineering,Remote-US,US,2022-04-01,Active,,195500,EMP-00002,False
+EMP-00328,Lynn,Morales,lynn.morales@fakeco.com,CS-IC2,Customer Success,San Francisco,US,2022-03-26,Active,,86500,EMP-00031,False
+EMP-00175,Darlene,Ross,darlene.ross@fakeco.com,ENG-SR,Engineering,Austin,US,2022-03-23,Active,,173500,EMP-00005,False
+EMP-00353,Gabriel,Parker,gabriel.parker@fakeco.com,SALES-IC2,Sales,Toronto,CA,2022-03-11,Active,,110500,EMP-00042,False
+EMP-00074,Amber,Blair,amber.blair@fakeco.com,ENG-IC1,Engineering,Austin,US,2022-03-11,Active,,94500,EMP-00020,False
+EMP-00092,Tracey,Garcia,tracey.garcia@fakeco.com,ENG-IC2,Engineering,New York,US,2022-03-03,Active,,132500,EMP-00018,False
+EMP-00387,Eric,Pierce,eric.pierce@fakeco.com,SALES-SR,Sales,Remote-US,US,2022-02-27,Active,,141000,EMP-00042,False
+EMP-00254,Derek,Murray,derek.murray@fakeco.com,DATA-IC2,Data,Remote-US,US,2022-02-27,Active,,135000,EMP-00029,False
+EMP-00187,Judy,Lambert,judy.lambert@fakeco.com,ENG-SR,Engineering,Remote-US,US,2022-02-23,Active,,172000,EMP-00013,False
+EMP-00269,Gary,Lawson,gary.lawson@fakeco.com,DATA-SR,Data,New York,US,2022-02-10,Active,,158500,EMP-00030,False
+EMP-00287,Jessica,Sheppard,jessica.sheppard@fakeco.com,CS-IC1,Customer Success,Austin,US,2022-02-06,Active,,65000,EMP-00038,False
+EMP-00326,Jack,Williams,jack.williams@fakeco.com,CS-IC2,Customer Success,Austin,US,2022-02-06,Active,,85000,EMP-00031,False
+EMP-00168,Monica,Garrison,monica.garrison@fakeco.com,ENG-SR,Engineering,Toronto,CA,2022-02-04,Active,,155500,EMP-00013,False
+EMP-00127,Charles,Ellis,charles.ellis@fakeco.com,ENG-IC2,Engineering,Austin,US,2022-02-03,Active,,123000,EMP-00017,False
+EMP-00310,Jacqueline,Nelson,jacqueline.nelson@fakeco.com,CS-IC1,Customer Success,San Francisco,US,2022-02-02,Active,,66500,EMP-00034,False
+EMP-00262,Debra,Harrington,debra.harrington@fakeco.com,DATA-IC2,Data,Remote-US,US,2022-02-01,Active,,127000,EMP-00029,False
+EMP-00083,Michele,Jones,michele.jones@fakeco.com,ENG-IC1,Engineering,Remote-US,US,2022-01-30,Active,,98500,EMP-00008,False
+EMP-00367,Sabrina,White,sabrina.white@fakeco.com,SALES-IC2,Sales,Austin,US,2022-01-26,Active,,105000,EMP-00042,False
+EMP-00095,James,West,james.west@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2022-01-09,Active,,122000,EMP-00016,False
+EMP-00279,David,Riggs,david.riggs@fakeco.com,DATA-SR,Data,Toronto,CA,2022-01-01,Active,,156000,EMP-00028,False
+EMP-00157,John,Garcia,john.garcia@fakeco.com,ENG-SR,Engineering,Austin,US,2021-12-23,Active,,152000,EMP-00014,False
+EMP-00404,Amanda,Reed,amanda.reed@fakeco.com,FIN-IC2,Finance,London,GB,2021-12-22,Active,,87000,,False
+EMP-00336,Scott,Dalton,scott.dalton@fakeco.com,CS-IC2,Customer Success,New York,US,2021-12-21,Active,,87500,EMP-00035,False
+EMP-00013,Susan,Rogers,susan.rogers@fakeco.com,ENG-MGR,Engineering,Toronto,CA,2021-12-12,Active,,199500,EMP-00002,False
+EMP-00196,Raven,Gilbert,raven.gilbert@fakeco.com,ENG-SR,Engineering,Remote-US,US,2021-12-06,Active,,234428,,False
+EMP-00046,Daniel,Burton,daniel.burton@fakeco.com,FIN-MGR,Finance,London,GB,2021-12-02,Active,,130000,EMP-00001,True
+EMP-00115,Eric,Yu,eric.yu@fakeco.com,ENG-IC2,Engineering,London,GB,2021-11-30,Active,,183053,EMP-00004,False
+EMP-00028,Deborah,Lynch,deborah.lynch@fakeco.com,DATA-MGR,Data,Toronto,CA,2021-11-29,Active,,163000,EMP-00002,False
+EMP-00312,James,Wilson,james.wilson@fakeco.com,CS-IC2,Customer Success,London,GB,2021-11-25,Active,,86500,EMP-00038,False
+EMP-00270,Julie,Wilson,julie.wilson@fakeco.com,DATA-SR,Data,New York,US,2021-11-06,Active,,154000,EMP-00030,False
+EMP-00290,Ryan,Simon,ryan.simon@fakeco.com,CS-IC1,Customer Success,San Francisco,US,2021-10-27,Active,,67000,EMP-00032,False
+EMP-00054,Daniel,Graham,daniel.graham@fakeco.com,ENG-IC1,Engineering,San Francisco,US,2021-10-25,Active,,90000,EMP-00012,False
+EMP-00031,Veronica,Bowman,veronica.bowman@fakeco.com,CS-MGR,Customer Success,Toronto,CA,2021-10-21,Active,,121000,EMP-00001,True
+EMP-00036,Jason,Hahn,jason.hahn@fakeco.com,CS-MGR,Customer Success,London,GB,2021-10-13,Active,,122500,EMP-00001,True
+EMP-00072,Joseph,Brennan,joseph.brennan@fakeco.com,ENG-IC1,Engineering,London,GB,2021-10-12,Active,,95500,EMP-00015,False
+EMP-00358,Troy,Miller,troy.miller@fakeco.com,SALES-IC2,Sales,Remote-EU,GB,2021-09-27,Active,,114500,EMP-00040,False
+EMP-00284,Daniel,Yu,daniel.yu@fakeco.com,CS-IC1,Customer Success,San Francisco,US,2021-09-18,Active,,66000,EMP-00034,False
+EMP-00065,Natasha,Decker,natasha.decker@fakeco.com,ENG-IC1,Engineering,Austin,US,2021-09-12,Active,,94000,EMP-00016,False
+EMP-00384,Samuel,Wolfe,samuel.wolfe@fakeco.com,SALES-SR,Sales,Remote-US,US,2021-08-30,Active,,137500,EMP-00042,False
+EMP-00330,Brian,Hernandez,brian.hernandez@fakeco.com,CS-IC2,Customer Success,Austin,US,2021-08-17,Active,,86000,EMP-00038,False
+EMP-00105,Nicholas,Galloway,nicholas.galloway@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2021-08-06,Active,,127000,EMP-00016,False
+EMP-00363,Stephanie,Key,stephanie.key@fakeco.com,SALES-IC2,Sales,Remote-US,US,2021-07-28,Active,,93000,EMP-00042,False
+EMP-00120,Brooke,Harvey,brooke.harvey@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2021-07-25,Active,,124000,EMP-00020,False
+EMP-00257,Kathleen,Gray,kathleen.gray@fakeco.com,DATA-IC2,Data,Remote-EU,GB,2021-07-17,Active,,121500,EMP-00030,False
+EMP-00280,Kimberly,Reed,kimberly.reed@fakeco.com,CS-IC1,Customer Success,San Francisco,US,2021-07-16,Active,,65000,EMP-00032,False
+EMP-00240,Melissa,Cannon,melissa.cannon@fakeco.com,PM-SR,Product,Toronto,CA,2021-07-13,Active,,167500,EMP-00027,False
+EMP-00216,Daniel,Coleman,daniel.coleman@fakeco.com,PM-IC2,Product,San Francisco,US,2021-07-05,Active,,128000,EMP-00027,False
+EMP-00020,Michelle,Ray,michelle.ray@fakeco.com,ENG-MGR,Engineering,Austin,US,2021-07-05,Active,,191500,EMP-00002,False
+EMP-00399,Robert,Villa,robert.villa@fakeco.com,HR-IC2,HR,San Francisco,US,2021-07-04,Active,,75000,EMP-00045,False
+EMP-00133,Martha,Warner,martha.warner@fakeco.com,ENG-IC2,Engineering,Remote-EU,GB,2021-06-15,Active,,137000,EMP-00009,False
+EMP-00153,Earl,Anderson,earl.anderson@fakeco.com,ENG-SR,Engineering,Remote-US,US,2021-06-15,Active,,166500,EMP-00012,False
+EMP-00315,Todd,Hardy,todd.hardy@fakeco.com,CS-IC2,Customer Success,Remote-EU,GB,2021-06-14,Active,,85000,EMP-00038,False
+EMP-00010,Lisa,Smith,lisa.smith@fakeco.com,ENG-MGR,Engineering,Austin,US,2021-06-06,Active,,246643,EMP-00003,True
+EMP-00056,Nancy,Baker,nancy.baker@fakeco.com,ENG-IC1,Engineering,Toronto,CA,2021-05-23,Active,,138663,,False
+EMP-00069,Chad,Hodges,chad.hodges@fakeco.com,ENG-IC1,Engineering,San Francisco,US,2021-05-14,Active,,105500,EMP-00013,False
+EMP-00339,Jody,Meza,jody.meza@fakeco.com,CS-IC2,Customer Success,Remote-US,US,2021-04-11,Active,,86000,EMP-00033,False
+EMP-00100,Yvette,Huff,yvette.huff@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2021-04-03,Active,,129000,EMP-00021,False
+EMP-00082,Jeremy,Whitehead,jeremy.whitehead@fakeco.com,ENG-IC1,Engineering,Austin,US,2021-03-15,Active,,100000,EMP-00004,False
+EMP-00197,Kevin,Kelley,kevin.kelley@fakeco.com,ENG-SR,Engineering,New York,US,2021-03-14,Active,,168000,EMP-00019,False
+EMP-00277,Curtis,Barton,curtis.barton@fakeco.com,DATA-SR,Data,San Francisco,US,2021-03-13,Active,,145000,EMP-00029,False
+EMP-00351,Deborah,Kerr,deborah.kerr@fakeco.com,SALES-IC2,Sales,New York,US,2021-03-07,Active,,117500,EMP-00040,False
+EMP-00419,Diana,Moore,diana.moore@fakeco.com,MKT-IC2,Marketing,Austin,US,2021-03-01,Active,,82000,EMP-00048,False
+EMP-00396,Sandra,Romero,sandra.romero@fakeco.com,HR-IC2,HR,Remote-US,US,2021-02-28,Active,,75500,,False
+EMP-00395,Andrea,Reyes,andrea.reyes@fakeco.com,HR-IC2,HR,New York,US,2021-02-25,Active,,75000,EMP-00045,False
+EMP-00119,Pamela,Sanchez,pamela.sanchez@fakeco.com,ENG-IC2,Engineering,Remote-US,US,2021-02-23,Active,,133000,EMP-00021,False
+EMP-00139,Daniel,Tran,daniel.tran@fakeco.com,ENG-IC2,Engineering,Austin,US,2021-02-15,Active,,120000,,False
+EMP-00110,Eric,Phillips,eric.phillips@fakeco.com,ENG-IC2,Engineering,Austin,US,2021-02-14,Active,,120500,EMP-00014,False
+EMP-00063,Aaron,Nguyen,aaron.nguyen@fakeco.com,ENG-IC1,Engineering,Austin,US,2021-01-06,Active,,90000,EMP-00020,False
+EMP-00191,Jennifer,Evans,jennifer.evans@fakeco.com,ENG-SR,Engineering,Austin,US,2021-01-01,Active,,168500,EMP-00004,False
+EMP-00218,April,Williams,april.williams@fakeco.com,PM-IC2,Product,Austin,US,2020-12-15,Active,,127000,EMP-00022,False
+EMP-00350,Ronald,Stephens,ronald.stephens@fakeco.com,SALES-IC2,Sales,New York,US,2020-12-14,Active,,110000,EMP-00043,False
+EMP-00096,Robert,Ramirez,robert.ramirez@fakeco.com,ENG-IC2,Engineering,Austin,US,2020-11-19,Active,,119000,EMP-00004,False
+EMP-00295,Nicholas,Johnson,nicholas.johnson@fakeco.com,CS-IC1,Customer Success,Remote-EU,GB,2020-10-26,Active,,66500,EMP-00037,False
+EMP-00391,Marilyn,Jimenez,marilyn.jimenez@fakeco.com,HR-IC2,HR,New York,US,2020-09-22,Active,,77000,EMP-00045,False
+EMP-00214,Diana,Smith,diana.smith@fakeco.com,PM-IC2,Product,London,GB,2020-09-17,Active,,125500,EMP-00024,False
+EMP-00098,Scott,Callahan,scott.callahan@fakeco.com,ENG-IC2,Engineering,San Francisco,US,2020-08-24,Active,,117000,,False
+EMP-00051,Alexander,Le,alexander.le@fakeco.com,ENG-IC1,Engineering,Remote-US,US,2020-08-24,Active,,90500,EMP-00005,False
+EMP-00235,Jasmine,Brown,jasmine.brown@fakeco.com,PM-SR,Product,Toronto,CA,2020-07-28,Active,,158500,EMP-00025,False
+EMP-00178,Tara,White,tara.white@fakeco.com,ENG-SR,Engineering,London,GB,2020-07-07,Active,,155500,,False
+EMP-00205,Cynthia,Rogers,cynthia.rogers@fakeco.com,ENG-STAFF,Engineering,Austin,US,2020-06-15,Active,,219500,EMP-00017,False
+EMP-00238,Robert,Stein,robert.stein@fakeco.com,PM-SR,Product,Remote-US,US,2020-06-10,Active,,158500,EMP-00024,False
+EMP-00042,Brenda,Hurst,brenda.hurst@fakeco.com,SALES-MGR,Sales,New York,US,2020-05-11,Active,,173500,EMP-00003,False
+EMP-00070,Katie,Anderson,katie.anderson@fakeco.com,ENG-IC1,Engineering,San Francisco,US,2020-03-16,Active,,109000,EMP-00004,False
+EMP-00343,Aaron,Hayes,aaron.hayes@fakeco.com,SALES-IC2,Sales,Austin,US,2020-01-12,Active,,98500,EMP-00042,False
